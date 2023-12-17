@@ -316,6 +316,32 @@ def generate_prompt17(task_id, input, attachment, promptId, comment=""):
         print(INSTRUCTION)
     return INSTRUCTION
 
+def generate_prompt18(task_id, input, attachment, promptId, comment=""):
+    print(task_id)
+    INSTRUCTION = ""
+    # 词性_prefix编号
+    if promptId == 0:
+        if attachment:
+            _, _, end = getCommit(input)
+            input = input[:end] + f"""\n
+    KeyWords: {attachment}\n
+""" + input[end:]
+            INSTRUCTION = f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{input}\n\n### Response:
+"""
+
+        else:
+            INSTRUCTION = f"""
+{input}
+"""
+    elif promptId == 1:
+        # baseline
+        INSTRUCTION = f"""
+{input}
+"""
+    if task_id == "HumanEval/0":
+        print(INSTRUCTION)
+    return INSTRUCTION
+
 # 获取不同模板的实现拼接函数
 def get_generate_prompt(template_id):
     print("get template" + str(template_id))
@@ -383,6 +409,7 @@ def get_gpt_results(model_name, language, word_extract, template_id, result_path
 # 指定对比的模板id，以及所需要的分词结果后缀
 def experiment_execute(model_name_list, languages, word_extract_list, template_id_list, result_path, chat_number=1, remark="", wordNum=100, promptId=0):
     threads = []
+    # 如果采用的是多线程，需要在第一个线程加载完参数以后（等待一定时间），在执行后续操作
     # flag = False
     for model_name in model_name_list:
         for language in languages:

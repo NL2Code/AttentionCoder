@@ -32,5 +32,6 @@ if __name__ == '__main__':
         dict(method="textRank", suffix="_9_NP_VP")
     ]
 
-    # attention抽取方法对比，抽取方法包括：
-    experiment_execute(model_name_list, ["Spanish"], word_extract, [0], "results/test/", chat_number=1)
+    # 0: baseline; 18: 添加了attention的优化
+    # 如果需要使用多线程，需要在experiment_execute.py的experiment_execute函数中修改flag控制以及时间等待
+    experiment_execute(model_name_list, ["Spanish"], word_extract, [0, 18], "results/test/", chat_number=1)
