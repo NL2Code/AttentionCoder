@@ -1,0 +1,124 @@
+python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-4-6013_humanEval_Chinese_text_rank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-4-6013_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-4-6013_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-4-6013_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-4-6013_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-4-6013_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-4-6013_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-4-6013_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-4-6013_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-4-0613_humanEval_Chinese_textRank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-15B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template9_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template17_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template0.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template0_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template0_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_English_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Chinese_textRank__9_NP_VP_template0_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_French_textRank__9_NP_VP_template0.jsonl --out_path=results/test/WizardCoder-7B_humanEval_French_textRank__9_NP_VP_template0_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_French_textRank__9_NP_VP_template0_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_French_textRank__9_NP_VP_template7.jsonl --out_path=results/test/WizardCoder-7B_humanEval_French_textRank__9_NP_VP_template7_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_French_textRank__9_NP_VP_template7_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+python process_humaneval.py --path=results/test/WizardCoder-7B_humanEval_Spanish_textRank__9_NP_VP_template0.jsonl --out_path=results/test/WizardCoder-7B_humanEval_Spanish_textRank__9_NP_VP_template0_processed.jsonl
+evaluate_functional_correctness results/test/WizardCoder-7B_humanEval_Spanish_textRank__9_NP_VP_template0_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl

@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": ""}
+{"task_id": "HumanEval/1", "keyWords": "\u5165\u529b\u6587\u5b57\u5217\u5185"}
+{"task_id": "HumanEval/2", "keyWords": "\u6d6e\u52d5\u5c0f\u6570\u70b9\u6570, \u6574\u6570\u90e8(\u6700\u5927, \u5c0f\u3055\u3044)\u3002\u6570\u5024"}
+{"task_id": "HumanEval/3", "keyWords": "\u9280\u884c\u53e3\u5ea7, \u305d\u308c\u4ee5\u5916"}
+{"task_id": "HumanEval/4", "keyWords": "\u5e73\u5747\u7d76\u5bfe\u504f\u5dee, \u5e73\u5747\u7d76\u5bfe\u5dee, \u4e2d\u5fc3\u70b9("}
+{"task_id": "HumanEval/5", "keyWords": "\u5165\u529b\u30ea\u30b9\u30c8'numbers', \u6570\u5024'delimeter'"}
+{"task_id": "HumanEval/6", "keyWords": "\u6587\u5b57\u5217, \u6df1\u3044\u30ec\u30d9\u30eb"}
+{"task_id": "HumanEval/7", "keyWords": "\u90e8\u5206\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/8", "keyWords": "\u30ea\u30b9\u30c8\u5185, \u7a7a\u548c, \u7a7a\u7a4d"}
+{"task_id": "HumanEval/9", "keyWords": ""}
+{"task_id": "HumanEval/10", "keyWords": "-\u56de\u6587\u63a5\u5c3e\u8f9e, \u6587\u5b57\u5217\u63a5\u982d\u8f9e"}
+{"task_id": "HumanEval/11", "keyWords": "\u6587\u5b57\u5217a"}
+{"task_id": "HumanEval/12", "keyWords": "\u6587\u5b57\u5217, \u9577\u3055, \u5165\u529b\u30ea\u30b9\u30c8"}
+{"task_id": "HumanEval/13", "keyWords": "\u6574\u6570a,b"}
+{"task_id": "HumanEval/14", "keyWords": "\u5024\u5165\u529b\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/15", "keyWords": "\u50240, \u6587\u5b57\u5217"}
+{"task_id": "HumanEval/16", "keyWords": "\u6587\u5b57\u5217, (\u5927\u6587\u5b57, )\u3044\u304f\u3064"}
+{"task_id": "HumanEval/17", "keyWords": "o|\u300d-\u4e8c\u5206\u304a\u3093\u30772\u62cd"}
+{"task_id": "HumanEval/18", "keyWords": "\u90e8\u5206\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/19", "keyWords": "\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/20", "keyWords": "(\u9577\u3055, (\u5c0f\u3055\u3044\u6570\u5b57, \u5927\u304d\u3044\u6570\u5b57)\u3002"}
+{"task_id": "HumanEval/21", "keyWords": ")\u6570, \u7dda\u5f62\u5909\u63db"}
+{"task_id": "HumanEval/22", "keyWords": "python\u5024"}
+{"task_id": "HumanEval/23", "keyWords": "\u6587\u5b57\u5217, \u9577\u3055"}
+{"task_id": "HumanEval/24", "keyWords": "\u6570n, \u5c0f\u3055\u3044\u6700\u5927"}
+{"task_id": "HumanEval/25", "keyWords": "\u56e0\u6570\u5206\u89e3, \u5165\u529b\u6570"}
+{"task_id": "HumanEval/26", "keyWords": "\u8907\u6570\u56de\u767a\u751f"}
+{"task_id": "HumanEval/27", "keyWords": "\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/28", "keyWords": "\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/29", "keyWords": "\u63a5\u982d\u8f9e, \u6587\u5b57\u5217, \u5165\u529b\u30ea\u30b9\u30c8, \u30d5\u30a3\u30eb\u30bf\u30ea\u30f3\u30b0"}
+{"task_id": "HumanEval/30", "keyWords": "\u30ea\u30b9\u30c8\u5185"}
+{"task_id": "HumanEval/31", "keyWords": ""}
+{"task_id": "HumanEval/32", "keyWords": "pow(x,i)fori,coeffinenumerate(xs)], find_zero(\u30b8\u30a7\u30b9\u30fb\u30b7\u30e3\u30c8\u30ad\u30f3\u30cb\u30e5\u30fc\u30e8\u30fc\u30af:\u30ea\u30b9\u30c8)\"\"\"xs, find_zero"}
+{"task_id": "HumanEval/33", "keyWords": "\u30ea\u30b9\u30c8l'"}
+{"task_id": "HumanEval/34", "keyWords": "\u5024\u30ea\u30b9\u30c8\u5185"}
+{"task_id": "HumanEval/35", "keyWords": "\u30ea\u30b9\u30c8\u5185, \u6700\u5927\u8981\u7d20"}
+{"task_id": "HumanEval/36", "keyWords": "returnn\u672a\u6e80"}
+{"task_id": "HumanEval/37", "keyWords": "\u30ea\u30b9\u30c8l'"}
+{"task_id": "HumanEval/38", "keyWords": "\u9f3b\u884c\u985e#\u6587\u5b57\u5217, ((\u30ec\u30f3(s)+2)//3)]#, \u300c.join(\u56e3\u4f53), decode_cyclic(s:str), \u9f3b\u884c\u985eencode_cyclic\u95a2\u6570"}
+{"task_id": "HumanEval/39", "keyWords": "prime_fib\u30d5\u30a3\u30dc\u30ca\u30c3\u30c1\u6570"}
+{"task_id": "HumanEval/40", "keyWords": "tripless_sum_to_zero"}
+{"task_id": "HumanEval/41", "keyWords": "\u60f3\u50cf\u9053, \u7121\u9650\u7dda, n\u53f0, n\u8eca, \u30bb\u30c3\u30c8\u53f3, 2\u53f0, \u611f\u52d5\u7684, \u53f3\u5b89\u6253, ;\u305d\u306e\u5f8c"}
+{"task_id": "HumanEval/42", "keyWords": ""}
+{"task_id": "HumanEval/43", "keyWords": "pairs_sum_to_zero"}
+{"task_id": "HumanEval/44", "keyWords": "\u5165\u529b\u6570x, \u6587\u5b57\u5217\u8868\u73fe"}
+{"task_id": "HumanEval/45", "keyWords": "\u30ea\u30bf\u30fc\u30f3\u9818\u57df, \u9577\u3055"}
+{"task_id": "HumanEval/46", "keyWords": "fib4\u6570\u5217, \u52b9\u7387\u3088\u304f\u8a08\u7b97"}
+{"task_id": "HumanEval/47", "keyWords": "\u30ea\u30b9\u30c8\u4e2d, \u4e2d\u592e\u5024"}
+{"task_id": "HumanEval/48", "keyWords": "\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/49", "keyWords": "return2^nmodulop(\u6570\u5024, \u6ce8\u610f)\u3002"}
+{"task_id": "HumanEval/50", "keyWords": "\u9f3b\u884c\u985e\u5fa9\u5e30, \u300c.join_([\u4eba\u6a29((\u6570\u30ad\u30ed(ch)+5-\u6570\u30ad\u30ed(\u300ca, )%26)+\u6570\u30ad\u30ed(\u300ca, decode_shift(s:str), \u9f3b\u884c\u985eencode_shift\u95a2\u6570"}
+{"task_id": "HumanEval/51", "keyWords": "remove_vowels, \u306a\u3044\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/52", "keyWords": "\u304d\u3044\u5024t"}
+{"task_id": "HumanEval/53", "keyWords": "\u6570\u5b57x"}
+{"task_id": "HumanEval/54", "keyWords": ""}
+{"task_id": "HumanEval/55", "keyWords": "n\u756a\u76ee, \u30d5\u30a3\u30dc\u30ca\u30c3\u30c1\u6570"}
+{"task_id": "HumanEval/56", "keyWords": "\u6587\u5b57\u5217, \u958b\u59cb\u62ec\u5f27, \u7d42\u4e86\u62ec\u5f27"}
+{"task_id": "HumanEval/57", "keyWords": "\u5024\u30ea\u30b9\u30c8\u8981\u7d20"}
+{"task_id": "HumanEval/58", "keyWords": "\u50242"}
+{"task_id": "HumanEval/59", "keyWords": ""}
+{"task_id": "HumanEval/60", "keyWords": "sum_to_n"}
+{"task_id": "HumanEval/61", "keyWords": "\u6587\u5b57\u5217, \u958b\u59cb\u62ec\u5f27, \u7d42\u4e86\u62ec\u5f27"}
+{"task_id": "HumanEval/62", "keyWords": ""}
+{"task_id": "HumanEval/63", "keyWords": "\u52b9\u7387\u3088\u304f\u8a08\u7b97"}
+{"task_id": "HumanEval/64", "keyWords": "\u9f3b\u884c\u985e, vowels_count(s):\"\", \u95a2\u6570vowels_count, \u6587\u5b57\u5217\u5185, 'y'"}
+{"task_id": "HumanEval/65", "keyWords": "circularshift\u6574\u6570x"}
+{"task_id": "HumanEval/66", "keyWords": "\u4efb\u52d9\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/67", "keyWords": "examble:^\u300e\u5b98\u5831, 19\u9801^abcdefghi, fruit_distribution(2\u30ea\u30f3\u30b43"}
+{"task_id": "HumanEval/68", "keyWords": "[smalest_value,"}
+{"task_id": "HumanEval/69", "keyWords": "\u6700\u5927\u5024\u30bc\u30ed"}
+{"task_id": "HumanEval/70", "keyWords": "\u6700\u5c0f\u5024, \u6700\u5927\u5024"}
+{"task_id": "HumanEval/71", "keyWords": "3\u8fba, \u9577\u3055, \u5927\u304d\u3044\u3068\u304d, \u5927\u304d\u3044\u306e"}
+{"task_id": "HumanEval/72", "keyWords": "(\u56de\u6587\u7684, \u6700\u5927\u91cd\u307fw\u4ee5\u4e0b"}
+{"task_id": "HumanEval/73", "keyWords": "\u914d\u5217arr, \u6700\u5c0f\u6570, \u30d1\u30ea\u30f3\u30c9\u30ed\u30df\u30c3\u30af\u914d\u5217, 1\u56de"}
+{"task_id": "HumanEval/74", "keyWords": "\u6587\u5b57\u5217, \u5408\u8a08\u6570"}
+{"task_id": "HumanEval/75", "keyWords": "(a)"}
+{"task_id": "HumanEval/76", "keyWords": "\u6570x, \u3068\u304dn, \u5358\u7d14\u3079\u304d\u4e57"}
+{"task_id": "HumanEval/77", "keyWords": "\u6ce8\u610f:\u5165\u529b"}
+{"task_id": "HumanEval/78", "keyWords": "\u82f1:primenumber), \u5c0f\u3055\u3044\u81ea\u7136\u6570, \u5927\u304d\u3044)\u300216\u9032\u6570, 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f, 2,3,5,7,11,13,17,\u20262, ^abcdefghi(, 13\u8a71)\u3002\u6ce8\u610f:\u5165\u529b, \u8a18\u53f7a,b,c,d,e,f"}
+{"task_id": "HumanEval/79", "keyWords": "'0', '1'"}
+{"task_id": "HumanEval/80", "keyWords": "\u6587\u5b57\u5217s, 3\u6587\u5b57\u3054\u3068"}
+{"task_id": "HumanEval/81", "keyWords": "\u4f55\u4eba, \u8f38\u9001\u30c1\u30fc\u30e0"}
+{"task_id": "HumanEval/82", "keyWords": "\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/83", "keyWords": "\u3068\u304d,n\u6841"}
+{"task_id": "HumanEval/84", "keyWords": "\u6574\u6570n, \u6841\u6570"}
+{"task_id": "HumanEval/85", "keyWords": "\u30ea\u30b9\u30c8lst"}
+{"task_id": "HumanEval/86", "keyWords": "\u9806\u5e8f\u4ed8\u304d\u30d0\u30fc\u30b8\u30e7\u30f3, )\u6587\u5b57\u5217, \u6ce8\u610f:\u6587\u7ae0\u4e2d"}
+{"task_id": "HumanEval/87", "keyWords": "\u30ea\u30b9\u30c8[(x1,y1),(x2,y2)\u2026, \u5ea7\u6a19-(\u884c,\u5217)"}
+{"task_id": "HumanEval/88", "keyWords": "\u5408\u8a08(\u6700\u521d, \u30a4\u30f3\u30c7\u30c3\u30af\u30b9\u5024)"}
+{"task_id": "HumanEval/89", "keyWords": "\u623b\u308a\u5024\u56de\u8ee2"}
+{"task_id": "HumanEval/90", "keyWords": "\u95a2\u6570next_smallest(), next_smallest([1,1])==none"}
+{"task_id": "HumanEval/91", "keyWords": ""}
+{"task_id": "HumanEval/92", "keyWords": "\u623b\u308a\u5024, \u305d\u308c\u4ee5\u5916"}
+{"task_id": "HumanEval/93", "keyWords": "\u30e1\u30c3\u30bb\u30fc\u30b8\u82f1\u8a9e\u30a2\u30eb\u30d5\u30a1\u30d9\u30c3\u30c8"}
+{"task_id": "HumanEval/94", "keyWords": ""}
+{"task_id": "HumanEval/95", "keyWords": "\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/96", "keyWords": "n\u672a\u6e80"}
+{"task_id": "HumanEval/97", "keyWords": ""}
+{"task_id": "HumanEval/98", "keyWords": "\u6587\u5b57\u5217s"}
+{"task_id": "HumanEval/99", "keyWords": "\u5024(\u6587\u5b57\u5217)"}
+{"task_id": "HumanEval/100", "keyWords": "\u30ec\u30d9\u30eb(i+1)\u5185"}
+{"task_id": "HumanEval/101", "keyWords": "\u68da\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/102", "keyWords": "\u6570x, \u623b\u308a\u5024, \u5076\u6570\u6574\u6570, -1"}
+{"task_id": "HumanEval/103", "keyWords": "\u5e73\u5747(n"}
+{"task_id": "HumanEval/104", "keyWords": "\u6574\u6570x, \u5076\u6570\u6841, \u6ce8\u610f:"}
+{"task_id": "HumanEval/105", "keyWords": "\u4e00\u4e8c"}
+{"task_id": "HumanEval/106", "keyWords": "\u95a2\u6570f, \u30a4\u30f3\u30c7\u30c3\u30af\u30b9i, \u968e\u4e57, \u30b5\u30a4\u30ban"}
+{"task_id": "HumanEval/107", "keyWords": "\u6574\u6570\u56de\u6587(1,n),\u5305\u542b"}
+{"task_id": "HumanEval/108", "keyWords": "\u95a2\u6570count_nums, \u7b26\u53f7\u4ed8\u304d\u30c7\u30a3\u30b8\u30c3\u30c8, :\u4f8b:-123, \u7b26\u53f7\u4ed8\u304d\u6570\u5b57-1,2,3"}
+{"task_id": "HumanEval/109", "keyWords": "'arr'\u914d\u5217arr[1],arr[2],\u2026\u300c\u30a6\u30a9\u30fc\u30c3\u6050\u3044, \u30fc[N]\u3002, \u64cd\u4f5c:\u53f3\u30b7\u30d5\u30c8\u64cd\u4f5c, \u53f3\u30b7\u30d5\u30c8\u64cd\u4f5c, \u5834\u5408\u305d\u306e\u5f8ctrue"}
+{"task_id": "HumanEval/110", "keyWords": "\"yes\""}
+{"task_id": "HumanEval/111", "keyWords": "\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/112", "keyWords": "\u6587\u5b57\u5217s, \u7d50\u679c\u6587\u5b57\u5217, true/false"}
+{"task_id": "HumanEval/113", "keyWords": "\u6587\u5b57\u5217i.\"\u3053\u3053, \u5947\u6570\u6841"}
+{"task_id": "HumanEval/114", "keyWords": "\u6574\u6570nums, \u90e8\u5206\u914d\u5217, \u6700\u5c0f\u5408\u8a08"}
+{"task_id": "HumanEval/115", "keyWords": "\u683c\u5b50\u72b6"}
+{"task_id": "HumanEval/116", "keyWords": "\u6570(\u6607\u9806)\u3002\u540c\u6570"}
+{"task_id": "HumanEval/117", "keyWords": "\u6587\u5b57\u5217s, \u81ea\u7136\u6570n, \u6ce8\u610f:\u5165\u529b\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/118", "keyWords": "\u8fd1\u3044\u6bcd\u97f3, (\u5927\u6587\u5b57, )\u3002\u6700\u521d, \u7a7a\u6587\u5b57\u5217, \u6587\u5b57\u5217"}
+{"task_id": "HumanEval/119", "keyWords": "\u6587\u5b57\u5217s, :\u6587\u5b57\u5217'(())()', \u6587\u5b57\u5217\u300c())\u300d, \u826f\u3044\u6587\u5b57\u5217, 'yes', 'no'"}
+{"task_id": "HumanEval/120", "keyWords": "\u6700\u5927k\u500b, \u9577\u3055k"}
+{"task_id": "HumanEval/121", "keyWords": ""}
+{"task_id": "HumanEval/122", "keyWords": "\u6700\u59272\u6841"}
+{"task_id": "HumanEval/123", "keyWords": "\u30b3\u30e9\u30c3\u30c4\u4e88\u60f3(collatzconjecture), \u901a\u308a:\u524d\u671f, :1.Collatz\u2460[1]\u30022."}
+{"task_id": "HumanEval/124", "keyWords": "\u65e5\u4ed8\u6587\u5b57\u5217, 1.\u65e5\u4ed8\u6587\u5b57\u5217, 2.1,3,5,7,8,10,12\u6708, 1\u65e5\u4ee5\u4e0a31\u65e5\u4ee5\u4e0a, 4,6,9,11\u6708, 1\u65e5\u4ee5\u4e0a30\u65e5\u4ee5\u4e0a, 1\u65e5\u4ee5\u4e0a29\u65e5\u4ee5\u4e0a2, 3.\u6708, 4.\u65e5\u4ed8, mm-dd-yyyy"}
+{"task_id": "HumanEval/125", "keyWords": "\u6587\u5b57\u5217, \u30c6\u30ad\u30b9\u30c8\u4e2d, ','\u30ab\u30f3\u30de, )=25"}
+{"task_id": "HumanEval/126", "keyWords": "\u5834\u5408\u6570"}
+{"task_id": "HumanEval/127", "keyWords": ""}
+{"task_id": "HumanEval/128", "keyWords": "\u5146\u50191\u3001-1, \u6ce8\u610f:\u7a7a"}
+{"task_id": "HumanEval/129", "keyWords": "n\u884cn\u5217, \u30e1\u30c3\u30b7\u30e5(n>=2), \u9577\u3055k, )\u7d4c\u8defa, )\u7d4c\u8defb, \u9806\u5e8f\u4ed8\u304d\u30ea\u30b9\u30c8, \u5f8c(lst_a, lst_b, lst_a, \u6574\u6570\u30a4\u30f3\u30c7\u30c3\u30af\u30b9i(1<=i<=k)"}
+{"task_id": "HumanEval/130", "keyWords": "\u6570\u4e16\u7d00\u524d, n+1\u500b"}
+{"task_id": "HumanEval/131", "keyWords": "\u6574\u6570n, \u5947\u6570\u6841"}
+{"task_id": "HumanEval/132", "keyWords": "\u30b5\u30d6\u30b7\u30fc\u30b1\u30f3\u30b9\u5185, is_nested(\u300c[[\u30a4\u30f3\u30bf\u30fc\u30db\u30f3]]\u300c)\u279e\u672c\u5f53is_nested('[]]]]]]][[[[[]')\u279e, is_nested(\u300c[\u30a4\u30f3\u30bf\u30fc\u30db\u30f3][\u30a4\u30f3\u30bf\u30fc\u30db\u30f3]\u300d)\u279e, is_nested(\u300c[\u30a4\u30f3\u30bf\u30fc\u30db\u30f3]\u300d)\u279e, is_nested('[[][]]')\u279e\u672c\u5f53is_nested('[[]][[')\u279e\u672c\u5f53"}
+{"task_id": "HumanEval/133", "keyWords": "int(ceiling)"}
+{"task_id": "HumanEval/134", "keyWords": "\u6ce8\u610f:\u300c\u5358\u8a9e"}
+{"task_id": "HumanEval/135", "keyWords": "-1, \u672c\u5024"}
+{"task_id": "HumanEval/136", "keyWords": "'a', \u30bf\u30d7\u30eb(a,b), 'b'"}
+{"task_id": "HumanEval/137", "keyWords": "\u6d6e\u52d5\u5c0f\u6570\u70b9\u6570, \u6ce8\u610f:\u5b9f\u6570, compare_one(1, 2.5)\u279e2.5compare_one(1,\u300c2, 3\u300d)\u279e\u300c2, compare_one(\u300c51, 6\u300d)\u279e\u300c6, compare_one(\u300c1\u300d,1)"}
+{"task_id": "HumanEval/138", "keyWords": "\u6570n"}
+{"task_id": "HumanEval/139", "keyWords": "\u968e\u4e57"}
+{"task_id": "HumanEval/140", "keyWords": "\u6587\u5b57\u5217\u30c6\u30ad\u30b9\u30c8, fix_spaces("}
+{"task_id": "HumanEval/141", "keyWords": "'yes'\u3001\u305d\u3046, 'no', :-\u30d5\u30a1\u30a4\u30eb\u540d, 3\u6841('0'-'9'), -\u30d5\u30a1\u30a4\u30eb\u540d, \u90e8\u5206\u6587\u5b57\u5217, alphapet(\u300ca, )\u3002\u2014\u30c9\u30c3\u30c8, :['txt','exe','dll']"}
+{"task_id": "HumanEval/142", "keyWords": "multipleof3and"}
+{"task_id": "HumanEval/143", "keyWords": "\u65b0\u3057\u3044\u6587\u5b57\u5217"}
+{"task_id": "HumanEval/144", "keyWords": "\u6587\u5b57\u5217\u8868\u73fe, \u5358\u7d14\u5316(\"1/5\",\"5/1\")=true\u5358\u7d14\u5316(\"1/6\",\"2/1\")=false\u5358\u7d14\u5316(\"7/10\",\"10/2\")=false"}
+{"task_id": "HumanEval/145", "keyWords": "\u6ce8\u610f:, \u5834\u5408\u5143"}
+{"task_id": "HumanEval/146", "keyWords": "\u5947\u6570(1,3,5,7,9)"}
+{"task_id": "HumanEval/147", "keyWords": "\u9577\u3055n, \u6574\u6570\u914d\u5217a, i(1\u2264i\u2264n), \u4e09\u3064\u7d44(a[i],a[j],a[k])"}
+{"task_id": "HumanEval/148", "keyWords": "\u5730\u7403\u706b\u661f\u6728\u661f\u571f\u661f\u5929\u738b\u661f, \u6587\u5b57\u5217planet1, \u6b63\u3057\u3044\u60d1\u661f\u540d"}
+{"task_id": "HumanEval/149", "keyWords": "\u6587\u5b57\u5217, \u9577\u3055, \u53ef\u80fd\u6027, \u30a2\u30eb\u30d5\u30a1\u30d9\u30c3\u30c8\u9806"}
+{"task_id": "HumanEval/150", "keyWords": ""}
+{"task_id": "HumanEval/151", "keyWords": ""}
+{"task_id": "HumanEval/152", "keyWords": "\u7d50\u679c\u6700\u7d42\u8a71"}
+{"task_id": "HumanEval/153", "keyWords": "\u30af\u30e9\u30b9\u540d(\u6587\u5b57\u5217), \u5206\u6570\u30ad\u30e3\u30c3\u30d7-sm, \u30d5\u30a9\u30fc\u30de\u30c3\u30c8:ClassName.StrongestExtensionName"}
+{"task_id": "HumanEval/154", "keyWords": "\u90e8\u5206\u6587\u5b57\u5217, cycpattern_check(\u300cabbc=\u300d\u3001\u300cabd, cycpattern_check(\u300c, )\u2192\u672c\u5f53cycpattern_check(\u300c\u7528, cycpattern_check(\u300cabab, )\u2192\u672c\u5f53cycpattern_check(\u300cefef, cycpattern_check(\u300chimenss"}
+{"task_id": "HumanEval/155", "keyWords": "\u5076\u6570\u6841, \u5947\u6570\u6841"}
+{"task_id": "HumanEval/156", "keyWords": "\u5236\u9650:1<=num<=1000"}
+{"task_id": "HumanEval/157", "keyWords": "3\u8fba, \u9577\u3055, \u76f4\u89d2\u4e09\u89d2\u5f62, \u305d\u308c\u4ee5\u5916, 90\u5ea6"}
+{"task_id": "HumanEval/158", "keyWords": "\u5834\u5408characters,\u8f9e\u66f8\u9806, find_max([\"name\",\"of\",\"string\"])==\"string\"find_max([\"name\",\"enam\",\"game\"])==\"enam\"find_max([\"aaaaaaa\",\"bb\",\"cc\"])==\"\"aaaaaaa\""}
+{"task_id": "HumanEval/159", "keyWords": "\u4e00\u5b9a\u91cf"}
+{"task_id": "HumanEval/160", "keyWords": "\u52a0\u6cd5(+)\u5f15\u304d\u7b97(-)\u4e57\u7b97(*)\u968e\u5272\u308a(//)\u6307\u6570\u5316(**)"}
+{"task_id": "HumanEval/161", "keyWords": "\u6587\u5b57\u5217s"}
+{"task_id": "HumanEval/162", "keyWords": "\u6587\u5b57\u5217'text', md5\u30cf\u30c3\u30b7\u30e5, 'text'"}
+{"task_id": "HumanEval/163", "keyWords": "\u6574\u6570a, \u5076\u6570\u6841"}

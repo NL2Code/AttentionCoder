@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "y a deux nombres, le seuil, une liste"}
+{"task_id": "HumanEval/1", "keyWords": "les groupes, entrez les espaces, s\u00e9parer ces groupes, retourner une liste, ces cha\u00eenes, contenant plusieurs ensembles, une cha\u00eene, chaque parenth\u00e8se, la cha\u00eene, votre but"}
+{"task_id": "HumanEval/2", "keyWords": "\u00e9tant donn\u00e9 un nombre, retourne la partie, le reste"}
+{"task_id": "HumanEval/3", "keyWords": "il devrait renvoyer false, ce point la fonction, vous obtenez une liste, le solde, les comptes, tout moment, votre t\u00e2che"}
+{"task_id": "HumanEval/4", "keyWords": "ce cas la moyenne, la moyenne, la diff\u00e9rence, une liste, cet ensemble, chaque \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/5", "keyWords": "chaque deux \u00e9l\u00e9ments, ins\u00e9rez un nombre, la liste"}
+{"task_id": "HumanEval/6", "keyWords": "repr\u00e9sentant plusieurs groupes, chaque groupe, deux niveaux, les parenth\u00e8ses, des espaces, une cha\u00eene, cette fonction"}
+{"task_id": "HumanEval/7", "keyWords": "contenant des cha\u00eenes, donnant des stator, la liste"}
+{"task_id": "HumanEval/8", "keyWords": "la liste, une liste, tous les entiers, retourne un tuple, la somme, le produit"}
+{"task_id": "HumanEval/9", "keyWords": "la liste, la longueur, une liste"}
+{"task_id": "HumanEval/10", "keyWords": "la cha\u00eene le pr\u00e9fixe, qui pr\u00e9c\u00e8de le suffixe palindrome, trouver le suffixe palindrome, trouve le palindrome, la cha\u00eene, la fin"}
+{"task_id": "HumanEval/11", "keyWords": "les deux cha\u00eenes a, retourne le r\u00e9sultat, le xor, ces entr\u00e9es, les entr\u00e9es"}
+{"task_id": "HumanEval/12", "keyWords": "la premi\u00e8re cha\u00eene, la liste, la cha\u00eene, retourne none, m\u00eame longueur"}
+{"task_id": "HumanEval/13", "keyWords": "deux entiers a, grand diviseur"}
+{"task_id": "HumanEval/14", "keyWords": "tous les pr\u00e9fixes, retourne une liste, la cha\u00eene"}
+{"task_id": "HumanEval/15", "keyWords": "contenant des nombres, retourne une cha\u00eene, des espaces"}
+{"task_id": "HumanEval/16", "keyWords": "\u00e9tant donn\u00e9 une cha\u00eene, la casse"}
+{"task_id": "HumanEval/17", "keyWords": "un format ascii, analyser cette cha\u00eene, voici un texte, dur\u00e9e 4 battements, renvoyer une liste, repr\u00e9sentant les notes, une cha\u00eene, cette fonction, votre t\u00e2che"}
+{"task_id": "HumanEval/18", "keyWords": "fois une sous-cha\u00eene, la cha\u00eene"}
+{"task_id": "HumanEval/19", "keyWords": "retourne une cha\u00eene, une cha\u00eene, des espaces"}
+{"task_id": "HumanEval/20", "keyWords": "retournez deux nombres, la liste"}
+{"task_id": "HumanEval/21", "keyWords": "\u00e9tant donn\u00e9 une liste, une transformation, cette liste, deux \u00e9l\u00e9ments, petit nombre"}
+{"task_id": "HumanEval/22", "keyWords": "filtrer une liste, les entiers, valeurs python"}
+{"task_id": "HumanEval/23", "keyWords": "retourne la longueur, une cha\u00eene"}
+{"task_id": "HumanEval/24", "keyWords": "qui peut diviser n, un nombre, grand nombre, donn\u00e9 n"}
+{"task_id": "HumanEval/25", "keyWords": "retourne la liste, tous les facteurs, la d\u00e9composition, un entier, chaque facteur, le nombre"}
+{"task_id": "HumanEval/26", "keyWords": "supprimez tous les \u00e9l\u00e9ments, gardez les \u00e9l\u00e9ments, le m\u00eame ordre, la liste, une fois"}
+{"task_id": "HumanEval/27", "keyWords": "convertir les caract\u00e8res, une cha\u00eene, les caract\u00e8res"}
+{"task_id": "HumanEval/28", "keyWords": "une seule cha\u00eene, concat\u00e9ner une liste"}
+{"task_id": "HumanEval/29", "keyWords": "filtrer la liste, un pr\u00e9fixe, les cha\u00eenes"}
+{"task_id": "HumanEval/30", "keyWords": "les nombres, la liste"}
+{"task_id": "HumanEval/31", "keyWords": "le nombre"}
+{"task_id": "HumanEval/32", "keyWords": "y a une solution, qui a un nombre, la liste xs, le coefficient, 0 points, trouve x"}
+{"task_id": "HumanEval/33", "keyWords": "prend une liste l, toutes les valeurs, un indice, le r\u00e9sultat, cette fonction, sa valeur"}
+{"task_id": "HumanEval/34", "keyWords": "retourne un \u00e9l\u00e9ment, la liste"}
+{"task_id": "HumanEval/35", "keyWords": "grand \u00e9l\u00e9ment, la liste"}
+{"task_id": "HumanEval/36", "keyWords": "retourne le nombre, le chiffre, un entier"}
+{"task_id": "HumanEval/37", "keyWords": "prend une liste l, retourne une liste l, la valeur, les termes, sa valeur, cette fonction"}
+{"task_id": "HumanEval/38", "keyWords": "retourne la cha\u00eene, la cha\u00eene"}
+{"task_id": "HumanEval/39", "keyWords": ""}
+{"task_id": "HumanEval/40", "keyWords": "entr\u00e9e une liste, la liste, la somme, le cas, trois \u00e9l\u00e9ments"}
+{"task_id": "HumanEval/41", "keyWords": "heurte un v\u00e9hicule, un autre groupe, imaginez un chemin, la m\u00eame vitesse, les deux groupes, toutes les voitures, les deux v\u00e9hicules, affiche le nombre, m\u00eame temps, leur trajectoire"}
+{"task_id": "HumanEval/42", "keyWords": "retourne la liste"}
+{"task_id": "HumanEval/43", "keyWords": "y a deux \u00e9l\u00e9ments, entr\u00e9e une liste, la liste, la somme"}
+{"task_id": "HumanEval/44", "keyWords": "retourne une repr\u00e9sentation, changez le nombre, une repr\u00e9sentation, entr\u00e9e x, la conversion"}
+{"task_id": "HumanEval/45", "keyWords": "\u00e9tant donn\u00e9 la longueur"}
+{"task_id": "HumanEval/46", "keyWords": "la suite fib4, la suite fibonacci, la s\u00e9quence fib4, veuillez \u00e9crire une fonction, une suite, la r\u00e9cursivit\u00e9, le n-i\u00e8me \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/47", "keyWords": "retourne la m\u00e9diane, la liste"}
+{"task_id": "HumanEval/48", "keyWords": "une cha\u00eene, un palindrome"}
+{"task_id": "HumanEval/49", "keyWords": ""}
+{"task_id": "HumanEval/50", "keyWords": "retourne la cha\u00eene, une cha\u00eene"}
+{"task_id": "HumanEval/51", "keyWords": "qui prend une cha\u00eene, retourne une cha\u00eene, une fonction"}
+{"task_id": "HumanEval/52", "keyWords": "la liste l, tous les nombres"}
+{"task_id": "HumanEval/53", "keyWords": "deux nombres x"}
+{"task_id": "HumanEval/54", "keyWords": "ont les m\u00eames caract\u00e8res, les deux mots"}
+{"task_id": "HumanEval/55", "keyWords": "retourne le n-i\u00e8me nombre"}
+{"task_id": "HumanEval/56", "keyWords": "a une parenth\u00e8se, une cha\u00eene, chaque parenth\u00e8se, les parenth\u00e8ses"}
+{"task_id": "HumanEval/57", "keyWords": "la liste"}
+{"task_id": "HumanEval/58", "keyWords": "retourne le seul \u00e9l\u00e9ment, deux listes"}
+{"task_id": "HumanEval/59", "keyWords": "grand facteur"}
+{"task_id": "HumanEval/60", "keyWords": "une fonction"}
+{"task_id": "HumanEval/61", "keyWords": "a une parenth\u00e8se, chaque parenth\u00e8se, des cha\u00eenes, les parenth\u00e8ses"}
+{"task_id": "HumanEval/62", "keyWords": "la m\u00eame mani\u00e8re, repr\u00e9sente les coefficients, retourne la d\u00e9riv\u00e9e, ce polyn\u00f4me"}
+{"task_id": "HumanEval/63", "keyWords": "la suite fibonacci, la suite fibfib, veuillez \u00e9crire une fonction, une suite, le n-i\u00e8me \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/64", "keyWords": "qui prend une repr\u00e9sentation, prend un mot, un mot, retourne le nombre, une voyelle, la fin, la cha\u00eene, les voyelles, ce cas"}
+{"task_id": "HumanEval/65", "keyWords": "retourne le r\u00e9sultat, le nombre, une cha\u00eene, la droite"}
+{"task_id": "HumanEval/66", "keyWords": "qui prend une cha\u00eene, ecrire une fonction, la somme ascii, le mandat, gros caract\u00e8res"}
+{"task_id": "HumanEval/67", "keyWords": "repr\u00e9sentant le nombre, \u00e9tant donn\u00e9 une cha\u00eene, vous obtiendrez une cha\u00eene, retourne le nombre, le panier, un panier, contient des pommes, des oranges, un nombre, 3 oranges"}
+{"task_id": "HumanEval/68", "keyWords": "de valeurs, \u00e9tant donn\u00e9 un tableau, le n\u0153ud, le tableau, le noeud, la m\u00eame valeur, la valeur, un nombre, petite valeur, repr\u00e9sentant une branche"}
+{"task_id": "HumanEval/69", "keyWords": "vous donne une liste, la liste, grand entier, un entier, la valeur, la fr\u00e9quence, le nombre"}
+{"task_id": "HumanEval/70", "keyWords": "retourne la liste, donn\u00e9 une liste, le tri, le maximum, le minimum, un ordre"}
+{"task_id": "HumanEval/71", "keyWords": "forment un triangle, les trois c\u00f4t\u00e9s, deux c\u00f4t\u00e9s, trois c\u00f4t\u00e9s, un triangle, donn\u00e9e la longueur, la somme, deux d\u00e9cimales"}
+{"task_id": "HumanEval/72", "keyWords": "d\u00e9passe le poids, \u00e9crire une fonction, qui retourne true, une liste, le poids, un objet, ses \u00e9l\u00e9ments, la somme"}
+{"task_id": "HumanEval/73", "keyWords": "qui en font un tableau, vous pouvez changer un \u00e9l\u00e9ment, \u00e9tant donn\u00e9 un tableau, un tableau, la m\u00eame mani\u00e8re, trouver le nombre, une seule modification"}
+{"task_id": "HumanEval/74", "keyWords": "ont le m\u00eame nombre, qui prend deux listes, retourne une liste, ecrivez une fonction, le nombre, la premi\u00e8re liste, toutes les cha\u00eenes, deux listes"}
+{"task_id": "HumanEval/75", "keyWords": "sinon retourne false, \u00e9crire une fonction, le nombre, le produit"}
+{"task_id": "HumanEval/76", "keyWords": "un nombre x, les autres cas, \u00e9crire une fonction, les puissances, une puissance, votre t\u00e2che"}
+{"task_id": "HumanEval/77", "keyWords": "qui prend un entier, un certain nombre, \u00e9crire une fonction, cet entier, la saisie, le cube"}
+{"task_id": "HumanEval/78", "keyWords": "vous devez donc d\u00e9terminer le nombre, qui re\u00e7oit un nombre, comptez le nombre, le nombre, les nombres, petits nombres, le produit, \u00e9crire une fonction, une cha\u00eene, les symboles a"}
+{"task_id": "HumanEval/79", "keyWords": "il y aura une paire, vous obtiendrez un nombre, devrait renvoyer une cha\u00eene, repr\u00e9sentant un nombre, ajuster le format, la cha\u00eene, la fonction, la fin, le format, des caract\u00e8res"}
+{"task_id": "HumanEval/80", "keyWords": "vous donne une cha\u00eene, chaque 3 lettres, une cha\u00eene, la cha\u00eene, votre t\u00e2che"}
+{"task_id": "HumanEval/81", "keyWords": "vous allez \u00e9crire une fonction, elle vous donne une liste, qui peut produire une liste, le seul probl\u00e8me, utilisant le tableau, doivent noter les \u00e9l\u00e8ves, perdu le code, d\u00e9velopp\u00e9 leurs propres algorithmes, la derni\u00e8re semaine, les enseignants"}
+{"task_id": "HumanEval/82", "keyWords": "qui re\u00e7oit une cha\u00eene, \u00e9crire une fonction, la cha\u00eene, un nombre, la longueur"}
+{"task_id": "HumanEval/83", "keyWords": "donn\u00e9 un entier positif n, retourne un entier, une quantit\u00e9, n bits"}
+{"task_id": "HumanEval/84", "keyWords": "donn\u00e9 un entier positif n, la sortie, retourne la repr\u00e9sentation, la somme, les variables, une cha\u00eene"}
+{"task_id": "HumanEval/85", "keyWords": "additionner les \u00e9l\u00e9ments, donne une liste"}
+{"task_id": "HumanEval/86", "keyWords": "qui prend une cha\u00eene, tous les mots, \u00e9crire une fonction, tous leurs caract\u00e8res, retourne sa version, une cha\u00eene, leur valeur ascii, des mots, la version, des espaces"}
+{"task_id": "HumanEval/87", "keyWords": "vous avez une donn\u00e9e, \u00e9tant donn\u00e9 la liste, une liste, peut contenir un nombre, retourne la liste, la liste, une coordonn\u00e9e, une matrice, chaque ligne, chaque tuple"}
+{"task_id": "HumanEval/88", "keyWords": "donn\u00e9 un tableau, trier le tableau, le tableau, la derni\u00e8re valeur, la premi\u00e8re valeur, retourne une copie"}
+{"task_id": "HumanEval/89", "keyWords": "qui prend une cha\u00eene, cr\u00e9er une fonction encrypt, une cha\u00eene, 2 positions, telle sorte, le bas, ces lettres"}
+{"task_id": "HumanEval/90", "keyWords": "qui renvoie le deuxi\u00e8me \u00e9l\u00e9ment, vous donne une liste, un tel \u00e9l\u00e9ment, la liste, retourne none"}
+{"task_id": "HumanEval/91", "keyWords": "vous donner une liste, compter les nombres, une phrase, la s\u00e9paration, votre t\u00e2che"}
+{"task_id": "HumanEval/92", "keyWords": "qui accepte 3 nombres, tous les autres cas, deux autres nombres, tous les nombres, cr\u00e9e une fonction, des entiers, la somme"}
+{"task_id": "HumanEval/93", "keyWords": "les deux premi\u00e8res lettres, toutes les lettres, toutes les voyelles, qui accepte le message, les minuscules, les majuscules, ecrire une fonction, des lettres, la position, la lettre"}
+{"task_id": "HumanEval/94", "keyWords": "vous donne une liste, retourner la somme, la sortie, grand nombre, for parti-culier, ses chiffres"}
+{"task_id": "HumanEval/95", "keyWords": "sinon retourne false, devrait renvoyer false, un dictionnaire, toutes les cl\u00e9s, return false, le dictionnaire, retourne true, des cha\u00eenes, cette fonction"}
+{"task_id": "HumanEval/96", "keyWords": "qui prend un entier, retourne une liste, impl\u00e9mente une fonction"}
+{"task_id": "HumanEval/97", "keyWords": "qui prend deux entiers, un seul chiffre, retourne leur produit, compl\u00e8te une fonction"}
+{"task_id": "HumanEval/98", "keyWords": "\u00e9tant donn\u00e9 la cha\u00eene s, comptez le nombre"}
+{"task_id": "HumanEval/99", "keyWords": "on prend un entier, qui prend une valeur, repr\u00e9sentant un nombre, cr\u00e9e une fonction, deux entiers, ce nombre"}
+{"task_id": "HumanEval/100", "keyWords": "\u00e9tant donn\u00e9 un entier positif n, vous devez faire un tas, repr\u00e9sente le nombre, le prochain nombre, retourne le nombre, le nombre, le niveau, la position index, n pierres, premier niveau"}
+{"task_id": "HumanEval/101", "keyWords": "vous obtiendrez une liste, divise une cha\u00eene, retourne un tableau, des espaces, des virgules, votre mission"}
+{"task_id": "HumanEval/102", "keyWords": "prend deux nombres positifs x, de tel nombre, la fonction, cette fonction, grand nombre"}
+{"task_id": "HumanEval/103", "keyWords": "vous donnant deux entiers positifs n, calculer la moyenne, arrondissez la r\u00e9ponse, compris n, votre t\u00e2che"}
+{"task_id": "HumanEval/104", "keyWords": "retourne une liste, donn\u00e9 une liste, tous les \u00e9l\u00e9ments, la liste, entiers positifs x"}
+{"task_id": "HumanEval/105", "keyWords": "\u00e9tant donn\u00e9 un tableau, inversez le tableau, le tableau, retourne un tableau, le nom, triez les entiers, remplacez chaque nombre"}
+{"task_id": "HumanEval/106", "keyWords": "impl\u00e9menter une fonction f, retourne une liste, taille n, la valeur, la multiplication, la somme, la factorielle, un \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/107", "keyWords": "\u00e9tant donn\u00e9 un entier positif n, retourne un tuple, contenant le nombre, palindromes entiers paires, les palindromes, le tuple, contenant les limites, le nombre, le palindrome, palindromes pair"}
+{"task_id": "HumanEval/108", "keyWords": "exemple -123 les nombres, qui prend un tableau, son premier chiffre, un nombre, la somme"}
+{"task_id": "HumanEval/109", "keyWords": "vous pouvez trier un tableau, signifie d\u00e9placer tous les \u00e9l\u00e9ments, vous pouvez effectuer le d\u00e9placement, un tableau, effectuant les op\u00e9rations, le tableau, nous avons un ensemble, effectuez les op\u00e9rations, le dernier \u00e9l\u00e9ment, les nombres"}
+{"task_id": "HumanEval/110", "keyWords": "vous allez impl\u00e9menter une fonction, \u00e9changeant des \u00e9l\u00e9ments, lst1 une liste, qui prend deux listes, tous les \u00e9l\u00e9ments, de limite, des nombres, ce probl\u00e8me, la liste, un \u00e9change"}
+{"task_id": "HumanEval/111", "keyWords": "toutes les lettres, ont la m\u00eame occurrence, renvoie un dictionnaire, plusieurs lettres, un espace, leurs occurrences, leur nombre, une cha\u00eene"}
+{"task_id": "HumanEval/112", "keyWords": "nous avons deux cha\u00eenes s, vous devriez retourner un tuple, vous devez supprimer tous les caract\u00e8res, contenant la cha\u00eene, la m\u00eame mani\u00e8re, la cha\u00eene, la v\u00e9rification true, retourne le r\u00e9sultat, appel\u00e9e un palindrome, un palindrome"}
+{"task_id": "HumanEval/113", "keyWords": "la cha\u00eene i, tous les i, chaque \u00e9l\u00e9ment i, \u00e9tant donn\u00e9 une liste, la i-\u00e8me cha\u00eene, le nombre, le r\u00e9sultat, une liste, \u00e9l\u00e9ments odd"}
+{"task_id": "HumanEval/114", "keyWords": "\u00e9tant donn\u00e9 un tableau entier nums, tout sous-tableau, petite somme"}
+{"task_id": "HumanEval/115", "keyWords": "vider le puits, repr\u00e9sente un puits, tous les puits, vous donne une grille, ont la m\u00eame capacit\u00e9, repr\u00e9sente une unit\u00e9, ont la m\u00eame longueur, chaque puits, a un seau, produit le nombre"}
+{"task_id": "HumanEval/116", "keyWords": "vous devez trier un tableau, un nombre, le nombre, la valeur, la repr\u00e9sentation, le tri, cette kata, ces nombres"}
+{"task_id": "HumanEval/117", "keyWords": "\u00e9tant donn\u00e9 une cha\u00eene s, devrait renvoyer une liste, qui renvoie une liste, impl\u00e9menter une fonction, un nombre naturel n, la cha\u00eene s, tous les mots, contenant n consonnes, la cha\u00eene, la fonction"}
+{"task_id": "HumanEval/118", "keyWords": "trouver la voyelle, la cha\u00eene, retourne une cha\u00eene, des lettres, la fin, aucune voyelle, un mot, le centre, votre t\u00e2che, deux consonnes"}
+{"task_id": "HumanEval/119", "keyWords": "g\u00e9n\u00e9rer une bonne cha\u00eene, une cha\u00eene s, \u00e9tant donn\u00e9 une liste, les deux cha\u00eenes, y a un moyen, toutes les parenth\u00e8ses, contenant deux cha\u00eenes, concat\u00e9ner deux cha\u00eenes, un certain ordre, des parenth\u00e8ses"}
+{"task_id": "HumanEval/120", "keyWords": "un entier positif k, \u00e9tant donn\u00e9 un tableau, contenant les k, longueur k, retourne une liste, entiers arr, la longueur, les \u00e9l\u00e9ments, grands nombres"}
+{"task_id": "HumanEval/121", "keyWords": "\u00e9tant donn\u00e9 une liste, retourne la somme, tous les \u00e9l\u00e9ments, la position"}
+{"task_id": "HumanEval/122", "keyWords": "les k premiers \u00e9l\u00e9ments, \u00e9tant donn\u00e9 un tableau, un entier k, contenant des entiers, retourne la somme, vide arr, deux chiffres, les contraintes"}
+{"task_id": "HumanEval/123", "keyWords": "\u00e9tant donn\u00e9 un entier positif n, retourne la s\u00e9quence collatz, retourne la liste, la conjecture, le terme, tout entier positif n, la moiti\u00e9, la valeur, retourne une liste, une conjecture"}
+{"task_id": "HumanEval/124", "keyWords": "vous devez \u00e9crire une fonction, qui v\u00e9rifie la cha\u00eene, les mois, les jours, la date, le mois, 11 mois, deuxi\u00e8me mois, 30 jours, 31 jours"}
+{"task_id": "HumanEval/125", "keyWords": "\u00e9tant donn\u00e9 une cha\u00eene, il doit retourner le nombre, une virgule, retourne une liste, la cha\u00eene, le texte, la position, aucune virgule, aucun espace, des espaces"}
+{"task_id": "HumanEval/126", "keyWords": "donn\u00e9 une liste, une copie, de nombres, la liste, des entiers, retourne false, m\u00eame num\u00e9ro"}
+{"task_id": "HumanEval/127", "keyWords": "vous donne deux intervalles, ces deux intervalles, les deux intervalles, comprend le d\u00e9but, chaque intervalle, la longueur, son point, un nombre, une paire, votre t\u00e2che"}
+{"task_id": "HumanEval/128", "keyWords": "qui retourne la somme, vous donne un tableau, tous les entiers, entiers arr, tous les symboles, retourne none, le symbole, le produit, chaque nombre"}
+{"task_id": "HumanEval/129", "keyWords": "vous pouvez trouver une cellule, vous devez trouver un chemin, il existe un entier index i, \u00e9tant donn\u00e9 une grille, un entier positif k, la cellule, qui partage un c\u00f4t\u00e9, les cellules, retourne une liste, tri\u00e9 les valeurs"}
+{"task_id": "HumanEval/130", "keyWords": "vous devez retourner une liste, contenant les n, vous donnant un entier, conna\u00eet la suite, la suite tribonacci, les gens, la suite, 1 premiers nombres, les math\u00e9maticiens, tout le monde"}
+{"task_id": "HumanEval/131", "keyWords": "donn\u00e9 un entier positif n, retourne le produit, tous les nombres, tous les chiffres, le nombre"}
+{"task_id": "HumanEval/132", "keyWords": "cr\u00e9e une fonction, entr\u00e9e une cha\u00eene, une s\u00e9quence, une parenth\u00e8se, doit retourner true, cette fonction, la sous-s\u00e9quence, des crochets"}
+{"task_id": "HumanEval/133", "keyWords": "vous donner une liste, la liste, obtenir la somme, arrondissez chaque \u00e9l\u00e9ment, la sortie"}
+{"task_id": "HumanEval/134", "keyWords": "un caract\u00e8re, qui retourne true, cr\u00e9e une fonction, un groupe, dernier caract\u00e8re, un mot, le reste, la valeur, des espaces"}
+{"task_id": "HumanEval/135", "keyWords": "qui renvoie un \u00e9l\u00e9ment, un tel \u00e9l\u00e9ment, de valeurs, cr\u00e9e une fonction, le tableau"}
+{"task_id": "HumanEval/136", "keyWords": "qui retourne un tuple, cr\u00e9ez une fonction, petit entier, grand entier, retourne none, la liste"}
+{"task_id": "HumanEval/137", "keyWords": "repr\u00e9senter les vrais nombres, qui accepte des nombres, les nombres, cr\u00e9e une fonction, grande variable, les valeurs, des cha\u00eenes, retourne none"}
+{"task_id": "HumanEval/138", "keyWords": "4 nombres, la somme, le nombre"}
+{"task_id": "HumanEval/139", "keyWords": "la factorielle"}
+{"task_id": "HumanEval/140", "keyWords": "remplacez tous les espaces, tous les espaces, \u00e9tant donn\u00e9 un texte, deux espaces, une cha\u00eene, des soulignements"}
+{"task_id": "HumanEval/141", "keyWords": "ne doit pas d\u00e9passer trois chiffres, qui prend une cha\u00eene, cr\u00e9e une fonction, une lettre, le nom, le point, toutes les conditions, le cas, repr\u00e9sentant un nom, un nom"}
+{"task_id": "HumanEval/142", "keyWords": "la fonction, tous les entiers, la liste, tous les articles, prendra une liste, la sortie, la somme, cubique cet article, cette fonction, les \u00e9l\u00e9ments"}
+{"task_id": "HumanEval/143", "keyWords": "vous devez retourner une cha\u00eene, la nouvelle cha\u00eene, vous donnez une cha\u00eene, contenant des mots, la cha\u00eene, qui repr\u00e9sente une phrase, la phrase, la natation, la longueur, des lettres"}
+{"task_id": "HumanEval/144", "keyWords": "les deux x, le d\u00e9nominateur, des fractions, le r\u00e9sultat, un d\u00e9nominateur, la fonction, le num\u00e9rateur, des entiers, des repr\u00e9sentations, un entier"}
+{"task_id": "HumanEval/145", "keyWords": "qui trie une liste, la liste, \u00e9crivez une fonction, le m\u00eame nombre, la somme, leur index"}
+{"task_id": "HumanEval/146", "keyWords": "le dernier chiffre, qui prend un ensemble, le tableau, \u00e9crire une fonction, retourne des nombres"}
+{"task_id": "HumanEval/147", "keyWords": "vous devez cr\u00e9er un tableau a, \u00e9tant donn\u00e9 un entier positif n, un seul triplet, un multiple, retourne le nombre, la valeur"}
+{"task_id": "HumanEval/148", "keyWords": "contenant toutes les plan\u00e8tes, la fonction, doit renvoyer un tuple, devrait retourner un tuple, qui prend les noms, \u00e9crivez une fonction, la plan\u00e8te, compte huit plan\u00e8tes, la terre, cette fonction"}
+{"task_id": "HumanEval/149", "keyWords": "vous devez retourner la liste, qui prend une liste, devrait renvoyer une liste, qui peut contenir des cha\u00eenes, retourne une liste, en supprime les cha\u00eenes, ont la m\u00eame longueur, une liste, \u00e9crire une fonction, un certain ordre"}
+{"task_id": "HumanEval/150", "keyWords": "qui devrait retourner la valeur, la valeur, un nombre, un programme"}
+{"task_id": "HumanEval/151", "keyWords": "ignorer les nombres, retourne la somme, donn\u00e9 une liste, la liste"}
+{"task_id": "HumanEval/152", "keyWords": "indiquant la distance, correctement devin\u00e9 certains r\u00e9sultats, vous obtenez deux tableaux, affiche un match, retourne un tableau, la valeur, la diff\u00e9rence, la peine, un \u00e9v\u00e9nement, chaque fois"}
+{"task_id": "HumanEval/153", "keyWords": "vous obtiendrez le nom, vous donnez une extension, la m\u00eame intensit\u00e9, sm le nombre, cap le nombre, la fraction cap-sm, classname le strongestextensionname, la classe, le nom, la liste"}
+{"task_id": "HumanEval/154", "keyWords": "vous devez retourner true, le deuxi\u00e8me mot, une sous-cha\u00eene, premier mot, deux mots, ses rotations"}
+{"task_id": "HumanEval/155", "keyWords": "donner un nombre, retourne un tuple, le nombre"}
+{"task_id": "HumanEval/156", "keyWords": "\u00e9tant donn\u00e9 un entier, obtenir sa cha\u00eene"}
+{"task_id": "HumanEval/157", "keyWords": "forment un triangle, un triangle, donn\u00e9e la longueur, trois c\u00f4t\u00e9s, le cas, 3 c\u00f4t\u00e9s, 90 degr\u00e9s"}
+{"task_id": "HumanEval/158", "keyWords": "qui accepte une liste, contient diff\u00e9rents mots, \u00e9crivez une fonction, retourne les mots, cette liste, plusieurs cha\u00eenes, grand nombre, un maximum, la cha\u00eene"}
+{"task_id": "HumanEval/159", "keyWords": "vous mangerez toutes les carottes, vous devriez retourner un tableau, terminer les trois repas, mang\u00e9 une certaine quantit\u00e9, le repas, un lapin, la quantit\u00e9, le stock, les variables, la journ\u00e9e"}
+{"task_id": "HumanEval/160", "keyWords": "la deuxi\u00e8me liste, la premi\u00e8re liste, construire une expression, une liste, a des op\u00e9rations, la multiplication, la soustraction, cette expression, les op\u00e9randes, les op\u00e9rateurs"}
+{"task_id": "HumanEval/161", "keyWords": "devrait renvoyer la cha\u00eene, inverser la cha\u00eene, inversez la casse, la lettre, vous donne une cha\u00eene, la fonction, de lettre, une lettre"}
+{"task_id": "HumanEval/162", "keyWords": "son \u00e9quivalent md5, une cha\u00eene, la cha\u00eene, retourne none"}
+{"task_id": "HumanEval/163", "keyWords": "donn\u00e9 deux entiers positifs a, retourne le nombre"}

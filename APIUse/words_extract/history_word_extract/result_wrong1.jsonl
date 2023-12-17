@@ -1,0 +1,36 @@
+{"task_id": "HumanEval/32", "keywords": "] + xs, [ coeff * math.pow, ] * x + xs, ] * x^2 + .... xs [, non zero coefficient, point x. return xs"}
+{"task_id": "HumanEval/33", "keywords": "a list l, the corresponding indicies"}
+{"task_id": "HumanEval/37", "keywords": "the odd indicies, a list l, the even indicies"}
+{"task_id": "HumanEval/39", "keywords": "a Fibonacci number"}
+{"task_id": "HumanEval/41", "keywords": "the same speed, hits a car, a different set"}
+{"task_id": "HumanEval/64", "keywords": "Write a function vowels_count, only when"}
+{"task_id": "HumanEval/75", "keywords": ""}
+{"task_id": "HumanEval/76", "keywords": "= > false, a number x, = > false is_simple_power, n * * int=x, a simple power"}
+{"task_id": "HumanEval/84", "keywords": "a positive integer N, the total sum, @ N integer Constraints"}
+{"task_id": "HumanEval/90", "keywords": "the 2nd smallest element, no such element"}
+{"task_id": "HumanEval/91", "keywords": ""}
+{"task_id": "HumanEval/93", "keywords": "replaces all vowels, such a way, Assume only letters, the english alphabet"}
+{"task_id": "HumanEval/95", "keywords": ""}
+{"task_id": "HumanEval/100", "keywords": "the next level, The first level, the next odd number, a positive integer n"}
+{"task_id": "HumanEval/107", "keywords": "odd integer palindromes, < = n <, a positive integer n"}
+{"task_id": "HumanEval/108", "keywords": "a function count_nums"}
+{"task_id": "HumanEval/110", "keywords": "the input lists"}
+{"task_id": "HumanEval/111", "keywords": "b b b b a, a b c a b, the corresponding count, a b b a, a b c, the same occurrence"}
+{"task_id": "HumanEval/115", "keywords": "< = grid [, a rectangular grid, a single well, * grid [ i, ] ] bucket_capacity, the same capacity, [ j ], a single unit, < = capacity <, a corresponding bucket, ,1 ] .length <, < = grid.length <, the same length"}
+{"task_id": "HumanEval/119", "keywords": "A string S, both strings consist, a good string"}
+{"task_id": "HumanEval/120", "keywords": "arr = [, a sorted list, arr = [ -3, the maximum k numbers, < = k < = len, an array arr, a positive integer k"}
+{"task_id": "HumanEval/124", "keywords": "> False valid_date, > True valid_date, The date string, the following rules"}
+{"task_id": "HumanEval/125", "keywords": ""}
+{"task_id": "HumanEval/126", "keywords": "the same number, Assume no negative numbers"}
+{"task_id": "HumanEval/127", "keywords": "a prime number, input/output ] samples"}
+{"task_id": "HumanEval/129", "keywords": "grid = [, the minimum path, N > =, share an edge, a path B, [ j ], the ordered lists, < = i, N * N ] inclusive, the neighbor cells, < = j < i, < lst_B [ i, a positive integer k, [ j ] =, an ordered list, an integer index i, A path A"}
+{"task_id": "HumanEval/130", "keywords": "a non-negative integer number n, the last couple centuries, a return a list, + n /, the Tribonacci sequence, the first n +"}
+{"task_id": "HumanEval/132", "keywords": "[ ] ] ] ] ] ] ] [ [ [ [ [ ], a valid subsequence, [ [ ] [ ] ], [ [ ] ], [ ] [ ], [ [ ] ] [ ["}
+{"task_id": "HumanEval/134", "keywords": "\u279e False check_if_last_char_is_a_letter, apple pi e, an alphabetical character, the last character"}
+{"task_id": "HumanEval/135", "keywords": "no such element exists"}
+{"task_id": "HumanEval/137", "keywords": "a real number"}
+{"task_id": "HumanEval/138", "keywords": "== False is_equal_to_sum_even"}
+{"task_id": "HumanEval/140", "keywords": "all consecutive spaces, a string text"}
+{"task_id": "HumanEval/145", "keywords": ""}
+{"task_id": "HumanEval/155", "keywords": ""}
+{"task_id": "HumanEval/163", "keywords": "= > [, = > [ ], positive integers a"}

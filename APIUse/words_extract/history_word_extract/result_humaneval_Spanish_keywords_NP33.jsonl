@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "Compruebe si hay dos"}
+{"task_id": "HumanEval/1", "keyWords": "funci\u00f3n es una cadena que contiene m\u00faltiples, Su objetivo es separar estos grupos, Los grupos individuales, cada par\u00e9ntesis abierto se cierra adecuadamente, y se ignoran sin anidar entre s\u00ed Introduzca cualquier espacio"}
+{"task_id": "HumanEval/2", "keyWords": "Dado un n\u00famero flotante positivo, el n\u00famero entero m\u00e1ximo, menor que el, el resto es siempre menor que, Devuelve la parte decimal del n\u00famero"}
+{"task_id": "HumanEval/3", "keyWords": "Obtendr\u00e1 una lista, y retiro para las cuentas, con un saldo inicial, Su tarea es detectar si, debe devolver False"}
+{"task_id": "HumanEval/4", "keyWords": "Para una lista dada, La desviaci\u00f3n absoluta media, la diferencia absoluta media, cada elemento y, en este caso"}
+{"task_id": "HumanEval/5", "keyWords": "Inserte un n\u00famero"}
+{"task_id": "HumanEval/6", "keyWords": "funci\u00f3n es una cadena que representa varios, par\u00e9ntesis anidados separados por espacios, Para cada grupo, tiene como m\u00e1ximo dos capas anidadas"}
+{"task_id": "HumanEval/7", "keyWords": "Filtrar s\u00f3lo la"}
+{"task_id": "HumanEval/8", "keyWords": "Para una lista, una tupla que consiste"}
+{"task_id": "HumanEval/9", "keyWords": "una lista dada, genera una lista secuencial, que crecen hasta la"}
+{"task_id": "HumanEval/10", "keyWords": "Prueba si una cadena dada es un palindro, palindroma m\u00e1s corto que comienza con, La idea del algoritmo es simple, buscar el sufijo palindr\u00f3mico m\u00e1s largo, a\u00f1adir al final, una cadena el prefijo, a la cadena anterior al sufijo palindr\u00ednico"}
+{"task_id": "HumanEval/11", "keyWords": "a y b, El xor binario se ejecuta, como una cadena"}
+{"task_id": "HumanEval/12", "keyWords": "Si hay m\u00e1s, Devuelve ninguno si la"}
+{"task_id": "HumanEval/13", "keyWords": "Devuelve, mayor divisor com\u00fan, a y b"}
+{"task_id": "HumanEval/14", "keyWords": "Devuelve una lista, los, corto hasta el m\u00e1s largo"}
+{"task_id": "HumanEval/15", "keyWords": "Devuelve una cadena que contiene n\u00fameros separados por espacios, a n, inclusive"}
+{"task_id": "HumanEval/16", "keyWords": "Dada una cadena, averigua cu\u00e1ntos caracteres"}
+{"task_id": "HumanEval/17", "keyWords": "funci\u00f3n es una cadena que representa las notas, un formato ASCII especial, En este caso, igual al n\u00famero total, Aqu\u00ed hay un texto explicativo, dura cuatro tiempos |"}
+{"task_id": "HumanEval/18", "keyWords": "Encuentre cu\u00e1ntas veces una, Calcular el caso"}
+{"task_id": "HumanEval/19", "keyWords": "es una cadena, separados por espacios, Eficaz es la, a mayor n\u00famero"}
+{"task_id": "HumanEval/20", "keyWords": "est\u00e9n cerca el uno, y los devuelva, n\u00famero m\u00e1s peque\u00f1o, n\u00famero m\u00e1s grande"}
+{"task_id": "HumanEval/21", "keyWords": "Dado una lista, que contiene al menos, a la lista, El n\u00famero m\u00e1s peque\u00f1o, y el n\u00famero m\u00e1s grande"}
+{"task_id": "HumanEval/22", "keyWords": "Filtrar una lista dada, valores, solo para enteros"}
+{"task_id": "HumanEval/23", "keyWords": "Devuelve la, cadena dada"}
+{"task_id": "HumanEval/24", "keyWords": "Para un n\u00famero dado n, encontrar el mayor n\u00famero menor que n que puede dividir n"}
+{"task_id": "HumanEval/25", "keyWords": "Devuelve una lista, para un entero dado, Cada factor debe enumerarse el n\u00famero, veces que corresponda al n\u00famero, igual al producto"}
+{"task_id": "HumanEval/26", "keyWords": "que aparecen m\u00e1s, Mantenga los elementos"}
+{"task_id": "HumanEval/27", "keyWords": "Para una cadena dada"}
+{"task_id": "HumanEval/28", "keyWords": "Concatenar una lista, como una sola cadena"}
+{"task_id": "HumanEval/29", "keyWords": "Filtrar s\u00f3lo la, que comienzan con un prefijo dado"}
+{"task_id": "HumanEval/30", "keyWords": "Devuelve solo los n\u00fameros positivos"}
+{"task_id": "HumanEval/31", "keyWords": "Devuelve true si el n\u00famero dado es primo, false, contrario"}
+{"task_id": "HumanEval/32", "keyWords": "Calcular el polinomio con, Find_zero encuentra x tal que poly, aunque haya muchos, find_zero solo acepta listas, con un n\u00famero par, y el mayor coeficiente no es cero, garantiza que hay una soluci\u00f3n"}
+{"task_id": "HumanEval/33", "keyWords": "Esta funci\u00f3n toma una lista l y devuelve una lista l, igual a l, un \u00edndice que no es divisible por, un \u00edndice divisible por, es el resultado, todos los valores, el \u00edndice correspondiente"}
+{"task_id": "HumanEval/34", "keyWords": "Devuelve un elemento \u00fanico, ordena"}
+{"task_id": "HumanEval/35", "keyWords": "Devuelve el elemento m\u00e1s grande"}
+{"task_id": "HumanEval/36", "keyWords": "Devuelve el n\u00famero, un n\u00famero entero menor que n y divisible por"}
+{"task_id": "HumanEval/37", "keyWords": "Esta funci\u00f3n toma una lista l y devuelve una lista l, tal que L 'es, el valor correspondiente despu\u00e9s, valor del \u00edndice par"}
+{"task_id": "HumanEval/38", "keyWords": "Devuelve una cadena codificada, grupo mediante un bucle, bucle los elementos, A menos que el grupo tenga menos, codificada con la, encode_cyclic como cadena"}
+{"task_id": "HumanEval/39", "keyWords": "Prime_fib, el n-\u00e9simo primo del n\u00famero, fibonacci"}
+{"task_id": "HumanEval/40", "keyWords": "Triples_sum_to_zero acepta una lista, Devuelve true si hay, la lista que suman cero"}
+{"task_id": "HumanEval/41", "keyWords": "Imagina un camino infinitamente largo que es completamente recto, los dos grupos, muy lejos el uno del otro, Todos los coches, a la misma velocidad, Cuando un coche que se, a derecha golpea a un coche que se, a izquierda piensa que los dos coches, coche es infinitamente fuerte y potente, si no hubieran chocado"}
+{"task_id": "HumanEval/42", "keyWords": "Devuelve una lista"}
+{"task_id": "HumanEval/43", "keyWords": "Pairs_sum_to_zero acepta una lista, Devuelve True si hay dos elementos, que suman cero"}
+{"task_id": "HumanEval/44", "keyWords": "Cambie el n\u00famero, a una representaci\u00f3n base, Devuelve una representaci\u00f3n"}
+{"task_id": "HumanEval/45", "keyWords": "Dado la, lados del tri\u00e1ngulo y el alto \u00e1rea, retorno"}
+{"task_id": "HumanEval/46", "keyWords": "una secuencia similar a la secuencia Fibonacci y, escriba una funci\u00f3n para calcular eficientemente el, No use recursi\u00f3n"}
+{"task_id": "HumanEval/47", "keyWords": "Devuelve, l"}
+{"task_id": "HumanEval/48", "keyWords": "Comprobar si una cadena dada es un pal\u00edndromo"}
+{"task_id": "HumanEval/49", "keyWords": "Devuelve, m\u00f3dulo p, n\u00fameros"}
+{"task_id": "HumanEval/50", "keyWords": "Devuelve una cadena codificada, codificada con la funci\u00f3n encode_shift como entrada"}
+{"task_id": "HumanEval/51", "keyWords": "Remove_vowels, una funci\u00f3n que toma cadenas, cadenas sin vocales"}
+{"task_id": "HumanEval/52", "keyWords": "Devuelve True si todos los n\u00fameros en la, l est\u00e1n por debajo, umbral t"}
+{"task_id": "HumanEval/53", "keyWords": "Sumar dos n\u00fameros, e y"}
+{"task_id": "HumanEval/54", "keyWords": "Compruebe si dos palabras, el mismo car\u00e1cter"}
+{"task_id": "HumanEval/55", "keyWords": "Devuelve, en\u00e9simo n\u00famero, fibonacci"}
+{"task_id": "HumanEval/56", "keyWords": "Los par\u00e9ntesis son cadenas, tiene un par\u00e9ntesis"}
+{"task_id": "HumanEval/57", "keyWords": "Devuelve True si el, disminuye mon\u00f3tonamente"}
+{"task_id": "HumanEval/58", "keyWords": "Devuelve el \u00fanico, com\u00fan, listas"}
+{"task_id": "HumanEval/59", "keyWords": "mayor factor primo, y no es primo"}
+{"task_id": "HumanEval/60", "keyWords": "Sum_to_n, una funci\u00f3n que suma, a n"}
+{"task_id": "HumanEval/61", "keyWords": "Los par\u00e9ntesis son cadenas, tiene un par\u00e9ntesis"}
+{"task_id": "HumanEval/62", "keyWords": "los coeficientes"}
+{"task_id": "HumanEval/63", "keyWords": "fibfib es una secuencia similar a la secuencia fibonacci, escriba una funci\u00f3n para calcular eficientemente el"}
+{"task_id": "HumanEval/64", "keyWords": "A\u00f1adir m\u00e1s casos, una funci\u00f3n vowels_count que toma una representaci\u00f3n, toma una palabra como entrada y devuelve el n\u00famero, En este caso, pero solo si est\u00e1 al final, una palabra dada"}
+{"task_id": "HumanEval/65", "keyWords": "Un cambio c\u00edclico, hacia la derecha, devolviendo el resultado como una cadena"}
+{"task_id": "HumanEval/66", "keyWords": "La, Escribe una funci\u00f3n que acepta una cadena como entrada y devuelve solo la suma ASCII, caracteres grandes"}
+{"task_id": "HumanEval/67", "keyWords": "En esta tarea, una cadena que representa el n\u00famero, que contiene manzanas, naranjas y mangos, En la cesta"}
+{"task_id": "HumanEval/68", "keyWords": "Dado un array que representa una rama del \u00e1rbol que tiene un n\u00famero entero no negativo, tarea es extraer uno, nodos y devolverlo, El nodo seleccionado debe ser el nodo num\u00e9rico par m\u00e1s peque\u00f1o, Si se encuentra m\u00e1s, un nodo con el mismo valor par m\u00ednimo, con el \u00edndice m\u00e1s bajo, El nodo seleccionado debe ser devuelto, o si el array dado est\u00e1 vac\u00edo, tiene el menor valor par, tiene el menor valor \u00edndice, es el valor m\u00e1s bajo, pero hay dos ceros, por lo que, el primer cero, que tiene el \u00edndice m\u00e1s bajo"}
+{"task_id": "HumanEval/69", "keyWords": "\u00bfCu\u00e1l es el n\u00famero, Devuelve el n\u00famero entero m\u00e1s grande que cero Y la, igual al valor del entero, La frecuencia con la que un n\u00famero entero aparece es el n\u00famero"}
+{"task_id": "HumanEval/70", "keyWords": "Dado una lista, un orden extra\u00f1o, El orden extra\u00f1o, es comenzar con el m\u00ednimo, luego con el m\u00e1ximo, luego con el m\u00ednimo"}
+{"task_id": "HumanEval/71", "keyWords": "El \u00e1rea devuelta se, si sus tres, forman un tri\u00e1ngulo v\u00e1lido, contrario se devuelve -1, dos lados es mayor que el tercero"}
+{"task_id": "HumanEval/72", "keyWords": "Escribe una funci\u00f3n que, True si el objeto q, Un objeto q vuela si est\u00e1 equilibrado, es una lista palindr\u00f3mica, igual al peso m\u00e1ximo posible w. Ejemplos, es menor que el peso m\u00e1ximo posible, pero est\u00e1 desequilibrado, supera el peso m\u00e1ximo posible, es menor que el peso m\u00e1ximo posible y est\u00e1 equilibrado, menor que el peso m\u00e1ximo posible"}
+{"task_id": "HumanEval/73", "keyWords": "un array palindr\u00f3mico, Una matriz palindr\u00f3mica, una matriz que se, En un solo cambio, puede cambiar un"}
+{"task_id": "HumanEval/74", "keyWords": "Escribe una funci\u00f3n que acepta dos, una lista con un n\u00famero, caracteres menor que el n\u00famero total, Si ambas listas, el mismo n\u00famero, todas las cadenas"}
+{"task_id": "HumanEval/75", "keyWords": "Escribe una funci\u00f3n que, true cuando el n\u00famero dado es, a es menor a"}
+{"task_id": "HumanEval/76", "keyWords": "Su tarea es escribir una funci\u00f3n, Si un n\u00famero x es un Las potencias simples, devuelven verdadero y falso, x es una potencia simple"}
+{"task_id": "HumanEval/77", "keyWords": "Escribe una funci\u00f3n que acepta un, a como entrada y devuelve True si este entero es, puede asumir que"}
+{"task_id": "HumanEval/78", "keyWords": "pide que escriba una funci\u00f3n para recibir n\u00fameros hexadecimales, primos son los n\u00fameros naturales, y no son, Los n\u00fameros hexadecimales, F. Los n\u00fameros primos son, As\u00ed que tienes, determinar el n\u00famero como uno, puede asumir que, correcta o una cadena vac\u00eda"}
+{"task_id": "HumanEval/79", "keyWords": "dar\u00e1 un n\u00famero decimal, Su tarea es convertirlo, En formato binario, La funci\u00f3n debe devolver una cadena, car\u00e1cter representa un n\u00famero binario, Cada car\u00e1cter en, Hay un par, al principio y al final, a ajustar el formato"}
+{"task_id": "HumanEval/80", "keyWords": "Te doy una s. Su tarea es comprobar si, cadena est\u00e1 feliz, Una cadena es feliz si su longitud es, letras consecutivas es diferente Por ejemplo"}
+{"task_id": "HumanEval/81", "keyWords": "Es la \u00faltima, semestre y el profesor debe, estado desarrollando sus propios, El \u00fanico problema es que perdi\u00f3 el c\u00f3digo que utiliz\u00f3 para calificar, Ella te da una lista, a escribir una funci\u00f3n que, exportar una lista, usando la siguiente tabla"}
+{"task_id": "HumanEval/82", "keyWords": "Escribe una funci\u00f3n que recibe una cadena y devuelve True si la cadena es"}
+{"task_id": "HumanEval/83", "keyWords": "Dado un entero positivo n, los n\u00fameros enteros positivos, bits Cantidad que comienza"}
+{"task_id": "HumanEval/84", "keyWords": "Dado un entero positivo N, @ n n\u00famero entero Restricciones :0\u2264N\u226410000"}
+{"task_id": "HumanEval/85", "keyWords": "Dado una lista, indexados como impares"}
+{"task_id": "HumanEval/86", "keyWords": "Escribe una funci\u00f3n que toma una cadena y devuelve su versi\u00f3n ordenada, es una cadena, separadas por espacios, sustituyen por palabras, por todos sus, en orden ascendente, debe mantener el orden"}
+{"task_id": "HumanEval/87", "keyWords": "anidada es similar a una matriz, cada fila puede contener un n\u00famero diferente, Dado la lista y el entero x, encontrar el entero x, donde cada tupla es una coordenada"}
+{"task_id": "HumanEval/88", "keyWords": "Dado un array, el primer valor del \u00edndice, \u00faltimo valor del \u00edndice, y son impares, el array dado se clasifica, y son pares, el array dado"}
+{"task_id": "HumanEval/89", "keyWords": "Crea una funci\u00f3n encrypt que toma una cadena como argumento, Al girar el alfabeto, una cadena cifrada, El alfabeto debe rotarse, tal manera que estas, posiciones hacia abajo"}
+{"task_id": "HumanEval/90", "keyWords": "Te da una lista, Escribe una funci\u00f3n, Si no hay tal elemento, se devuelve None"}
+{"task_id": "HumanEval/91", "keyWords": "da una serie, Su tarea es contar los n\u00fameros aburridos, es una oraci\u00f3n que comienza con"}
+{"task_id": "HumanEval/92", "keyWords": "Crea una funci\u00f3n que, Devuelve true si uno, igual a la suma, otros dos n\u00fameros, todos los n\u00fameros son enteros, \u279e True any_int, \u279e False any_int, \u279e True Any_int"}
+{"task_id": "HumanEval/93", "keyWords": "Escribe una funci\u00f3n que acepta el mensaje y lo codifica, tal manera que intercambia todas las, alfabeto ingl\u00e9s Supongamos que solo hay letras"}
+{"task_id": "HumanEval/94", "keyWords": "Te da una lista, necesita encontrar el n\u00famero primo m\u00e1s grande y devolver"}
+{"task_id": "HumanEval/95", "keyWords": "Dado un diccionario, se devuelve True si todas, False si todas, Esta funci\u00f3n deber\u00eda devolver False si el diccionario dado est\u00e1 vac\u00edo"}
+{"task_id": "HumanEval/96", "keyWords": "Implementa una funci\u00f3n que toma un entero no negativo y devuelve una lista, n. Por ejemplo"}
+{"task_id": "HumanEval/97", "keyWords": "Completa una funci\u00f3n que toma dos, como argumentos y devuelve, Supongamos que la"}
+{"task_id": "HumanEval/98", "keyWords": "Dada la cadena s, cuenta el n\u00famero, un sub\u00edndice par"}
+{"task_id": "HumanEval/99", "keyWords": "Crea una funci\u00f3n que toma un valor, que representa un n\u00famero y devuelve el n\u00famero entero m\u00e1s cercano a \u00e9l, Si este n\u00famero es equidistante"}
+{"task_id": "HumanEval/100", "keyWords": "Dado un entero positivo n, necesitas hacer una pila, si n es impar, el siguiente n\u00famero impar, si n es par, Devuelve el n\u00famero, index representa el n\u00famero"}
+{"task_id": "HumanEval/101", "keyWords": "obtiene una secuencia, separadas por comas o espacios, Su tarea es Divide una cadena"}
+{"task_id": "HumanEval/102", "keyWords": "Esta funci\u00f3n acepta dos n\u00fameros positivos x e y y devuelve el mayor n\u00famero par, rango [ x, Si no hay tal n\u00famero, funci\u00f3n deber\u00eda devolver -1"}
+{"task_id": "HumanEval/103", "keyWords": "Dado dos enteros positivos n y m, su tarea es calcular el promedio, N A m, Redondea la respuesta al n\u00famero entero m\u00e1s cercano y la convierte, Si n es mayor que m"}
+{"task_id": "HumanEval/104", "keyWords": "Dado una lista, una lista ordenada, sin un n\u00famero par, devuelta debe ordenarse"}
+{"task_id": "HumanEval/105", "keyWords": "Dado un array, Invierta el array resultante, reemplace cada n\u00famero con el nombre correspondiente"}
+{"task_id": "HumanEval/106", "keyWords": "Implementando una funci\u00f3n f con n como argumento, n tal que, elementos con \u00edndice i"}
+{"task_id": "HumanEval/107", "keyWords": "Dado un entero positivo n, que contiene el n\u00famero, el rango contiene, El palindr\u00f3mico entero, es par y dos son impares, devueltas contienen el n\u00famero"}
+{"task_id": "HumanEval/108", "keyWords": "Escribe una funci\u00f3n count_nums, toma un array, cuya suma es mayor que, Si un n\u00famero es negativo, su primer d\u00edgito con signo ser\u00e1 negativo, n\u00fameros con signo son -1"}
+{"task_id": "HumanEval/109", "keyWords": "Tenemos un conjunto que contiene N, array se ordenar\u00e1n aleatoriamente, Su tarea es determinar si se puede ordenar la, orden no decreciente, siguiente para una matriz dada, a la derecha tantas veces, a la derecha significa mover todos los elementos, una posici\u00f3n a la derecha, a la posici\u00f3n inicial, Devuelve True si el array, se puede obtener haciendo lo, True si el array dado est\u00e1 vac\u00edo, se garantiza que la, dada tenga elementos \u00fanicos"}
+{"task_id": "HumanEval/110", "keyWords": "En este problema implementar\u00e1s una funci\u00f3n que acepta dos listas, y determina si es posible un intercambio, una lista con solo n\u00fameros pares, en el n\u00famero, lst1 y lst2, Supongamos que la, no est\u00e1 vac\u00eda"}
+{"task_id": "HumanEval/111", "keyWords": "Dado una cadena, y sus ocurrencias, a b c, a b b a, a b c a b, b b b b a"}
+{"task_id": "HumanEval/112", "keyWords": "tenemos dos cadenas s y c y, eliminar todos los caracteres, s que sean, a cualquier car\u00e1cter, Si una cadena se lee, se llama palindroma, Debe devolver una tupla que contenga, cadena resultante y la comprobaci\u00f3n True/False, devuelve el resultado"}
+{"task_id": "HumanEval/113", "keyWords": "Dado una lista, solo en n\u00fameros, ser reemplazados con el n\u00famero, la i-\u00e9sima cadena"}
+{"task_id": "HumanEval/114", "keyWords": "Dado un array entero nums, subarray no vac\u00edo"}
+{"task_id": "HumanEval/115", "keyWords": "Te da una rejilla rectangular, representa un pozo y, en una fila representa una unidad, Cada pozo tiene un cubo correspondiente que, ser utilizado para extraer agua, todos tienen la, Su tarea es vaciar el agua del pozo con un cubo, Salida el n\u00famero, veces que se necesita para bajar el barril, los pozos tienen la"}
+{"task_id": "HumanEval/116", "keyWords": "En este catta, con el n\u00famero, Para una cantidad similar, el valor decimal, Debe ejecutarse as\u00ed"}
+{"task_id": "HumanEval/117", "keyWords": "Dada una cadena s y un n\u00famero natural n, su tarea es implementar una funci\u00f3n que devuelva una lista, que contienen n, cadena s est\u00e1 vac\u00eda, devolver una lista vac\u00eda, puede asumir que, a little lamb, simple white space"}
+{"task_id": "HumanEval/118", "keyWords": "Tengo una palabra para ti, se juega vocales, Devuelve una cadena vac\u00eda, no se encuentra ninguna vocal que cumpla con las condiciones anteriores Puede asumir que"}
+{"task_id": "HumanEval/119", "keyWords": "Dado una lista que contiene dos cadenas, ambas contienen s\u00f3lo par\u00e9ntesis abiertos, o par\u00e9ntesis cerrados, Su trabajo es comprobar si es posible concatenar dos, orden que haga que, cadena resultante sea buena, Una cadena S se considera buena si y solo si todos los par\u00e9ntesis en S est\u00e1n equilibrados, no lo es, si hay una manera, una buena cadena"}
+{"task_id": "HumanEval/120", "keyWords": "Dado un array, arr y un entero positivo k, una lista ordenada, contiene los k n\u00fameros, Los elementos en el array estar\u00e1n"}
+{"task_id": "HumanEval/121", "keyWords": "Dado una lista no vac\u00eda"}
+{"task_id": "HumanEval/122", "keyWords": "Dado un arr no vac\u00edo que contiene n\u00fameros enteros, el entero k, con hasta dos d\u00edgitos"}
+{"task_id": "HumanEval/123", "keyWords": "Dado un entero positivo n, una lista ordenada donde los n\u00fameros impares, ordenados por la, matem\u00e1ticas sobre secuencias, comenzando con cualquier entero positivo n, cada t\u00e9rmino se obtiene por el t\u00e9rmino, si el t\u00e9rmino anterior es par, anterior es impar, La conjetura es que la, Devuelve la lista ordenada, por lo que los n\u00fameros impares"}
+{"task_id": "HumanEval/124", "keyWords": "una funci\u00f3n que, devolviendo True si la fecha es v\u00e1lida, La fecha es v\u00e1lida si se, las siguientes condiciones, no est\u00e1 vac\u00eda, Para los meses, o mayor que, mm-dd-aaaa Por ejemplo"}
+{"task_id": "HumanEval/125", "keyWords": "Dado una cadena, separadas por espacios, Si no hay, Si no hay comas, una posici\u00f3n impar"}
+{"task_id": "HumanEval/126", "keyWords": "Dado una lista, si est\u00e1n ordenados, Devuelve falso si hay m\u00e1s, una copia del mismo n\u00famero, solo n\u00fameros enteros"}
+{"task_id": "HumanEval/127", "keyWords": "dan dos intervalos, El intervalo dado es cerrado, lo que significa que el intervalo, incluye el principio y, Para cada intervalo dado, se asume que, Su tarea es determinar si la, dos intervalos es un n\u00famero primo, y no es primo, Si los dos intervalos son disjuntos"}
+{"task_id": "HumanEval/128", "keyWords": "El arr devuelve, None para arr vac\u00edo"}
+{"task_id": "HumanEval/129", "keyWords": "Dada una cuadr\u00edcula, y un entero positivo k, cuadr\u00edcula contiene un valor, Los n\u00fameros enteros, solo una vez y est\u00e1n, Hay que encontrar el camino, puede comenzar Comience con cualquier celda, En cada paso, encontrar una celda que comparta un lado con su ubicaci\u00f3n actual, cuenta que un camino, k significa que se visitan exactamente k celdas, No puedes desconectarte, El camino A, se considera menor que el camino B, A y B Por, los llamamos lst_A y lst_B, orden lexicogr\u00e1fico Lst_B, existe un \u00edndice entero i, Tal que lst_A [ i, y para cualquier j, Puede garantizar que la respuesta es \u00fanica, Devuelve una lista ordenada, las celdas por las que pasa la ruta m\u00e1s peque\u00f1a"}
+{"task_id": "HumanEval/130", "keyWords": "por los matem\u00e1ticos, los \u00faltimos siglos, lo que no se conoce es, define por la recursi\u00f3n, + n /, Dado un entero no negativo n, debe devolver una lista que contenga los primeros n +"}
+{"task_id": "HumanEval/131", "keyWords": "Dado un entero positivo n, n\u00fameros cuyo n\u00famero, d\u00edgitos son pares"}
+{"task_id": "HumanEval/132", "keyWords": "Crea una funci\u00f3n que acepta como entrada una cadena que contiene solo corchetes, La funci\u00f3n debe devolver True si y solo si existe una secuencia v\u00e1lida, menos un par\u00e9ntesis est\u00e1 anidado"}
+{"task_id": "HumanEval/133", "keyWords": "Te dar\u00e9 una lista, En primer lugar"}
+{"task_id": "HumanEval/134", "keyWords": "Crea una funci\u00f3n que, True si el \u00faltimo car\u00e1cter tiene un valor alfab\u00e9tico, no es parte, y False para el resto, apple pi e, \u279e False check_if_last_char_is_a_letter"}
+{"task_id": "HumanEval/135", "keyWords": "Crea una funci\u00f3n que, un elemento que no sea mayor, igual al \u00edndice m\u00e1ximo del elemento que le precede, Si no existe tal elemento"}
+{"task_id": "HumanEval/136", "keyWords": "Crea una funci\u00f3n que devuelve tuplas, es el mayor entero, Si no hay, enteros positivos o negativos, se devuelve None"}
+{"task_id": "HumanEval/137", "keyWords": "Crea una funci\u00f3n que acepta enteros, devuelve la variable m\u00e1s grande del tipo, Si los valores son iguales, si los n\u00fameros reales, representados como cadenas"}
+{"task_id": "HumanEval/138", "keyWords": "encontrar si el n\u00famero dado, == False is_equal_to_sum_even"}
+{"task_id": "HumanEval/139", "keyWords": "El factorial brasile\u00f1o"}
+{"task_id": "HumanEval/140", "keyWords": "Dado un texto, reemplace todos los espacios, ella con guiones bajos, Si una cadena tiene, todos los espacios"}
+{"task_id": "HumanEval/141", "keyWords": "Crea una funci\u00f3n que toma una cadena que representa el nombre del archivo y, si el nombre del archivo es v\u00e1lido, considera v\u00e1lido si y solo si se cumplen todas las siguientes, el nombre del, no debe tener, el nombre del archivo contiene solo un punto, no puede estar vac\u00eda y comenzar con una letra latina, la subcadena despu\u00e9s del punto debe ser una"}
+{"task_id": "HumanEval/142", "keyWords": "Esta funci\u00f3n aceptar\u00e1 una lista, Para todos los elementos, cuadrada si su \u00edndice es un m\u00faltiplo, o c\u00fabica si su \u00edndice es un m\u00faltiplo, cuyo \u00edndice no es un m\u00faltiplo, La funci\u00f3n devuelve entonces, debe ser -126"}
+{"task_id": "HumanEval/143", "keyWords": "Le da una cadena que representa una frase que contiene, Debe devolver una cadena que contiene, ser el mismo que, esto es una prueba"}
+{"task_id": "HumanEval/144", "keyWords": "Tanto x como n son representaciones, el siguiente formato, Puede suponer que x y n son fracciones, con un denominador distinto"}
+{"task_id": "HumanEval/145", "keyWords": "Escribe una funci\u00f3n para ordenar una lista dada, si hay varios, seg\u00fan su \u00edndice"}
+{"task_id": "HumanEval/146", "keyWords": "Escribe una funci\u00f3n que toma un conjunto, y devuelve n\u00fameros, el array que son, y el primer y \u00faltimo"}
+{"task_id": "HumanEval/147", "keyWords": "Dado un entero positivo n, un array a, Para cada i, a [ i, Devuelve el n\u00famero, que son m\u00faltiplos"}
+{"task_id": "HumanEval/148", "keyWords": "Nuestro sistema solar tiene ocho planetas, el m\u00e1s cercano al sol es mercurio, luego la tierra, Escribe una funci\u00f3n que toma los nombres, Esta funci\u00f3n devuelve una tupla que contiene todos los planetas, \u00f3rbitas est\u00e1n situadas, y del planeta, Si planet1 o, nombre correcto del planeta, devolver una tupla vac\u00eda"}
+{"task_id": "HumanEval/149", "keyWords": "Escribe una funci\u00f3n que acepte una lista, impar que contiene y devuelva una lista, un cierto orden, La lista es siempre una lista, no un array num\u00e9rico, que puede contener cadenas, debe devolver la, ordenada por esa regla, Si dos palabras, Esta funci\u00f3n debe devolver una lista ordenada, Se puede suponer que todas las, tienen la misma longitud"}
+{"task_id": "HumanEval/150", "keyWords": "Un programa simple que deber\u00eda devolver, n es un n\u00famero primo, contrario debe devolver"}
+{"task_id": "HumanEval/151", "keyWords": "Dado una lista"}
+{"task_id": "HumanEval/152", "keyWords": "Creo que todos recordamos, ese momento definitivamente vale la pena anotar y comparar, Su tarea es determinar si una persona ha adivinado correctamente alg\u00fan resultado coincidencia, Se obtiene dos matrices, donde cada \u00edndice muestra una coincidencia, Devuelve un array, indicando la distancia que se conjetura cada vez, Si adivinan correctamente, valor es la diferencia absoluta entre el valor adivinado y la puntuaci\u00f3n"}
+{"task_id": "HumanEval/153", "keyWords": "y una columna extendida, utilizar\u00e1n para cargar, sea CAP el n\u00famero, intensidad est\u00e1 dada por la fracci\u00f3n cap-sm, Deber\u00edas encontrar m\u00e1s y devuelve UN string, el formato siguiente, dos o m\u00e1s extensiones, debe seleccionar la primera, como clase y se le da una extensi\u00f3n, su fuerza es -1"}
+{"task_id": "HumanEval/154", "keyWords": "Devuelve True si la segunda palabra o cualquiera"}
+{"task_id": "HumanEval/155", "keyWords": "Dado un n\u00famero entero, Devuelve una tupla que contiene el n\u00famero"}
+{"task_id": "HumanEval/156", "keyWords": "Dado un entero positivo"}
+{"task_id": "HumanEval/157", "keyWords": "Devuelve True si el tri\u00e1ngulo rect\u00e1ngulo se forma con, Un tri\u00e1ngulo rect\u00e1ngulo es un tri\u00e1ngulo, \u00e1ngulos es rect\u00e1ngulo, == True right_angle_triangle"}
+{"task_id": "HumanEval/158", "keyWords": "Escribe una funci\u00f3n que acepte una lista, Esta lista contiene diferentes, Devuelve una palabra con un m\u00e1ximo, el mayor n\u00famero"}
+{"task_id": "HumanEval/159", "keyWords": "Eres un conejo hambriento y, una cierta cantidad, m\u00e1s para completar las, comidas del d\u00eda, Si no hay, las zanahorias restantes, pero todav\u00eda tendr\u00e1 hambre, integer La cantidad"}
+{"task_id": "HumanEval/160", "keyWords": "Dado dos listas, La primera lista tiene operaciones, y la segunda lista es una lista, Dos listas dadas son usadas para construir una expresi\u00f3n algebraica y devolver una evaluaci\u00f3n"}
+{"task_id": "HumanEval/161", "keyWords": "Te doy una s. Si, es una letra, d\u00e9jenlo como est\u00e1, La funci\u00f3n debe devolver, a @ C, A @ c"}
+{"task_id": "HumanEval/162", "keyWords": "es una cadena vac\u00eda, se devuelve None"}
+{"task_id": "HumanEval/163", "keyWords": "Dado dos enteros, a y b"}

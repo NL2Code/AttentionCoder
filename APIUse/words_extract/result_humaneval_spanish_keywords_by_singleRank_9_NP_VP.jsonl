@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "dos n\u00fameros, la lista, el umbral"}
+{"task_id": "HumanEval/1", "keyWords": "que contiene m\u00faltiples conjuntos, separar estos grupos, devolver una lista, una cadena, los grupos, la cadena, estas cadenas, introduzca cualquier espacio, su objetivo, cada par\u00e9ntesis, la entrada, esta funci\u00f3n"}
+{"task_id": "HumanEval/2", "keyWords": "dado un n\u00famero, el n\u00famero, el resto, devuelve la parte"}
+{"task_id": "HumanEval/3", "keyWords": "ese punto la funci\u00f3n, un saldo, la cuenta, las cuentas, el saldo, las operaciones, devolver true, obtendr\u00e1 una lista, cualquier momento, su tarea, devolver false"}
+{"task_id": "HumanEval/4", "keyWords": "este caso la media, la media, la desviaci\u00f3n, la diferencia, este conjunto, cada elemento, = average, una lista"}
+{"task_id": "HumanEval/5", "keyWords": "cada dos elementos, inserte un n\u00famero, la lista"}
+{"task_id": "HumanEval/6", "keyWords": "que representa varios grupos, los par\u00e9ntesis, m\u00e1ximo dos capas, la parte, la entrada, cada grupo, una cadena, esta funci\u00f3n"}
+{"task_id": "HumanEval/7", "keyWords": "que contienen la cadena, la lista, las cadenas"}
+{"task_id": "HumanEval/8", "keyWords": "la lista, la suma, una lista, todos los enteros, devuelve una tupla, el producto"}
+{"task_id": "HumanEval/9", "keyWords": "se genera una lista, una lista, la lista, la longitud"}
+{"task_id": "HumanEval/10", "keyWords": "una cadena el prefijo, la cadena, buscar el sufijo, la idea, busca el palindroma"}
+{"task_id": "HumanEval/11", "keyWords": "devuelve el resultado, el xor, estas entradas, las entradas, dos cadenas, una cadena"}
+{"task_id": "HumanEval/12", "keyWords": "se devuelve la primera cadena, se devuelve la cadena, la misma longitud, la lista, una cadena"}
+{"task_id": "HumanEval/13", "keyWords": "devuelve el mayor divisor, dos enteros a"}
+{"task_id": "HumanEval/14", "keyWords": "todos los prefijos, la cadena, devuelve una lista"}
+{"task_id": "HumanEval/15", "keyWords": "que contiene n\u00fameros, devuelve una cadena"}
+{"task_id": "HumanEval/16", "keyWords": "averigua cu\u00e1ntos caracteres, dada una cadena, la may\u00fascula"}
+{"task_id": "HumanEval/17", "keyWords": "que representa las notas, un formato ascii, el n\u00famero, una cadena, un texto, dura cuatro tiempos, una raqueta, este caso, esta funci\u00f3n, la entrada"}
+{"task_id": "HumanEval/18", "keyWords": "encuentre cu\u00e1ntas veces una subcadena, calcular el caso, la cadena"}
+{"task_id": "HumanEval/19", "keyWords": "la entrada, la opci\u00f3n, devuelve cadenas, una cadena, mayor n\u00famero"}
+{"task_id": "HumanEval/20", "keyWords": "devuelva dos n\u00fameros, la lista"}
+{"task_id": "HumanEval/21", "keyWords": "se aplica una transformaci\u00f3n, dado una lista, el n\u00famero, la lista, dos elementos"}
+{"task_id": "HumanEval/22", "keyWords": "filtrar una lista"}
+{"task_id": "HumanEval/23", "keyWords": "devuelve la longitud, una cadena"}
+{"task_id": "HumanEval/24", "keyWords": "un n\u00famero dado n, encontrar el mayor n\u00famero, dividir n"}
+{"task_id": "HumanEval/25", "keyWords": "enumerarse el n\u00famero, el n\u00famero, todos los factores, devuelve una lista, un entero, cada factor, la factorizaci\u00f3n"}
+{"task_id": "HumanEval/26", "keyWords": "eliminar todos los elementos, mantenga los elementos, el mismo orden, una vez, la lista, la entrada"}
+{"task_id": "HumanEval/27", "keyWords": "los caracteres, una cadena"}
+{"task_id": "HumanEval/28", "keyWords": "una sola cadena, concatenar una lista"}
+{"task_id": "HumanEval/29", "keyWords": "la lista, un prefijo"}
+{"task_id": "HumanEval/30", "keyWords": "la lista, los n\u00fameros"}
+{"task_id": "HumanEval/31", "keyWords": "el n\u00famero, devuelve true"}
+{"task_id": "HumanEval/32", "keyWords": "el mayor coeficiente, solo acepta listas xs, simplemente devuelve 0 puntos, el coeficiente, un n\u00famero, encuentra x, una soluci\u00f3n"}
+{"task_id": "HumanEval/33", "keyWords": "devuelve una lista l, toma una lista l, ordenar todos los valores, el \u00edndice, un \u00edndice, el resultado, su valor, esta funci\u00f3n"}
+{"task_id": "HumanEval/34", "keyWords": "devuelve un elemento, la lista"}
+{"task_id": "HumanEval/35", "keyWords": "devuelve el elemento, la lista"}
+{"task_id": "HumanEval/36", "keyWords": "devuelve el n\u00famero, el n\u00famero, un n\u00famero"}
+{"task_id": "HumanEval/37", "keyWords": "devuelve una lista l, toma una lista l, ordenar el valor, el valor, su valor, esta funci\u00f3n"}
+{"task_id": "HumanEval/38", "keyWords": "devuelve la cadena, la funci\u00f3n encode_cyclic, la cadena"}
+{"task_id": "HumanEval/39", "keyWords": "devuelve el n-\u00e9simo primo"}
+{"task_id": "HumanEval/40", "keyWords": "acepta una lista, que suman cero, la lista, devuelve true, tres elementos"}
+{"task_id": "HumanEval/41", "keyWords": "los dos coches, todos los coches, n coches, los dos grupos, el coche, un coche, produce el n\u00famero, imagina un camino, la misma velocidad, otro grupo, sus \u00f3rbitas, esta funci\u00f3n, mismo tiempo, tales colisiones"}
+{"task_id": "HumanEval/42", "keyWords": "devuelve una lista"}
+{"task_id": "HumanEval/43", "keyWords": "acepta una lista, que suman cero, la lista, devuelve true, dos elementos"}
+{"task_id": "HumanEval/44", "keyWords": "devuelve una representaci\u00f3n, una representaci\u00f3n, cambie el n\u00famero, entrada x, la conversi\u00f3n"}
+{"task_id": "HumanEval/45", "keyWords": "el alto \u00e1rea, dado la longitud, los lados"}
+{"task_id": "HumanEval/46", "keyWords": "la secuencia fib4, la secuencia fibonacci, la siguiente manera, una secuencia, escriba una funci\u00f3n, el en\u00e9simo elemento, > fib4(n-1, no use recursi\u00f3n"}
+{"task_id": "HumanEval/47", "keyWords": "devuelve la mediana, la lista, los elementos"}
+{"task_id": "HumanEval/48", "keyWords": "un pal\u00edndromo, una cadena"}
+{"task_id": "HumanEval/49", "keyWords": "p(observe los n\u00fameros, devuelve 2^n m\u00f3dulo"}
+{"task_id": "HumanEval/50", "keyWords": "devuelve la cadena, la funci\u00f3n encode_shift, la cadena"}
+{"task_id": "HumanEval/51", "keyWords": "que toma cadenas, devuelve cadenas, una funci\u00f3n"}
+{"task_id": "HumanEval/52", "keyWords": "la lista l, todos los n\u00fameros, del umbral, devuelve true"}
+{"task_id": "HumanEval/53", "keyWords": "sumar dos n\u00fameros x"}
+{"task_id": "HumanEval/54", "keyWords": "tienen el mismo car\u00e1cter, dos palabras"}
+{"task_id": "HumanEval/55", "keyWords": "devuelve el en\u00e9simo n\u00famero"}
+{"task_id": "HumanEval/56", "keyWords": "tiene un par\u00e9ntesis, cada par\u00e9ntesis, los par\u00e9ntesis, devuelve true"}
+{"task_id": "HumanEval/57", "keyWords": "la lista, el elemento, devuelve true"}
+{"task_id": "HumanEval/58", "keyWords": "devuelve el \u00fanico elemento, ambas listas"}
+{"task_id": "HumanEval/59", "keyWords": "devuelve el mayor factor"}
+{"task_id": "HumanEval/60", "keyWords": "una funci\u00f3n"}
+{"task_id": "HumanEval/61", "keyWords": "tiene un par\u00e9ntesis, cada par\u00e9ntesis, los par\u00e9ntesis, devuelve true"}
+{"task_id": "HumanEval/62", "keyWords": "devuelve la derivada, la misma forma, * x, este polinomio, representa los coeficientes"}
+{"task_id": "HumanEval/63", "keyWords": "= = fibfib(n-1, la secuencia fibfib, = =, la secuencia, la siguiente manera, una secuencia, escriba una funci\u00f3n, el en\u00e9simo elemento"}
+{"task_id": "HumanEval/64", "keyWords": "que toma una representaci\u00f3n, toma una palabra, escribe una funci\u00f3n vowels_count, una palabra, una vocal, la cadena, devuelve el n\u00famero, las vocales, este caso"}
+{"task_id": "HumanEval/65", "keyWords": "un entero x, devolviendo el resultado, devuelve el n\u00famero, un cambio, la derecha, una cadena, los d\u00edgitos"}
+{"task_id": "HumanEval/66", "keyWords": "que acepta una cadena, escribe una funci\u00f3n, la suma ascii, la misi\u00f3n"}
+{"task_id": "HumanEval/67", "keyWords": "que representa el n\u00famero, que contiene manzanas, fruit_distribution(\"100 apples, una cesta, fruit_distribution(\"0 apples, fruit_distribution(\"2 apples, la cesta, 3 oranges, 1 oranges\",120, 1 oranges\",3, el n\u00famero, obtendr\u00e1s una cadena, 6 oranges, esta tarea"}
+{"task_id": "HumanEval/68", "keyWords": "tiene el menor valor \u00edndice, tiene el menor valor, que tiene el \u00edndice, el mismo valor par, lo que elegimos el primer cero, se devuelve el nodo, [ menor valor par, el valor, el nodo, que tiene un n\u00famero, el \u00edndice, el array, = valor, un nodo, que representa una rama, devuelve [, dado un array, nodos < =, su \u00edndice, = n\u00famero"}
+{"task_id": "HumanEval/69", "keyWords": "devuelve el n\u00famero, el n\u00famero, la frecuencia, = =, la lista, un n\u00famero"}
+{"task_id": "HumanEval/70", "keyWords": "= = [ ], = = [, el orden, devuelve la lista, dado una lista, [ ], un orden, los enteros"}
+{"task_id": "HumanEval/71", "keyWords": "los tres lados, forman un tri\u00e1ngulo, sus tres lados, cualesquiera dos lados, un tri\u00e1ngulo, el \u00e1rea, dado la longitud, dos decimales, la suma"}
+{"task_id": "HumanEval/72", "keyWords": "supera el peso, el peso, el objeto, 3 +, que devuelve true, escribe una funci\u00f3n, un objeto, 1 +, una lista, sus elementos, la suma"}
+{"task_id": "HumanEval/73", "keyWords": "cambiar un elemento, un solo cambio, = =, cualquier otro elemento, una matriz, un array"}
+{"task_id": "HumanEval/74", "keyWords": "se devuelve la primera lista, [ ], tienen el mismo n\u00famero, todas las cadenas, devuelve una lista, la otra lista, que acepta dos listas, el n\u00famero, un n\u00famero, escribe una funci\u00f3n, ambas listas"}
+{"task_id": "HumanEval/75", "keyWords": "= = true, que devuelve true, el n\u00famero, el producto, 30 =, 3 n\u00fameros, escribe una funci\u00f3n"}
+{"task_id": "HumanEval/76", "keyWords": "= > true, = > false, un n\u00famero x, n**int= x, escribir una funci\u00f3n, una potencia, las potencias, otros casos, su tarea"}
+{"task_id": "HumanEval/77", "keyWords": "= = > true, = = > false, que acepta un entero, devuelve true, este entero, alg\u00fan entero, la entrada, escribe una funci\u00f3n, el cubo"}
+{"task_id": "HumanEval/78", "keyWords": "los n\u00fameros, cuente el n\u00famero, determinar el n\u00famero, la salida, el n\u00famero, los s\u00edmbolos a, recibir n\u00fameros, dos n\u00fameros, la entrada, num =, el producto, escriba una funci\u00f3n, una cadena, un solo clic"}
+{"task_id": "HumanEval/79", "keyWords": "se le dar\u00e1 un n\u00famero, la cadena, representa un n\u00famero, devolver una cadena, ajustar el formato, la funci\u00f3n, cada car\u00e1cter, los caracteres, un par, su tarea"}
+{"task_id": "HumanEval/80", "keyWords": "= > false, > false, > true, te doy una s., cada 3 letras, una cadena, la cadena, su longitud, su tarea"}
+{"task_id": "HumanEval/81", "keyWords": "= = > [ a, > 2.7b >, > 3,7 a, > 3,3 a-, > 3,0 b+, > 0,7 d, > 2,0 c+, ella te da una lista, 4.0 a +, exportar una lista, usando la siguiente tabla, el \u00fanico problema, perdi\u00f3 el c\u00f3digo, escribir una funci\u00f3n, desarrollando sus propios algoritmos, los estudiantes, la \u00faltima semana, el profesor, algunos estudiantes, los profesores"}
+{"task_id": "HumanEval/82", "keyWords": "que recibe una cadena, la cadena, escribe una funci\u00f3n, devuelve true"}
+{"task_id": "HumanEval/83", "keyWords": "dado un entero positivo n, devuelve los n\u00fameros, n bits"}
+{"task_id": "HumanEval/84", "keyWords": "la suma, la salida, devuelve la representaci\u00f3n, dado un entero positivo n, los n\u00fameros, n =, sus n\u00fameros, @n n\u00famero, una cadena"}
+{"task_id": "HumanEval/85", "keyWords": "dado una lista, sumando elementos"}
+{"task_id": "HumanEval/86", "keyWords": "que toma una cadena, todas las palabras, una cadena, las palabras, escribe una funci\u00f3n, la versi\u00f3n, devuelve su versi\u00f3n, mantener el orden, la oraci\u00f3n, todos sus caracteres, anti_shuffle('hello world, valor ascii"}
+{"task_id": "HumanEval/87", "keyWords": "[ [ ], = = [, dado la lista, [ ], devuelve la lista, encontrar el entero x, inicialmente ordena las coordenadas, la lista, el entero x, [ 6beta, las coordenadas, una matriz, las filas, contener un n\u00famero, una coordenada, cada fila, cada tupla"}
+{"task_id": "HumanEval/88", "keyWords": "el primer valor, el \u00faltimo valor, el array, dado un array, no cambia la matriz, devuelve una copia"}
+{"task_id": "HumanEval/89", "keyWords": "se trasladas 2 * 2 posiciones, se devuelve una cadena, que toma una cadena, girar el alfabeto, crea una funci\u00f3n encrypt, el alfabeto, estas letras, tal manera"}
+{"task_id": "HumanEval/90", "keyWords": "= = none, que devuelve el segundo elemento, = =, escribe una funci\u00f3n next_smallest, te da una lista, se devuelve none, la lista, tal elemento, [ ], 5 ]"}
+{"task_id": "HumanEval/91", "keyWords": "se le da una serie, contar los n\u00fameros, una oraci\u00f3n, su tarea, el aburrimiento"}
+{"task_id": "HumanEval/92", "keyWords": "los otros dos n\u00fameros, todos los n\u00fameros, que acepte 3 n\u00fameros, los n\u00fameros, devuelve true, cualquier otro caso, crea una funci\u00f3n, la suma"}
+{"task_id": "HumanEval/93", "keyWords": "reemplaza las dos primeras letras, intercambia todas las letras, reemplaza todas las vocales, que acepta el mensaje, el mensaje, el alfabeto, la posici\u00f3n, la letra, escribe una funci\u00f3n, tal manera"}
+{"task_id": "HumanEval/94", "keyWords": "lst = [ 0,8,1,2,1,7 ] la salida, lst = [, usted necesita encontrar el n\u00famero, the output, devolver la suma, te da una lista, la salida, sus d\u00edgitos"}
+{"task_id": "HumanEval/95", "keyWords": "should return false, should return true, todas las claves, return true, dado un diccionario, se devuelve true, el diccionario, esta funci\u00f3n"}
+{"task_id": "HumanEval/96", "keyWords": "= > [ 2,3,5,7,11,13,17,19 ], = > [ 2,3,5,7 ], = > [ 2,3,5,7,11,13,17 ], = > [ ], = > [, que toma un entero, devuelve una lista, implementa una funci\u00f3n"}
+{"task_id": "HumanEval/97", "keyWords": "que toma dos enteros, devuelve el producto, completa una funci\u00f3n, sus d\u00edgitos, la entrada"}
+{"task_id": "HumanEval/98", "keyWords": "dada la cadena s, cuenta el n\u00famero, un sub\u00edndice"}
+{"task_id": "HumanEval/99", "keyWords": "que representa un n\u00famero, que toma un valor, devuelve el n\u00famero, un entero, este n\u00famero, crea una funci\u00f3n, dos enteros"}
+{"task_id": "HumanEval/100", "keyWords": "el siguiente n\u00famero, el siguiente nivel, representa el n\u00famero, devuelve el n\u00famero, el siguiente par, el n\u00famero, dado un entero positivo n, el nivel, el elemento, n capas, la primera capa, necesitas hacer una pila, la lista, la posici\u00f3n, cada nivel"}
+{"task_id": "HumanEval/101", "keyWords": "my name is john, usted obtiene una secuencia, divide una cadena, devuelve un array, su tarea"}
+{"task_id": "HumanEval/102", "keyWords": "devuelve el mayor n\u00famero, el rango, tal n\u00famero, la funci\u00f3n, acepta dos n\u00fameros, esta funci\u00f3n"}
+{"task_id": "HumanEval/103", "keyWords": "dado dos enteros positivos n, incluyendo n, redondea la respuesta, calcular el promedio, los enteros, su tarea"}
+{"task_id": "HumanEval/104", "keyWords": "devuelve una lista, dado una lista, la lista, todos los elementos, un n\u00famero"}
+{"task_id": "HumanEval/105", "keyWords": "arr = [, return = [, > reverse arr, > sort arr, = [ ], invierta el array, > [, el array, return [, dado un array, devuelve un array, reverse arr, reemplace cada n\u00famero, ordene los enteros, el nombre, alg\u00fan n\u00famero"}
+{"task_id": "HumanEval/106", "keyWords": "los n\u00fameros, tama\u00f1o n tal, implementando una funci\u00f3n f, devuelve una lista, el factorial, los elementos, el valor, = =, la suma, la multiplicaci\u00f3n"}
+{"task_id": "HumanEval/107", "keyWords": "1 . 1 < = n < =, que contiene el n\u00famero, contienen el n\u00famero, contiene el l\u00edmite, el rango, dado un entero positivo n, el palindr\u00f3mico, 3 entradas, devuelve una tupla, los palindromas, las tuplas"}
+{"task_id": "HumanEval/108", "keyWords": "que toma un array, un n\u00famero, escribe una funci\u00f3n count_nums, -123 los n\u00fameros, su primer d\u00edgito"}
+{"task_id": "HumanEval/109", "keyWords": "la matriz una posici\u00f3n, ordenar la matriz, la derecha tantas veces, la matriz, la derecha, la posici\u00f3n, la lista, realizar el desplazamiento, el array, una matriz, el \u00faltimo elemento, significa mover todos los elementos, el \u00edndice, que contiene n enteros, tenemos un conjunto, una operaci\u00f3n, devuelve true, un orden, los n\u00fameros, tenga elementos"}
+{"task_id": "HumanEval/110", "keyWords": "hacer lst1 una lista, todos los elementos, que acepta dos listas, intercambiando elementos, implementar\u00e1s una funci\u00f3n, posible un intercambio, la lista, el n\u00famero, este problema"}
+{"task_id": "HumanEval/111", "keyWords": "histogram('b b b b a, se devuelven todas las letras, histogram('a b b, = = {, histogram('a b c, se devuelve un diccionario, las letras, varias letras, tienen la misma ocurrencia, su correspondiente n\u00famero, sus ocurrencias, dado una cadena"}
+{"task_id": "HumanEval/112", "keyWords": "que contenga la cadena, c =, s =, tenemos dos cadenas s, la cadena, la misma manera, la comprobaci\u00f3n true, eliminar todos los caracteres, se llama palindroma, devuelve el resultado, una cadena, devolver una tupla, el resultado, un palindroma, cualquier car\u00e1cter"}
+{"task_id": "HumanEval/113", "keyWords": "se devuelve una lista, la i-\u00e9sima cadena, dado una lista, el n\u00famero, la cadena, la entrada, el resultado, todos los i, cada elemento, elementos odd"}
+{"task_id": "HumanEval/114", "keyWords": "dado un array entero nums, = =, encontrar la suma, cualquier subarray"}
+{"task_id": "HumanEval/115", "keyWords": "* 1 < = capacity < =, todos tienen la misma capacidad, = grid[:,1].length < =, representa un pozo, [ [, tiene un cubo, grid.length < =, vaciar el agua, un cubo, tienen la misma longitud, cada pozo, * grid[i][j ], salida el n\u00famero, te da una rejilla, representa una unidad, bajar el barril, cada fila, una fila, extraer agua, 5 salidas"}
+{"task_id": "HumanEval/116", "keyWords": "ordenar una matriz, el n\u00famero, una cantidad, el valor, la representaci\u00f3n, estos n\u00fameros, este catta"}
+{"task_id": "HumanEval/117", "keyWords": "= = > [ ], = = > [, la cadena s, dada una cadena s, que devuelva una lista, la cadena s., = >, la cadena, que aparecen estas palabras, implementar una funci\u00f3n, que contienen n, devolver una lista, la funci\u00f3n, un n\u00famero natural n, todas las palabras, little lamb, select_words(\"mary had, solo contiene letras, select_words(\"hello world, select_words(\"simple white space"}
+{"task_id": "HumanEval/118", "keyWords": "= = >, c\u00f3mo se juega vocales, se encuentra ninguna vocal, devuelve una cadena, las vocales, las condiciones, la cadena, tengo una palabra, solo contiene letras"}
+{"task_id": "HumanEval/119", "keyWords": "generar una buena cadena, una cadena s, que contiene dos cadenas, la cadena, concatenar dos cadenas, dado una lista, todos los par\u00e9ntesis, una manera, alg\u00fan orden, = =, su trabajo"}
+{"task_id": "HumanEval/120", "keyWords": "3 . 0 < = k < = len(arr, [ 1 , 1000 ], arr = [, que contiene los k n\u00fameros, k =, se devuelve una lista, enteros arr, dado un array, 1000 ], la longitud, los elementos, un entero, el array, la matriz"}
+{"task_id": "HumanEval/121", "keyWords": "= = >, devuelve la suma, todos los elementos, dado una lista"}
+{"task_id": "HumanEval/122", "keyWords": "2 . 1 < = k < = len(arr, 1 . 1 < = len(arr, los primeros k elementos, k =, arr = [, < =, el entero k, devuelve la suma, los elementos, dado un arr, que contiene n\u00fameros, dos d\u00edgitos, 21 +"}
+{"task_id": "HumanEval/123", "keyWords": "devuelve la secuencia, la siguiente manera, devuelve la lista, 3 veces el anterior +, el siguiente t\u00e9rmino, la secuencia, la conjetura, se devuelve una lista, la mitad, dado un entero positivo n, el t\u00e9rmino, cualquier entero positivo n, una conjetura, cada t\u00e9rmino, los n\u00fameros"}
+{"task_id": "HumanEval/124", "keyWords": "= > false, = > true, la fecha, que valide la cadena, > false, la cadena, el segundo mes, 1 d\u00eda, el n\u00famero, se cumplen las siguientes condiciones, el mes, el formato, devolviendo true, valid_date('06 - 04, 11 meses, 30 d\u00edas, los meses, escribir una funci\u00f3n"}
+{"task_id": "HumanEval/125", "keyWords": "se devuelve una lista, dado una cadena, devolver el n\u00famero, split_words(\"hello world, el alfabeto, el texto, una posici\u00f3n, la cadena, = ="}
+{"task_id": "HumanEval/126", "keyWords": "dado una lista, la lista, una copia, mismo n\u00famero"}
+{"task_id": "HumanEval/127", "keyWords": "el intervalo =( inicio, = = >, se le dan dos intervalos, el intervalo, los dos intervalos, cada intervalo, incluye el principio, el final, los intervalos, la longitud, que tiene longitud, la intersecci\u00f3n, su punto, su tarea, un n\u00famero, un par"}
+{"task_id": "HumanEval/128", "keyWords": "todos los n\u00fameros, todos los s\u00edmbolos, los tama\u00f1os, el arr, el producto, el s\u00edmbolo, devuelve la suma, devuelve none, cada n\u00famero"}
+{"task_id": "HumanEval/129", "keyWords": "lst_a [ j ] = lst_b[j ], rejilla = [ [ 1,2,3 ], rejilla = [ [, < = k, 1 < = j, lst_a[i ] < lst_b[i ], k =, 1 < =, k celdas, n > =, que pasa la ruta, las celdas a, la cuadr\u00edcula, encontrar una celda, que comparta un lado, encontrar el camino, n ], dada una cuadr\u00edcula, un camino, las celdas"}
+{"task_id": "HumanEval/130", "keyWords": "2 + 3 + 3 =, que contenga los primeros n, conoce la secuencia, if n is even, if n is odd, la sucesi\u00f3n, la secuencia, los \u00faltimos siglos, negativo n, la recursi\u00f3n, 1 n\u00fameros, los matem\u00e1ticos, dado un entero, devolver una lista, + tri(1, todo el mundo"}
+{"task_id": "HumanEval/131", "keyWords": "todos los n\u00fameros, devuelve el producto, dado un entero positivo n, todos los d\u00edgitos"}
+{"task_id": "HumanEval/132", "keyWords": "[ ] ] ] ] ] ] ] [ [ [ [ [ ], [ [ ] ] [ [, [ [ ] [ ] ], [ ] [ ], [ [ ] ], [ ], crea una funci\u00f3n, entrada una cadena, existe una secuencia, la funci\u00f3n, devolver true, un par\u00e9ntesis, la subsecuencia"}
+{"task_id": "HumanEval/133", "keyWords": "lst = [, la salida, la lista, devuelve la suma, te dar\u00e9 una lista, los n\u00fameros, redondeando cada elemento, los cuadrados, primer lugar"}
+{"task_id": "HumanEval/134", "keyWords": "tiene un valor, el \u00faltimo car\u00e1cter, una palabra, que devuelve true, crea una funci\u00f3n, un grupo, el resto, check_if_last_char_is_a_letter(\"apple pi, check_if_last_char_is_a_letter(\"apple pie"}
+{"task_id": "HumanEval/135", "keyWords": "que devuelve un elemento, no existe tal elemento, no contiene valores, el array, crea una funci\u00f3n"}
+{"task_id": "HumanEval/136", "keyWords": "= =, se devuelve none, el menor entero, el mayor entero, la lista, que devuelve tuplas, crea una funci\u00f3n, 7 ], [ ]"}
+{"task_id": "HumanEval/137", "keyWords": "devuelve la variable, los n\u00fameros, representar n\u00fameros, los valores, que acepta enteros, crea una funci\u00f3n"}
+{"task_id": "HumanEval/138", "keyWords": "= = false, = = true, el n\u00famero dado n, la suma, 4 n\u00fameros"}
+{"task_id": "HumanEval/139", "keyWords": "el factorial"}
+{"task_id": "HumanEval/140", "keyWords": "entonces reemplace todos los espacios, reemplace todos los espacios, dos espacios, una cadena, dado un texto"}
+{"task_id": "HumanEval/141", "keyWords": "que representa el nombre, el nombre, que toma una cadena, se cumplen todas las siguientes condiciones, un nombre, crea una funci\u00f3n, un punto, una letra, la subcadena, tres d\u00edgitos"}
+{"task_id": "HumanEval/142", "keyWords": "lst = [ 1,2,3 ] la salida, lst = [ ], la funci\u00f3n, la lista, lst = [, la salida, no cambia los elementos, la suma, todos los elementos, todos los enteros, un m\u00faltiplo, aceptar\u00e1 una lista, esta funci\u00f3n, su \u00edndice, the output"}
+{"task_id": "HumanEval/143", "keyWords": "* 1 < = len(sentence, que representa una frase, que contiene algunas palabras, le da una cadena, que contiene palabras, devolver una cadena, la nueva cadena, < =, la cadena, sentence =, las palabras, la frase, lets go for swimming, una prueba, las frases, el orden, solo contienen letras"}
+{"task_id": "HumanEval/144", "keyWords": "implementar una funci\u00f3n x, que simplifique la expresi\u00f3n, el denominador, el siguiente formato, el numerador, < denominador, la funci\u00f3n, un denominador, < numerador, un entero, devuelve true, su tarea"}
+{"task_id": "HumanEval/145", "keyWords": "la misma suma, la suma, ordenar una lista, la lista, escribe una funci\u00f3n, su \u00edndice, varios elementos"}
+{"task_id": "HumanEval/146", "keyWords": "que toma un conjunto, devuelve n\u00fameros, el array, escribe una funci\u00f3n, \u00faltimo d\u00edgito"}
+{"task_id": "HumanEval/147", "keyWords": "] + a[j ] + a[k ], ] =, a[j ], dado un entero positivo n, a[k ], a = [, 1 salida, crear un array, n =, devuelve el n\u00famero, el valor, una tripla"}
+{"task_id": "HumanEval/148", "keyWords": "que contiene todos los planetas, = = >, que toma los nombres, los dos planetas, escribe una funci\u00f3n, devuelve una tupla, devolver una tupla, las cadenas planet1, tiene ocho planetas, la funci\u00f3n, las \u00f3rbitas, esta funci\u00f3n, el nombre, la tierra, nuestro sistema"}
+{"task_id": "HumanEval/149", "keyWords": "que acepte una lista, devolver la lista, tienen la misma longitud, devolver una lista, devuelva una lista, la lista, una lista, la longitud, elimine las cadenas, escribe una funci\u00f3n, un cierto orden, contener cadenas, todas las palabras, el orden, > [, dos palabras, assert list_sort([\"ab, un array, esta funci\u00f3n, esa regla"}
+{"task_id": "HumanEval/150", "keyWords": "devolver el valor, un n\u00famero, un programa"}
+{"task_id": "HumanEval/151", "keyWords": "= = 1 + 9 + 0 + 0 =, = =, devuelve la suma, la lista, los n\u00fameros, dado una lista, ignorar n\u00fameros, los cuadrados"}
+{"task_id": "HumanEval/152", "keyWords": "se conoc\u00eda el resultado, que se conjetura cada vez, definitivamente vale la pena, la misma longitud, todos recordamos la sensaci\u00f3n, indicando la distancia, se obtiene dos matrices, la diferencia, la puntuaci\u00f3n, el valor, alg\u00fan resultado coincidencia, muestra una coincidencia, > [, devuelve un array, un acontecimiento, igual longitud, cada \u00edndice, una persona, ese momento, su tarea"}
+{"task_id": "HumanEval/153", "keyWords": "la extensi\u00f3n, la misma intensidad, se le da una extensi\u00f3n, la intensidad, la clase, la fracci\u00f3n cap-sm, la lista, cap el n\u00famero, sm el n\u00famero, el nombre, el formato, obtendr\u00e1s un nombre, devuelve un string, cargar otras clases, una columna, una cadena, las extensiones, su fuerza"}
+{"task_id": "HumanEval/154", "keyWords": "la segunda palabra, la primera palabra, > true, > false, devuelve true, sus rotaciones, una subcadena, dos palabras"}
+{"task_id": "HumanEval/155", "keyWords": "que contiene el n\u00famero, devuelve una tupla, dado un n\u00famero"}
+{"task_id": "HumanEval/156", "keyWords": "= num < =, obtener su cadena, dado un entero"}
+{"task_id": "HumanEval/157", "keyWords": "un tri\u00e1ngulo, = = true, = = false, el tri\u00e1ngulo, los tres lados, 3 lados, devuelve true, los \u00e1ngulos, dado la longitud, 90 grados"}
+{"task_id": "HumanEval/158", "keyWords": "que acepte una lista, se devuelve la cadena, = =, devuelve una palabra, una cadena, tiene el mayor n\u00famero, escribe una funci\u00f3n, contiene diferentes palabras, esta lista, el orden"}
+{"task_id": "HumanEval/159", "keyWords": "* 0 < = need < =, * 0 < = number < =, * 0 < = remaining < =, se comen todas las zanahorias, comido una cierta cantidad, cu\u00e1ntas zanahorias, > [, * eat(4, * eat(2, * eat(1, completar las tres comidas, suficiente cantidad, la cantidad, todav\u00eda tendr\u00e1 hambre, 4 ], un conejo"}
+{"task_id": "HumanEval/160", "keyWords": "construir una expresi\u00f3n, la segunda lista, la primera lista, una lista, devolver una evaluaci\u00f3n, * *, dado dos listas, dos listas, esa expresi\u00f3n, tiene operaciones"}
+{"task_id": "HumanEval/161", "keyWords": "invierte la cadena, devolver la cadena, la cadena, la letra, la funci\u00f3n, te doy una s., una letra, no contiene letras, invierta may\u00fasculas"}
+{"task_id": "HumanEval/162", "keyWords": "se devuelve su equivalente hash md5, se devuelve none, dada la cadena, una cadena"}
+{"task_id": "HumanEval/163", "keyWords": "> [, devuelve el n\u00famero, dado dos enteros"}

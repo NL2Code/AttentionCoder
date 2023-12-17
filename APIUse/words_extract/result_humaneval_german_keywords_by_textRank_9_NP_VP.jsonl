@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "der angeforderte abstand, einer angegebenen zahl, zwei zahlen"}
+{"task_id": "HumanEval/1", "keyWords": "eine liste dieser zeichenketten, die offenen klammern, mehreren eingebetteten klammern, eine zeichenfolge, die gruppen, die eingabe, der zeichenfolge, die funktion, eine leerzeichen, einzelne zeichenketten"}
+{"task_id": "HumanEval/2", "keyWords": "gibt die kleinen zahlen, einen kleinen teil, einen ganzzahligen teil, ein inverser fleck, ein fixpunkt, der rest"}
+{"task_id": "HumanEval/3", "keyWords": "sie erhalten den kontostand, dieser funktion, dem prim\u00e4rkonto, ihre aufgabe, der kontokontowert"}
+{"task_id": "HumanEval/4", "keyWords": "die durchschnittliche absolute abweichung, der n\u00e4he des durchschnittswert, diesem fall der durchschnitt, die absolute differenz, die absolute abweichung, eine angegebene eingabeliste, einem mittelpunkt, jedem element"}
+{"task_id": "HumanEval/5", "keyWords": "trat eine zahl, die liste"}
+{"task_id": "HumanEval/6", "keyWords": "die tiefste eckige klammer, leerzeichen getrennte gruppe, jede gruppe, drei zeilen, zwei zeilen, die eingabe, eine zeichenfolge, bezeichnet geben"}
+{"task_id": "HumanEval/7", "keyWords": "die eingabeliste der zeichenfolge, eine bestimmte zeichenfolge"}
+{"task_id": "HumanEval/8", "keyWords": "der strich einer leeren liste, die summe einer leeren liste, das produkt der liste, gibt eine ganzzahlige liste, alle ganzzahligen zahlen"}
+{"task_id": "HumanEval/9", "keyWords": "einer reihenfolge eine liste der maximalen elemente, die l\u00e4nge einer liste, einer ganzzahligen liste"}
+{"task_id": "HumanEval/10", "keyWords": "dem l\u00e4ngsten postfix der zeichenfolge, die angegebene zeichenfolge ein paskrit, ende der zeichenfolge, die anfangsbuchstaben einer zeichenfolge, dem ende des esmis, gegenl\u00e4ufige zeichenfolge, dem k\u00fcrzesten text, eine zeichenfolge, der algorithmus, return string"}
+{"task_id": "HumanEval/11", "keyWords": "sie geben die zwei buchstaben a, das ergebnis, diesen eingaben"}
+{"task_id": "HumanEval/12", "keyWords": "der liste der zeichenfolge, gibt die l\u00e4ngste zeichenfolge, die erste zeichenfolge, die liste leer, mehrere einheiten"}
+{"task_id": "HumanEval/13", "keyWords": "gibt den gr\u00f6\u00dften gemeinsamen teiler, ganzzahligen a"}
+{"task_id": "HumanEval/14", "keyWords": "gibt die liste der kurzbefehle, l\u00e4ngsten zeichenfolge"}
+{"task_id": "HumanEval/15", "keyWords": "gibt eine zeichenfolge, eine anzahl"}
+{"task_id": "HumanEval/16", "keyWords": "vielen verschiedenen zeichen, eine zeichenfolge"}
+{"task_id": "HumanEval/17", "keyWords": "der anzahl der einzelnen takt, die eingabe der funktion, der absoluten dauer, die zeichenfolge, eine ganzzahlige liste, die noten, den vier songs, die aufgabe, eine zeichenfolge, eine nachricht"}
+{"task_id": "HumanEval/18", "keyWords": "der urspr\u00fcnglichen zeichenfolge, viele untereinheiten, die \u00fcberschneidungen"}
+{"task_id": "HumanEval/19", "keyWords": "gibt die zeichenfolge, eine digitale folge, nine wirksame, ein leerzeichen, deren inhalt"}
+{"task_id": "HumanEval/20", "keyWords": "der angegebenen zahlenliste, der reihenfolge, n\u00e4hernde zahlen, gr\u00f6\u00dfere zahlen, 2 l\u00e4ngen"}
+{"task_id": "HumanEval/21", "keyWords": "die gr\u00f6\u00dfte zahl, die kleinste zahl, eine lineare konvertierung, die liste, zwei elemente, eine zahlenliste"}
+{"task_id": "HumanEval/22", "keyWords": "einen ganzzahligen wert"}
+{"task_id": "HumanEval/23", "keyWords": "gibt die l\u00e4nge der angegebenen zeichenfolge"}
+{"task_id": "HumanEval/24", "keyWords": "die maximale zahl, eine angegebene zahl"}
+{"task_id": "HumanEval/25", "keyWords": "dem produkt aller faktoren, einen ganzzahligen wert, der analyse, gibt eine primzahl, der anzahl, die eingabezahl, jeder faktor"}
+{"task_id": "HumanEval/26", "keyWords": "der gleichen reihenfolge, der ganzzahligen liste, l\u00f6scht alle elemente, die reste, die eingabefelder"}
+{"task_id": "HumanEval/27", "keyWords": "ein gro\u00dfes zeichen, ein kleines zeichen, eine bestimmte zeichenfolge"}
+{"task_id": "HumanEval/28", "keyWords": "einer einzigen zeichenfolge, schlie\u00dft eine liste"}
+{"task_id": "HumanEval/29", "keyWords": "die eingabeliste der zeichenfolge"}
+{"task_id": "HumanEval/30", "keyWords": "den positiven wert, der liste"}
+{"task_id": "HumanEval/31", "keyWords": "die angegebene zahl primzahl"}
+{"task_id": "HumanEval/32", "keyWords": "einen maximalen koeffizienten, einen einzigen punkt, der gruppe o, einem einzigen ziel, der koeffizienten, die summe xs, findet das x, geraden koeffizienten, eine l\u00f6sung, eine liste"}
+{"task_id": "HumanEval/33", "keyWords": "nimmt eine liste l, gibt eine liste l, einem gleichgeordneten index, einem index, einem gleichrangabteilung, das ergebnis, der wert, die funktion"}
+{"task_id": "HumanEval/34", "keyWords": "gibt das einzige element, der liste"}
+{"task_id": "HumanEval/35", "keyWords": "gibt das gr\u00f6\u00dfte element der liste"}
+{"task_id": "HumanEval/36", "keyWords": "einem ganzzahligen ergebnis, ergibt die zahl"}
+{"task_id": "HumanEval/37", "keyWords": "der ungeraden liste l, gibt eine liste l, den eintrag l, liegt der wert, der wert, den geraden eintrag, der reihenfolge, diese funktion"}
+{"task_id": "HumanEval/38", "keyWords": "eingabe einer zeichenfolge, eine gel\u00f6schte zeichenfolge, die zeichenfolge, einem menschen"}
+{"task_id": "HumanEval/39", "keyWords": "zeigt die primzahl, den fibonacci-zahlen"}
+{"task_id": "HumanEval/40", "keyWords": "der text eine liste, der liste, einer gruppe, drei elemente"}
+{"task_id": "HumanEval/41", "keyWords": "gibt die anzahl der zusammenst\u00f6\u00dfe, der gleichen geschwindigkeit, die beiden wagen, andere unbewaffnete fahrzeuge, fahrenden auto, kommendes auto, alle autos, diese funktion"}
+{"task_id": "HumanEval/42", "keyWords": "gibt die liste des elements plus"}
+{"task_id": "HumanEval/43", "keyWords": "der roten liste, der liste, eine gruppe, zwei elemente"}
+{"task_id": "HumanEval/44", "keyWords": "eine darstellung des base base, die form der zeichenfolge, die eingabe der zahl, ein dutzend, dem wechseln"}
+{"task_id": "HumanEval/45", "keyWords": "die h\u00f6he der fl\u00e4che, die l\u00e4nge des dreiecks"}
+{"task_id": "HumanEval/46", "keyWords": "eine folge einer fibonacci folge, das n-element der messreihe b4, du nimmst keinen recode, die fibonacci folge, vielen wellen, eine funktion"}
+{"task_id": "HumanEval/47", "keyWords": "gibt den mittelwert des elements, der liste l"}
+{"task_id": "HumanEval/48", "keyWords": "ein angegebenen text text"}
+{"task_id": "HumanEval/49", "keyWords": ""}
+{"task_id": "HumanEval/50", "keyWords": "eine gel\u00f6schte zeichenfolge, die zeichenfolge"}
+{"task_id": "HumanEval/51", "keyWords": "eine zeichenfolge, eine funktion, einen vokal"}
+{"task_id": "HumanEval/52", "keyWords": "der liste l, dem schwellenwert, alle werte"}
+{"task_id": "HumanEval/53", "keyWords": "zwei zahlen"}
+{"task_id": "HumanEval/54", "keyWords": "beide w\u00f6rter dieselben buchstaben"}
+{"task_id": "HumanEval/55", "keyWords": "ruf den neuen fibonacci-zahlen"}
+{"task_id": "HumanEval/56", "keyWords": "die linke eckige klammern eine rechte eckige schreibweise, die klammern"}
+{"task_id": "HumanEval/57", "keyWords": "tritt die liste"}
+{"task_id": "HumanEval/58", "keyWords": "gibt das einzige \u00f6ffentliche element, zwei listen"}
+{"task_id": "HumanEval/59", "keyWords": "gibt den veganen maximalwert, keine primzahl"}
+{"task_id": "HumanEval/60", "keyWords": "eine funktion"}
+{"task_id": "HumanEval/61", "keyWords": "die linke eckige klammern eine rechte eckige schreibweise, die klammern, eine zeichenfolge"}
+{"task_id": "HumanEval/62", "keyWords": "zeigt den koeffizienten eines polyfootball, gibt den polygraphen"}
+{"task_id": "HumanEval/63", "keyWords": "eine fibfib-folge, eine funktion, das erste n-element, eine zahl, der fibfib-folge, einer fibpack-folge"}
+{"task_id": "HumanEval/64", "keyWords": "die anzahl der vokale, die vokale a, ende des wortes, ein wort, einer zeichenfolge, eine zeichenfolge, ein vokal, diesem fall"}
+{"task_id": "HumanEval/65", "keyWords": "eine rechte kurve, eine kurzweilige kurve, gibt das ergebnis, den ganzzahligen x, die umdreh-ziffern"}
+{"task_id": "HumanEval/66", "keyWords": "dem grossen zeichen, gibt eine funktion, gibt eine zeichenfolge, dem ding, den bit-code"}
+{"task_id": "HumanEval/67", "keyWords": "die anzahl der mangos, die gesamtzahl der fr\u00fcchte, die anzahl der \u00e4pfel, eine ganze zahl, eine zeichenfolge, eine zeichenkette, dieser aufgabe, einem korb, einen fruchtkorb, ein beispiel"}
+{"task_id": "HumanEval/68", "keyWords": "der kleinste numerische knoten, der kleinste knoten, sie hat den geringsten index, das angegebene knoten, der gezogene knoten, eine angegebene zahl leer, bezeichnet ein zweig des baums, haben den geringsten index, einer nicht negativen ganzzahigen anzahl, haben den kleinsten wert"}
+{"task_id": "HumanEval/69", "keyWords": "den wert einer ganzen zahl, die anzahl der vorkommen, eine nicht leere liste, der liste, eine ganzzahlige frequenz, einer frequenz, ganzzahligen zahlen, ein beispiel"}
+{"task_id": "HumanEval/70", "keyWords": "dem rest des quasten, einer ganzzahligen reihenfolge, dem maximum, dem minimum, eine liste, ein beispiel, das merkwortigste"}
+{"task_id": "HumanEval/71", "keyWords": "dann bilden die drei seiten ein wirksames dreieck, die drei seiten ein g\u00fcltiges dreieck, die summe zweier seiten, die l\u00e4nge eines dreiecks, die angegebene fl\u00e4che, drei seiten, dem komma, zwei stellen"}
+{"task_id": "HumanEval/72", "keyWords": "das maximale m\u00f6gliche gewicht, die summe seiner elemente, dem maximalen m\u00f6glichen gewicht, erstellt eine funktion, eine truckliste, den flug, das subjekt, ein beispiel, der objekten"}
+{"task_id": "HumanEval/73", "keyWords": "arr eine gruppe ganzzahliger zahlen, niedrigsten \u00e4nderung des paxlox, eine mathematische gruppe, eine \u00e4nderung, ein element, ein beispiel, ein proxy, die funktion"}
+{"task_id": "HumanEval/74", "keyWords": "alle zeichen einer liste, gibt die erste liste, die gesamtzahl aller zeichen, beiden listen alle zeichen, einer anderen liste, gibt eine liste, nimmt zwei listen, gibt eine funktion, einer zeichenfolge, deren gesamtzahl"}
+{"task_id": "HumanEval/75", "keyWords": "das produkt einer angegebenen zahl das produkt, die funktion, ein beispiel, drei primzahlen"}
+{"task_id": "HumanEval/76", "keyWords": "den meisten f\u00e4llen, eine funktion, eine zahl, ein beispiel, ihre aufgabe"}
+{"task_id": "HumanEval/77", "keyWords": "diese ganzzahlige zahl ein quadrat, den ganzzahligen a, ein beispiel, die funktion"}
+{"task_id": "HumanEval/78", "keyWords": "die output, das produkt zweier kleiner nat\u00fcrlicher zahlen, die statistische zahl, die zahl, die ausgabe, die eingabe, k einen output, die symbole, die anzahl, ein output"}
+{"task_id": "HumanEval/79", "keyWords": "gibt eine bin\u00e4re zahl, gibt eine zeichenfolge, ende der zeichenfolge, eine zehner zahl, jedes zeichen, der zeichenfolge, zus\u00e4tzliche zeichen, wichtige zeichen, das format, ein beispiel"}
+{"task_id": "HumanEval/80", "keyWords": "drei l\u00e4ngen, ein beispiel, liegenden buchstaben, der reihe, ihre aufgabe, die zeichenfolge"}
+{"task_id": "HumanEval/81", "keyWords": "gibt den sch\u00fclern eine note, die liste der alphabetischen klassen, eine gpa liste, hilfe der folgenden tabelle, die letzte woche des semesters, der lehrer, das einzige problem, eine funktion, seinen eigenen algorithmus, den code"}
+{"task_id": "HumanEval/82", "keyWords": "ergibt eine funktion, eine zeichenfolge, einer primzahl, die funktion"}
+{"task_id": "HumanEval/83", "keyWords": ""}
+{"task_id": "HumanEval/84", "keyWords": "die summe der addierten zahlen, betr\u00e4gt die zahl, eine ganzzahlige zahl, die summe, die zahl, eine liste, der song"}
+{"task_id": "HumanEval/85", "keyWords": "eine liste der nicht leeren ganzzahligen zahlen, die geraden elemente, ungeraden zahlen, den index"}
+{"task_id": "HumanEval/86", "keyWords": "eine geordnete version einer zeichenfolge, gibt eine geordnete version, nimmt eine zeichenfolge, gibt eine funktion, eine zeichenfolge, einer aufgehobenen reihenfolge, dem wert ascii-wert, alle zeichen, ein wort, alle w\u00f6rter"}
+{"task_id": "HumanEval/87", "keyWords": "gibt die liste der mitglieder, man hat eine zweidimensionale datenliste, beruhigen der liste, der ganzzahligen zahl x, der liste, eine liste, eine unterschiedliche anzahl, der matrix, die zeilenkoordinaten, eine koordinate"}
+{"task_id": "HumanEval/88", "keyWords": "gibt den inhalt einer nicht negativen ganzzahligen gruppe, die angegebene gruppe, eine gegebene gruppe, die ungerade zahl, der letzte index, der erste index, die gegeben, aufsteigender reihenfolge, schwache nerven"}
+{"task_id": "HumanEval/89", "keyWords": "sendet eine verschl\u00fcsselte zeichenfolge, parameter eine zeichenfolge, erstellt eine funktion encrypt, das alphabet, die buchstaben"}
+{"task_id": "HumanEval/90", "keyWords": "man bekommt ein element, eine liste, den zweiten faktor, der liste, eine funktion"}
+{"task_id": "HumanEval/91", "keyWords": "sie haben die aufgabe, ein satz, ein beispiel, ein wort, langweilige zahlen"}
+{"task_id": "HumanEval/92", "keyWords": "eine zahl der beiden anderen zahlen, die drei zahlen, den anderen f\u00e4llen, alle zahlen, erstellt eine funktion"}
+{"task_id": "HumanEval/93", "keyWords": "die ersetzung der ersten beiden buchstaben, die buchstaben, erstellt eine funktion, alle buchstaben, der position, englischen alphabet, dieser weise, ein beispiel"}
+{"task_id": "HumanEval/94", "keyWords": "ein gutes gefolgschaft, die gr\u00f6\u00dfte primzahl, ein anfang, ein beispiel, einer stufe, den prozentsatz, nimmt nehm, eine liste"}
+{"task_id": "HumanEval/95", "keyWords": "ein w\u00f6rterbuch, das angegebene w\u00f6rterbuch, einer gro\u00dfschrift, einer zeichenfolge, ein beispiel, return false, alle tasten"}
+{"task_id": "HumanEval/96", "keyWords": "eine liste solcher primzahlen, einen nichtnegativen ganzzahligen wert, ein beispiel, eine funktion"}
+{"task_id": "HumanEval/97", "keyWords": "gibt das produkt ihrer einstelligen anzahl, nimmt zwei ganzzahlige zahlen, should return, die hypothetische eingabe, eine funktion, ein beispiel"}
+{"task_id": "HumanEval/98", "keyWords": "gibt die anzahl der vokale, ein wort, markierte zeichen, ein beispiel"}
+{"task_id": "HumanEval/99", "keyWords": "gibt die ganzzahlige zahl, eine zahl, zwei ganzzahligen zahlen, der zahl, erstellt eine funktion, eine zeichenfolge, einen wert, diese summe"}
+{"task_id": "HumanEval/100", "keyWords": "gibt die anzahl der steine, die anzahl der steine, die n\u00e4chste ungerade zahl, die steine, die n\u00e4chste schwierigkeit, n eine ungerade zahl, jede ebene der liste, die zahl, der liste, eine ganzzahlige n-zahl"}
+{"task_id": "HumanEval/101", "keyWords": "leerzeichen getrennte liste, einer worterfolg, ein beispiel, deine aufgabe"}
+{"task_id": "HumanEval/102", "keyWords": "gibt die gr\u00f6\u00dfte gerade zahl, gibt zwei positive zahlen, die funktion, keine zahl, ein beispiel"}
+{"task_id": "HumanEval/103", "keyWords": "sie haben die aufgabe, n\u00e4chsten liegenden ganzzahligen wert, den ganzzahligen durchschnitt, zwei gleichaltige zahlen, die antworten"}
+{"task_id": "HumanEval/104", "keyWords": "gibt eine geordnete liste aller elemente, eine ganzzahlige liste, aufsteigender reihenfolge, zahlige zahlen, eine r\u00fcckangliste, ein beispiel"}
+{"task_id": "HumanEval/105", "keyWords": "die runden zahlen, gibt die anzahl, die zahl, stellen die ergebnisse, einer ganzzahligen gruppe, den entsprechenden namen, eine zahl, einer reihenfolge, ein beispiel"}
+{"task_id": "HumanEval/106", "keyWords": "wert eines elements, der wert, der gr\u00f6\u00dfe, der zahl, der index, gibt eine liste, die summe, ein beispiel, die funktion"}
+{"task_id": "HumanEval/107", "keyWords": "gibt eine positive ganzzahlige zahl, enth\u00e4lt die anzahl eines geraden, ungeraden zahlen des escus, eine angegebene gruppentherapie, gibt eine metadaten, die ganzzahligen zahlen, die geraden, einen ungeraden gesamtzahl, den grenzbereich, schwache nerven"}
+{"task_id": "HumanEval/108", "keyWords": "das ergibt einen vollen satz, die summe der elemente, die erste zahl, einen vollen countdown, die zahlen, einem 123 zeichen, eine zahl"}
+{"task_id": "HumanEval/109", "keyWords": "die elemente der gruppe, das letzte element der gruppe, die angegebene gruppe leer, die angegebene gruppe, den startpunkt der gruppe, ein einziges element, ein solches unternehmen, die folgenden ma\u00dfnahmen, die angegebenen listen, ein n-wort arr"}
+{"task_id": "HumanEval/110", "keyWords": "die eingabe dieser liste, der stst1 alle geraden, die liste leer, einer liste, die elemente, einer geraden zahl, alle elemente, 1 stst1, dieser funktion, den lst1"}
+{"task_id": "HumanEval/111", "keyWords": "die zahl ihres vorkommen, alle buchstaben, z\u00e4hlenden buchstaben, leerzeichen getrennte zeichenfolge, mehrere buchstaben, ein w\u00f6rterbuch, ein beispiel, die anzahl, wiederkehrende buchstabe"}
+{"task_id": "HumanEval/112", "keyWords": "die zeichenfolge ein echo, wir haben 2 zeichenstr\u00e4nge s, l\u00e4uft die r\u00fcckkehr, einen kreis der ergebnisse, ende der zeichenfolge, die leseweise, eine zeichenfolge, ein ergebnis, eine r\u00fcckkehr, eine projektgruppe"}
+{"task_id": "HumanEval/113", "keyWords": "der angegebenen ersten schreibfolge, die ungeraden ziffern, gibt eine liste, eine liste, jedes element, jede zeichenfolge, dem ausgabeergebnis"}
+{"task_id": "HumanEval/114", "keyWords": "ein ganzer satz, den kleinsten punkt"}
+{"task_id": "HumanEval/115", "keyWords": "es gibt ein einziges reservoir, jede zeile eine wassereinheit, die gleiche l\u00e4nge, ein siragrid, das wasser, repr\u00e4sentiert einen brunnen, dem brunnen, viel wasser, ein rechteck, alle brunnen"}
+{"task_id": "HumanEval/116", "keyWords": "eine nicht negativen ganzzahligen zahl, eine \u00e4hnliche zahl, der antworten dieser zahlen, eine zehnerskala, diesem katurm"}
+{"task_id": "HumanEval/117", "keyWords": "sie gibt eine liste aller w\u00f6rter, gibt die funktion eine leere liste, eine zeichenfolge s, eine funktion, eine nat\u00fcrliche zahl, die zeichenfolge, a little lamb, der zeichenfolge, diese w\u00f6rter, ein beispiel"}
+{"task_id": "HumanEval/118", "keyWords": "der mitte des wortes, die angegebene zeichenfolge, der leere zeichensatz, die vokale, ein beispiel, ein wort, keine vokale, einen vokal, englische buchstaben, diese kriterien"}
+{"task_id": "HumanEval/119", "keyWords": "eine gute zeichenfolge, die zeichenfolge s, eine \u00f6ffnende klammer, eine zeichenfolge, s enthaltenen klammern, eine liste, einer bestimmten reihenfolge, zwei s\u00e4tzen, zwei zeichenfolgen, ein beispiel"}
+{"task_id": "HumanEval/120", "keyWords": "eine ganzzahlige gruppe arr, die l\u00e4nge der zelle, eine positive zahlenzahl, die gr\u00f6\u00dfte k-zahl, der l\u00e4nge k, gibt eine liste, die elemente, schwache nerven, den gruppen"}
+{"task_id": "HumanEval/121", "keyWords": "eine nicht leere ganzzahlige liste die ungeraden elemente, geraden positionen"}
+{"task_id": "HumanEval/122", "keyWords": "zwei elementen eines ehemaligen k-elements, einem nicht leeren satz, den ganzzahligen wert, einem ganzzahligen platz, charles of, die summe, ein beispiel, 24 dollar"}
+{"task_id": "HumanEval/123", "keyWords": "der n\u00e4chste gegenstand die h\u00e4lfte des vorigen eintrags, die ungerade zahl, die obere zeile, der ungeraden zahl, der letzte eintrag, die sequenz, die collatztheorie, eine ganzzackige zahl, den ersten eintrag, so hat das programm"}
+{"task_id": "HumanEval/124", "keyWords": "die anzahl der tage, die folgenden bedingungen, die angegebene zeichenfolge, die daten, die datumskette, das datum g\u00fcltigkeit, der monat, 29 tage, 30 tage, 31 tage"}
+{"task_id": "HumanEval/125", "keyWords": "ein paar wochen, einer liste ausgegebener w\u00f6rter, blieb ein text, ein komma, einer t\u00fcte, einer zahl, kein scherz, wenigen buchstaben"}
+{"task_id": "HumanEval/126", "keyWords": "gibt eine numerische liste, eine ganzzahlige zahl, keine negativen zahlen, der liste, aufsteigender reihenfolge, ein fehler, mehrere einheiten"}
+{"task_id": "HumanEval/127", "keyWords": "die l\u00e4nge dieser \u00fcberlappenden zeitspanne eine primzahl, die l\u00e4nge der schnittmenge primzahl, jede zeitspanne ein ganzzahliger wert, der gegebene abstand, der abstand, der ausgangspunkt, jeder angegebenen zeitspanne, ergibt eine l\u00e4nge, der endpunkt, die zwei reiter"}
+{"task_id": "HumanEval/128", "keyWords": "die summe der totalen zahl aller ganzzahligen zahlen, einen ganzzahligen satz arr, es gibt keine eintr\u00e4ge, dem produkt aller hits, den leeren arr, die ziffern, erreichen anmerkung, jede zahl, ein beispiel"}
+{"task_id": "HumanEval/129", "keyWords": "die werte der zellen a, gibt eine geordnete liste der werte, der l\u00e4nge k, einem w\u00f6rterbuch der unterschied, die l\u00e4nge k, jedem gitter die ganzzah, den zellen des raster, eine ganzzahlige anzahl k, eine seite derselben zelle, der grund"}
+{"task_id": "HumanEval/130", "keyWords": "einer nicht diesen zahlen, die tribbledanchese folge, laufe der letzten jahrhunderte, die trebonacci-folge, die fibonacci-zahl, einer nzahl, ein beispiel, eine liste"}
+{"task_id": "HumanEval/131", "keyWords": "das produkt aller ungeraden zahlen, eine positive ganzzahlige zahl, eine blindzahl, alle ziffern"}
+{"task_id": "HumanEval/132", "keyWords": "eine klammern, erstellt eine funktion, eine zeichenfolge, eckige klammern, die funktion, g\u00fcltige klammern, der teilsequenz"}
+{"task_id": "HumanEval/133", "keyWords": "ein quadrat der zahl, der angegebenen liste, der liste, eine numerische liste, ein jahr, das leben, das reptil, ein beispiel, alle elemente"}
+{"task_id": "HumanEval/134", "keyWords": "das letzte zeichen ein alphanumbuchstaben, ein teil des worts, erstellt eine funktion, ein beispiel, eine zeichengruppe, der rest"}
+{"task_id": "HumanEval/135", "keyWords": "den maximalen index des elements, enth\u00e4lt keinen doppelten wert, kein derartiges element, dessen prim\u00e4res element, eine gegebene zahl, bedeutet 3 namen, erstellt eine funktion, seines vorg\u00e4ngers, ein beispiel"}
+{"task_id": "HumanEval/136", "keyWords": "der geringsten ganzzahligen zahl, der liste, erstellt eine funktion, negative zahl, ein beispiel"}
+{"task_id": "HumanEval/137", "keyWords": "gibt die gr\u00f6\u00dferen variablen des angegebenen variable, einen ganzzahligen wert, die tats\u00e4chliche zahl, eine zeichenfolge, eine funktion, eine one, ein dezimzahl, der wert, einen auftrieb"}
+{"task_id": "HumanEval/138", "keyWords": "gibt die angegebene zahl, die summe, 4 geraden"}
+{"task_id": "HumanEval/139", "keyWords": "der blaue himmel, ein beispiel"}
+{"task_id": "HumanEval/140", "keyWords": "ersetzt alle leerzeichen dieser liste, alle durchlaufenden leerzeichen, zwei durchgehende leerzeichen, ersetzt eine zeichenfolge, einer zeichenfolge, unterstrichenen text"}
+{"task_id": "HumanEval/141", "keyWords": "dem lateinischen buchstaben a, der folgenden zeichenfolgen, alle folgenden voraussetzungen, einen dateinamen, die zeichenfolge, eine zeichenfolge, erstellt eine funktion, die dreizahl, der dateiname, die datei"}
+{"task_id": "HumanEval/142", "keyWords": "ein index nicht den vollen bereich, der index ein vieleck, der wert ein vieleck, die ganzzahlige summe, ein gutes gefolgein, die funktion, \u00e4ndert keinen eintrag einer liste, nimmt eine ganzzahlige liste, ein beispiel, der liste"}
+{"task_id": "HumanEval/143", "keyWords": "entspricht der urspr\u00fcnglichen zeichenfolge, original die primzahl, eine zeichenfolge, ein wort, leergesenkten w\u00f6rtern, diese folge, dessen l\u00e4nge, einen satz"}
+{"task_id": "HumanEval/144", "keyWords": "der nenner eine positive ganzzahlige zahl, dienen der darstellung, n ein ergebnis, der nenner, die funktion x, der z\u00e4hler, folgenden format, die funktion, gek\u00fcrztem ausdruck"}
+{"task_id": "HumanEval/145", "keyWords": "eine gegebene ganzzahlige liste, erstellt eine funktion, derselben liste, der originalliste, ein beispiel, den index, geordnet anmerkung, aufsteigender reihenfolge, mehrere eintr\u00e4ge"}
+{"task_id": "HumanEval/146", "keyWords": "gibt die zahl, die funktion, ergibt einen satz, letzte zahl, ein beispiel"}
+{"task_id": "HumanEval/147", "keyWords": "eine ganzzahlige gruppe a, eine positive ganzzahlige zahl, die dreidimensionale zahl, eine triade, martha may, ein beispiel, dem vielfache, die summe, der l\u00e4nge"}
+{"task_id": "HumanEval/148", "keyWords": "den namen der beiden planeten, planet2 nicht der richtige name, den bahnen der planeten1, der planeten, die funktion eine leere metadaten, der sonne, den planeten, der planet1, hat acht planeten, ergibt eine metadaten"}
+{"task_id": "HumanEval/149", "keyWords": "die beiden w\u00f6rter die gleiche l\u00e4nge, gibt eine geordnete liste, eine ungerade l\u00e4nge, eine doppelte zeichenfolge, l\u00f6sch eine zeichenfolge, eine liste, der l\u00e4nge der w\u00f6rter, gibt eine ergebnisliste, eine funktion, einer bestimmten reihenfolge"}
+{"task_id": "HumanEval/150", "keyWords": "gibt den wert, n eine primzahl, ein einfaches programm"}
+{"task_id": "HumanEval/151", "keyWords": "die quadrate der ungeraden zahlen, der liste, die liste, nichtige zahlen, eine zahl"}
+{"task_id": "HumanEval/152", "keyWords": "gibt die l\u00e4nge des jeweiligen spielfeldes, der gleichen l\u00e4nge, gibt die angegebene zahl, liegt der wert, einige passende ergebnisse, die absolute differenz, dem gesch\u00e4tzten wert, das ergebnis, geben eine \u00fcbereinstimmung, diese beiden gruppen"}
+{"task_id": "HumanEval/153", "keyWords": "sm die anzahl der erweiterten kleinen buchstaben, cap die anzahl der gro\u00dfbuchstaben, die dicke der erweiterung, die st\u00e4rkste ausdehnung, die liste, die kategorie, die spannweite, die oberste, die erweiterung, die verl\u00e4ngerung"}
+{"task_id": "HumanEval/154", "keyWords": "jede \u00e4nderung des ersten wortes eine zeichenfolge, das zweite wort, ein wort"}
+{"task_id": "HumanEval/155", "keyWords": "gibt eine gruppe, eine rechnung, ungeraden ziffern"}
+{"task_id": "HumanEval/156", "keyWords": "eine gleichaltige r\u00f6mische zeichenfolge, eine positive zahl, ein beispiel"}
+{"task_id": "HumanEval/157", "keyWords": "die l\u00e4nge eines dreiecks, ein rechtwinkliges dreieck, einen rechten winkel, ein winkel, ein beispiel, drei seiten, 90 grad"}
+{"task_id": "HumanEval/158", "keyWords": "mehrere zeichenketten die gr\u00f6\u00dfte anzahl einzelzeichen, eine liste der suchbegriffe, gibt die erste zeichenfolge, der mehrzahl einzelzeichen, gibt das wort, umfasst verschiedene w\u00f6rter, diese liste, eine funktion"}
+{"task_id": "HumanEval/159", "keyWords": "man isst die menge karotten, die menge der karotten, ein bisschen m\u00f6hren, ende karotten, alle karotten, ein hungriges kaninchen, mehr m\u00f6hren, ein beispiel, die tageskanne, eine liste"}
+{"task_id": "HumanEval/160", "keyWords": "geben den wert des ausdrucks, die zweite liste, die erste liste, eine ganzzahlige liste, enth\u00e4lt grundlegende algebra, einen alkalischen ausdruck, zwei listen, angegeben listen, algebraische algebra"}
+{"task_id": "HumanEval/161", "keyWords": "gibt die ergebnisfolge, die funktion, eine zeichenkette, keinen buchstaben, ein buchstabe"}
+{"task_id": "HumanEval/162", "keyWords": "der gew\u00e4hlte schriftsatz, der name"}
+{"task_id": "HumanEval/163", "keyWords": "die geraden zahlen, das gegebene a, aufsteigender reihenfolge, ein beispiel"}

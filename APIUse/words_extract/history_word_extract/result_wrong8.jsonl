@@ -1,0 +1,38 @@
+{"task_id": "HumanEval/25", "keywords": "Return list, prime factors, the order, the factors, many times, Input number, the product, all factors"}
+{"task_id": "HumanEval/32", "keywords": "non zero coefficient"}
+{"task_id": "HumanEval/33", "keywords": "a list l, the corresponding indicies"}
+{"task_id": "HumanEval/37", "keywords": "a list l, the odd indicies, the even indicies"}
+{"task_id": "HumanEval/39", "keywords": "prime_fib, n-th number, a Fibonacci number, prime"}
+{"task_id": "HumanEval/41", "keywords": "a different set, the same speed, hits a car"}
+{"task_id": "HumanEval/54", "keywords": "words, the same characters"}
+{"task_id": "HumanEval/64", "keywords": "Write a function vowels_count, only when"}
+{"task_id": "HumanEval/75", "keywords": "a function, the multiplication, prime numbers, false otherwise"}
+{"task_id": "HumanEval/76", "keywords": "a number x, a simple power, n * * int=x"}
+{"task_id": "HumanEval/90", "keywords": "the 2nd smallest element, no such element"}
+{"task_id": "HumanEval/91", "keywords": "a string, the number, A boredom, a sentence, the word"}
+{"task_id": "HumanEval/93", "keywords": "such a way, replaces all vowels, the english alphabet, Assume only letters"}
+{"task_id": "HumanEval/95", "keywords": "a dictionary, all keys, upper case, return False, The function"}
+{"task_id": "HumanEval/99", "keywords": "a function, a value, a number, the number"}
+{"task_id": "HumanEval/101", "keywords": "a string, the string, an array, the words"}
+{"task_id": "HumanEval/108", "keywords": "a function count_nums"}
+{"task_id": "HumanEval/110", "keywords": "this problem, a function, an exchange, a list, even numbers, no limit, the number, exchanged elements, the lst1, the elements"}
+{"task_id": "HumanEval/111", "keywords": "the corresponding count, the same occurrence"}
+{"task_id": "HumanEval/115", "keywords": "a rectangular grid, a single well, a single unit, a corresponding bucket, the same capacity"}
+{"task_id": "HumanEval/118", "keywords": "the right side, Return empty string, the above condition, string contains English letter"}
+{"task_id": "HumanEval/119", "keywords": "both strings consist, A string S, a good string"}
+{"task_id": "HumanEval/120", "keywords": "an array arr, a positive integer k, a sorted list, the maximum k numbers"}
+{"task_id": "HumanEval/122", "keywords": "a non-empty array, an integer k, the first k elements"}
+{"task_id": "HumanEval/124", "keywords": "the following rules, The date string"}
+{"task_id": "HumanEval/125", "keywords": "a string, a list, no whitespaces, the text, no commas, the number, lower-case letters, odd order, the alphabet"}
+{"task_id": "HumanEval/126", "keywords": "the same number, Assume no negative numbers"}
+{"task_id": "HumanEval/127", "keywords": "a prime number"}
+{"task_id": "HumanEval/129", "keywords": "N > =, a positive integer k, N * N ] inclusive, the minimum path, the neighbor cells, share an edge, A path A, a path B, the ordered lists, an integer index i, < = i, < lst_B [ i, < = j < i, [ j ] =, [ j ], an ordered list"}
+{"task_id": "HumanEval/130", "keywords": "the last couple centuries, + n /, a non-negative integer number n, a return a list, the first n +, the Tribonacci sequence"}
+{"task_id": "HumanEval/132", "keywords": "a valid subsequence"}
+{"task_id": "HumanEval/134", "keywords": "the last character, an alphabetical character"}
+{"task_id": "HumanEval/135", "keywords": "no such element exists"}
+{"task_id": "HumanEval/137", "keywords": "a real number"}
+{"task_id": "HumanEval/140", "keywords": "a string text, all consecutive spaces"}
+{"task_id": "HumanEval/145", "keywords": "a function, the sum, several items, similar sum, original list"}
+{"task_id": "HumanEval/155", "keywords": "an integer, a tuple, the number, odd digits"}
+{"task_id": "HumanEval/163", "keywords": "positive integers a"}

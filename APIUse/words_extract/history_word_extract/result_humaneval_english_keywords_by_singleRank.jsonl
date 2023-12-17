@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "given list, given threshold"}
+{"task_id": "HumanEval/1", "keyWords": "containing multiple groups, separate groups, separate strings, nested parentheses, input string, open brace"}
+{"task_id": "HumanEval/2", "keyWords": "leftover part, floating point number, largest integer, given number, integer part, decimal part"}
+{"task_id": "HumanEval/3", "keyWords": "bank account, point function, withdrawal operations"}
+{"task_id": "HumanEval/4", "keyWords": "calculate mean absolute deviation, mean absolute deviation, average absolute difference, input numbers, given list"}
+{"task_id": "HumanEval/5", "keyWords": "consecutive elements, input list"}
+{"task_id": "HumanEval/6", "keyWords": "represented multiple groups, nested parentheses, deepest level"}
+{"task_id": "HumanEval/7", "keyWords": "contain given substring, input list"}
+{"task_id": "HumanEval/8", "keyWords": "empty sum, empty product, given list"}
+{"task_id": "HumanEval/9", "keyWords": "rolling maximum element, given list, given moment"}
+{"task_id": "HumanEval/10", "keyWords": "supplied string, string prefix, string reverse, return string, given string, algorithm idea, longest postfix, palindromic suffix"}
+{"task_id": "HumanEval/11", "keyWords": "perform binary xor, return result"}
+{"task_id": "HumanEval/12", "keyWords": "return none, input list, same length"}
+{"task_id": "HumanEval/13", "keyWords": "greatest common divisor"}
+{"task_id": "HumanEval/14", "keyWords": "input string, return list"}
+{"task_id": "HumanEval/15", "keyWords": "containing space-delimited numbers"}
+{"task_id": "HumanEval/16", "keyWords": "many distinct characters"}
+{"task_id": "HumanEval/17", "keyWords": "representing musical notes, many beats, special ascii format, quater note, half note, whole note, return list"}
+{"task_id": "HumanEval/18", "keyWords": "count overlaping cases, original string, given substring, many times"}
+{"task_id": "HumanEval/19", "keyWords": "space-delimited string, valid choices"}
+{"task_id": "HumanEval/20", "keyWords": "smaller number, larger number, supplied list"}
+{"task_id": "HumanEval/21", "keyWords": "given list, linear transform, smallest number"}
+{"task_id": "HumanEval/22", "keyWords": "python values, given list"}
+{"task_id": "HumanEval/23", "keyWords": "given string, return length"}
+{"task_id": "HumanEval/24", "keyWords": "given number n, divides n, largest number"}
+{"task_id": "HumanEval/25", "keyWords": "prime factors, many times, input number, listed number, given integer, return list"}
+{"task_id": "HumanEval/26", "keyWords": "keep order"}
+{"task_id": "HumanEval/27", "keyWords": "flip lowercase characters, given string"}
+{"task_id": "HumanEval/28", "keyWords": "single string, concatenate list"}
+{"task_id": "HumanEval/29", "keyWords": "input list, given prefix"}
+{"task_id": "HumanEval/30", "keyWords": "only positive numbers"}
+{"task_id": "HumanEval/31", "keyWords": "given number"}
+{"task_id": "HumanEval/32", "keyWords": "only takes list xs, find x, evaluates polynomial"}
+{"task_id": "HumanEval/33", "keyWords": "corresponding indicies"}
+{"task_id": "HumanEval/34", "keyWords": "return sorted unique elements"}
+{"task_id": "HumanEval/35", "keyWords": "return maximum element"}
+{"task_id": "HumanEval/36", "keyWords": ""}
+{"task_id": "HumanEval/37", "keyWords": "even indicies, odd indicies"}
+{"task_id": "HumanEval/38", "keyWords": "has fewer elements, returns encoded string, input string, returns decoded string, else group, cycling groups, split string, cycle elements, encode_cyclic function"}
+{"task_id": "HumanEval/39", "keyWords": "returns n-th number, fibonacci number"}
+{"task_id": "HumanEval/40", "keyWords": "distinct elements"}
+{"task_id": "HumanEval/41", "keyWords": "n cars, infinitely long line, function outputs, such collisions, same speed, different set"}
+{"task_id": "HumanEval/42", "keyWords": "return list"}
+{"task_id": "HumanEval/43", "keyWords": "distinct elements"}
+{"task_id": "HumanEval/44", "keyWords": "change numerical base, return string representation, base numbers, input number x"}
+{"task_id": "HumanEval/45", "keyWords": "high return area, given length"}
+{"task_id": "HumanEval/46", "keyWords": "fib4 number sequence, n-th element, use recursion"}
+{"task_id": "HumanEval/47", "keyWords": "list l., return median"}
+{"task_id": "HumanEval/48", "keyWords": "given string"}
+{"task_id": "HumanEval/49", "keyWords": "return 2^n modulo p"}
+{"task_id": "HumanEval/50", "keyWords": "returns encoded string, input string, returns decoded string, encode_shift function"}
+{"task_id": "HumanEval/51", "keyWords": "returns string, takes string"}
+{"task_id": "HumanEval/52", "keyWords": "threshold t."}
+{"task_id": "HumanEval/53", "keyWords": ""}
+{"task_id": "HumanEval/54", "keyWords": "same characters"}
+{"task_id": "HumanEval/55", "keyWords": "return n-th fibonacci number"}
+{"task_id": "HumanEval/56", "keyWords": "corresponding closing bracket, opening bracket"}
+{"task_id": "HumanEval/57", "keyWords": "list elements"}
+{"task_id": "HumanEval/58", "keyWords": "return sorted unique common elements"}
+{"task_id": "HumanEval/59", "keyWords": "assume n, largest prime factor"}
+{"task_id": "HumanEval/60", "keyWords": ""}
+{"task_id": "HumanEval/61", "keyWords": "corresponding closing bracket, opening bracket"}
+{"task_id": "HumanEval/62", "keyWords": "return derivative, represent coefficients, same form"}
+{"task_id": "HumanEval/63", "keyWords": "fibfib number sequence, n-th element"}
+{"task_id": "HumanEval/64", "keyWords": "add more test cases, given word, function vowels_count"}
+{"task_id": "HumanEval/65", "keyWords": "return digits, circular shift, integer x"}
+{"task_id": "HumanEval/66", "keyWords": "upper characters"}
+{"task_id": "HumanEval/67", "keyWords": "fruit_distribution(\"5 apples, fruit_distribution(\"100 apples, fruit_distribution(\"0 apples, total number, fruit_distribution(\"2 apples, mango fruits, basket return"}
+{"task_id": "HumanEval/68", "keyWords": "same smallest even value, smallest even value, has non-negative integer nodes, has smallest index, plucked node, even values, multiple nodes, found return, given array"}
+{"task_id": "HumanEval/69", "keyWords": "greatest integer, non-empty list, positive integers"}
+{"task_id": "HumanEval/70", "keyWords": "then minimum, remaining integers, strange order, then maximum, minimum value, strange sorting, return list, given list"}
+{"task_id": "HumanEval/71", "keyWords": "valid triangle, sides form, decimal points, third side"}
+{"task_id": "HumanEval/72", "keyWords": "maximum possible weight, object q"}
+{"task_id": "HumanEval/73", "keyWords": "palindromic array, array arr, minimum number, other element"}
+{"task_id": "HumanEval/74", "keyWords": "other list, first list, same number, total number"}
+{"task_id": "HumanEval/75", "keyWords": "given number, prime numbers"}
+{"task_id": "HumanEval/76", "keyWords": "simple power, number x, other cases"}
+{"task_id": "HumanEval/77", "keyWords": "integer a, integer number"}
+{"task_id": "HumanEval/78", "keyWords": "hexadecimal number, prime number, natural number, hexadecimal digits, smaller natural numbers, empty string, prime numbers, following digits, always uppercase"}
+{"task_id": "HumanEval/79", "keyWords": "binary format, extra characters, extra couple, decimal form"}
+{"task_id": "HumanEval/80", "keyWords": "consecutive letters"}
+{"task_id": "HumanEval/81", "keyWords": "letter grades, letter grade, following table, only problem, own algorithm, last week"}
+{"task_id": "HumanEval/82", "keyWords": "prime number"}
+{"task_id": "HumanEval/83", "keyWords": "positive integer n, positive integers"}
+{"task_id": "HumanEval/84", "keyWords": "positive integer n, total sum"}
+{"task_id": "HumanEval/85", "keyWords": "even elements, non-empty list"}
+{"task_id": "HumanEval/86", "keyWords": "ascending order, ordered version, new word, blank spaces"}
+{"task_id": "HumanEval/87", "keyWords": "sort coordinates, find integers x, given lst, integer x, return list, ascending order, descending order, nested lists, different number, dimensional data"}
+{"task_id": "HumanEval/88", "keyWords": "first index value, last index value, given array, ascending order, descending order, non-negative integers"}
+{"task_id": "HumanEval/89", "keyWords": "function encrypt"}
+{"task_id": "HumanEval/90", "keyWords": "2nd smallest element, function next_smallest, such element, return none"}
+{"task_id": "HumanEval/91", "keyWords": ""}
+{"task_id": "HumanEval/92", "keyWords": "other cases"}
+{"task_id": "HumanEval/93", "keyWords": "only letters, english alphabet, swaps case"}
+{"task_id": "HumanEval/94", "keyWords": "largest prime value"}
+{"task_id": "HumanEval/95", "keyWords": "upper case, given dictionary"}
+{"task_id": "HumanEval/96", "keyWords": "first n, non-negative integer, prime numbers"}
+{"task_id": "HumanEval/97", "keyWords": "unit digits"}
+{"task_id": "HumanEval/98", "keyWords": "uppercase vowels, string s, even indices"}
+{"task_id": "HumanEval/99", "keyWords": "closest integer"}
+{"task_id": "HumanEval/100", "keyWords": "has n stones, next even number, next odd number, positive integer n, n levels, next level"}
+{"task_id": "HumanEval/101", "keyWords": ""}
+{"task_id": "HumanEval/102", "keyWords": "even integer number, positive numbers, such number"}
+{"task_id": "HumanEval/103", "keyWords": "positive integers n, nearest integer"}
+{"task_id": "HumanEval/104", "keyWords": "sorted list, positive integers x. return, returned list, even digit, increasing order"}
+{"task_id": "HumanEval/105", "keyWords": "resulting array, corresponding name"}
+{"task_id": "HumanEval/106", "keyWords": "index i, size n, function f"}
+{"task_id": "HumanEval/107", "keyWords": "positive integer n, integer palindromes"}
+{"task_id": "HumanEval/108", "keyWords": "signed digits, first signed digit, function count_nums"}
+{"task_id": "HumanEval/109", "keyWords": "given array, right shift operation, sorted array, perform right shift operation, following operation, given list, have unique elements, right direction, starting position, non-decreasing order, 0th index, last element"}
+{"task_id": "HumanEval/110", "keyWords": "only even numbers, make lst1, exchange elements, exchanged elements"}
+{"task_id": "HumanEval/111", "keyWords": "separated lowercase letters, several letters, corresponding count, most repetition, same occurrence"}
+{"task_id": "HumanEval/112", "keyWords": "result string, strings s, same backward"}
+{"task_id": "HumanEval/113", "keyWords": "string i, odd digits, only digits, odd elements"}
+{"task_id": "HumanEval/114", "keyWords": "minimum sum, non-empty sub-array"}
+{"task_id": "HumanEval/115", "keyWords": "extract water, single unit, corresponding bucket, rectangular grid, same capacity"}
+{"task_id": "HumanEval/116", "keyWords": "similar number, non-negative integers, binary representation, ascending order, decimal value"}
+{"task_id": "HumanEval/117", "keyWords": "input string, string s, empty list, natural number n"}
+{"task_id": "HumanEval/118", "keyWords": "given string, return empty string, closest vowel, right side"}
+{"task_id": "HumanEval/119", "keyWords": "string s, resulting string, close parentheses"}
+{"task_id": "HumanEval/120", "keyWords": "positive integer k, maximum k numbers, length k, sorted list, array arr"}
+{"task_id": "HumanEval/121", "keyWords": "odd elements, non-empty list, even positions"}
+{"task_id": "HumanEval/122", "keyWords": "first k elements, integer k, non-empty array"}
+{"task_id": "HumanEval/123", "keyWords": "previous term, next term, positive integer n, returned list, positive integer n., collatz sequence, sorted list, odd numbers, increasing order"}
+{"task_id": "HumanEval/124", "keyWords": "given date string, date string, following rules"}
+{"task_id": "HumanEval/125", "keyWords": "words split, lower-case letters"}
+{"task_id": "HumanEval/126", "keyWords": "negative numbers, ascending order, only integers"}
+{"task_id": "HumanEval/127", "keyWords": ""}
+{"task_id": "HumanEval/128", "keyWords": "array arr, return none, empty arr"}
+{"task_id": "HumanEval/129", "keyWords": "positive integer k, length k, minimum path, integer index i, neighbor cells, path a, path b, n rows, other words"}
+{"task_id": "HumanEval/130", "keyWords": "non-negative integer number n, tribonacci sequence, knows fibonacci sequence, first n, last couple centuries"}
+{"task_id": "HumanEval/131", "keyWords": "positive integer n, odd digits"}
+{"task_id": "HumanEval/132", "keyWords": "only square brackets, valid subsequence"}
+{"task_id": "HumanEval/133", "keyWords": "given list, squared numbers, upper int(ceiling"}
+{"task_id": "HumanEval/134", "keyWords": "last character, alphabetical character, given string"}
+{"task_id": "HumanEval/135", "keyWords": "such element, given array, largest index, duplicate values"}
+{"task_id": "HumanEval/136", "keyWords": "negative integers, positive integers"}
+{"task_id": "HumanEval/137", "keyWords": "given variable type, real numbers, real number, larger variable, return none, takes integers, floating point"}
+{"task_id": "HumanEval/138", "keyWords": "given number n, positive even numbers"}
+{"task_id": "HumanEval/139", "keyWords": ""}
+{"task_id": "HumanEval/140", "keyWords": "consecutive spaces, string text"}
+{"task_id": "HumanEval/141", "keyWords": "following conditions"}
+{"task_id": "HumanEval/142", "keyWords": "integer entry"}
+{"task_id": "HumanEval/143", "keyWords": "original sentence, new string, prime numbers"}
+{"task_id": "HumanEval/144", "keyWords": "positive whole numbers, whole number, string representation, following format, valid fractions"}
+{"task_id": "HumanEval/145", "keyWords": "ascending order, several items, similar sum, given list, original list"}
+{"task_id": "HumanEval/146", "keyWords": "last digits"}
+{"task_id": "HumanEval/147", "keyWords": "integer array a, positive integer, length n."}
+{"task_id": "HumanEval/148", "keyWords": "correct planet names, planet names, empty tuple, then earth"}
+{"task_id": "HumanEval/149", "keyWords": "resulted list, sorted order, have odd lengths, same length, contain duplicates"}
+{"task_id": "HumanEval/150", "keyWords": "prime number, simple program"}
+{"task_id": "HumanEval/151", "keyWords": "ignore numbers, input list"}
+{"task_id": "HumanEval/152", "keyWords": "same length, equal length, absolute difference"}
+{"task_id": "HumanEval/153", "keyWords": "same strength, strongest extension, more extensions, load additional classes, lowercase letters, fraction cap"}
+{"task_id": "HumanEval/154", "keyWords": "second word, first word"}
+{"task_id": "HumanEval/155", "keyWords": "odd digits"}
+{"task_id": "HumanEval/156", "keyWords": "roman numeral equivalent, positive integer"}
+{"task_id": "HumanEval/157", "keyWords": "right-angled triangle, sides form, right angle"}
+{"task_id": "HumanEval/158", "keyWords": "have maximum number, contains different words, unique characters, maximum number, lexicographical order"}
+{"task_id": "HumanEval/159", "keyWords": "eat more carrots, remaining carrots, eaten carrots, certain number, total number, hungry rabbit"}
+{"task_id": "HumanEval/160", "keyWords": "has basic algebra operations, basic algebra operations, second list, given lists, lists operator, floor division"}
+{"task_id": "HumanEval/161", "keyWords": "resulted string"}
+{"task_id": "HumanEval/162", "keyWords": "md5 hash equivalent string, empty string, return none"}
+{"task_id": "HumanEval/163", "keyWords": "positive integers, even digits, ascending order"}
