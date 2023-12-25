@@ -4,11 +4,12 @@ import subprocess
 import threading
 import time
 from human_eval.data import write_jsonl, read_problems
+import concurrent.futures
 
 from APIUse.generate_implements import get_model_completion
 from APIUse.process_result import getCommit
 from APIUse.utils import keyWOrds4OrderPrompt, language2problemDataset, getLanguageAttentionByMethod, create_message, \
-    wordSelect, write_to_csv, get_pass1
+    wordSelect, write_to_csv, get_pass1, write_to_file
 
 
 def generate_prompt2(task_id, input, attachment, promptId, comment=""):
@@ -468,53 +469,151 @@ def get_gpt_results(model_name, language, word_extract, template_id, result_path
 
 
 
+
+# word_extract是一个对象：{method:"", suffix: ""}
+def get_gpt_results_test(model_name, language, word_extract, template_id, result_path, chat_number, remark="", wordNum=100, promptId=0):
+    # 遍历方法
+    print("模板对比参数：", model_name,language, word_extract, template_id)
+
+def evaluate_result(model_name, language, word_extract, template_id, result_path, chat_number, remark, wordNum, prompt_id):
+    command = "python process_humaneval.py --path=" + result_path + model_name + "_humanEval_" + language + "_" + \
+              word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(
+        template_id) + ".jsonl" + " --out_path=" + result_path + model_name + "_humanEval_" + language + "_" + \
+              word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(
+        template_id) + "_processed.jsonl"
+    print(command)
+    result = subprocess.run(command, shell=True, capture_output=True, text=True)
+
+    # 输出命令的标准输出和标准错误import pke
+    print("Standard Output:")
+    print(result.stdout)
+    command2 = "evaluate_functional_correctness " + result_path + model_name + "_humanEval_" + language + "_" + \
+               word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(
+        template_id) + "_processed.jsonl" + " --problem_file=../dataSet/human-eval-v2-" + language + ".jsonl"
+    print(command2)
+    result2 = subprocess.run(command2, shell=True, capture_output=True, text=True)
+
+    # 将结果写入文件
+    write_to_csv("result.csv",
+                 [model_name, language, word_extract["method"], word_extract["suffix"], template_id, remark,
+                  get_pass1(result2.stdout)])
+    print("Standard Output:")
+    print(result2.stdout)
+    write_to_file("command.txt", command)
+    write_to_file("command.txt", command2)
+
 # 指定对比的模板id，以及所需要的分词结果后缀
-def experiment_execute(model_name_list, languages, word_extract_list, template_id_list, result_path, chat_number=1, remark="", wordNum=100, promptId=0):
-    threads = []
-    # 如果采用的是多线程，需要在第一个线程加载完参数以后（等待一定时间），在执行后续操作
-    flag = False
-    for model_name in model_name_list:
-        for language in languages:
-            for word_extract in word_extract_list:
-                for template_id in template_id_list:
-                    thread2 = threading.Thread(target=get_gpt_results, args=(model_name, language, word_extract, template_id, result_path, chat_number, remark, wordNum, promptId))
-                    threads.append(thread2)
-                    thread2.start()
-                    if ~flag:
-                       time.sleep(10)
-                       flag = True
+def experiment_execute(condition_list, max_workers):
+    # 线程开始前保证模型参数已经加载
+    generate_one_completion = get_model_completion(condition_list[0][0])
+    message = generate_one_completion(create_message("测试"))
+    if message != "":
+        print("model load success!")
+    else:
+        print("model load wrong!")
+        return
+    # 线程池完成任务
+    # 加载模型参数
+    # 定义线程池最大工作线程数
+    # 创建 ThreadPoolExecutor 对象，指定线程数为 max_workers
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # 生成结果
+        # 提交任务给线程池
+        future_to_task = {executor.submit(get_gpt_results, *condition): condition for condition in condition_list}
+        # 获取任务执行结果
+        for future in concurrent.futures.as_completed(future_to_task):
+            condition = future_to_task[future]
+            try:
+                result = future.result()
+                print(result)
+            except Exception as e:
+                print(f"任务 {condition} 执行出错: {e}")
 
-    # 等待所有线程执行结束
-    for thread in threads:
-        thread.join()
+        # 结果评估
+        # 提交任务给线程池
+        future_to_task = {executor.submit(evaluate_result, *condition): condition for condition in
+                          condition_list}
+        # 获取任务执行结果
+        for future in concurrent.futures.as_completed(future_to_task):
+            condition = future_to_task[future]
+            try:
+                result = future.result()
+                print(result)
+            except Exception as e:
+                print(f"任务 {condition} 执行出错: {e}")
 
-    # 执行命令
-    for model_name in model_name_list:
-        for language in languages:
-            for word_extract in word_extract_list:
-                for template_id in template_id_list:
-                    command = "python process_humaneval.py --path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + ".jsonl" + " --out_path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + "_processed.jsonl"
-                    print(command)
-                    result = subprocess.run(command, shell=True, capture_output=True, text=True)
 
-                    # 输出命令的标准输出和标准错误import pke
-                    print("Standard Output:")
-                    print(result.stdout)
-                    command2 = "evaluate_functional_correctness " + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(
-                        template_id) + "_processed.jsonl" + " --problem_file=../dataSet/human-eval-v2-" + language + ".jsonl"
-                    print(command2)
-                    result2 = subprocess.run(command2, shell=True, capture_output=True, text=True)
-
-                    # 将结果写入文件
-                    write_to_csv("result.csv", [model_name, language, word_extract["method"], word_extract["suffix"], template_id, remark, get_pass1(result2.stdout)])
-                    print("Standard Output:")
-                    print(result2.stdout)
-                    # 打开文件以追加模式写入内容，如果文件不存在则创建新文件
-                    with open('command.txt', 'a') as file:
-                        file.write(command + "\n")
-                        file.write(command2 + "\n")
+    # # 代码抽取和结果评估
+    # for condition in condition_list:
+    #     model_name, language, word_extract, template_id, result_path, chat_number, remark, wordNum, prompt_id = condition
+    #     command = "python process_humaneval.py --path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + ".jsonl" + " --out_path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + "_processed.jsonl"
+    #     print(command)
+    #     result = subprocess.run(command, shell=True, capture_output=True, text=True)
+    #
+    #     # 输出命令的标准输出和标准错误import pke
+    #     print("Standard Output:")
+    #     print(result.stdout)
+    #     command2 = "evaluate_functional_correctness " + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(
+    #         template_id) + "_processed.jsonl" + " --problem_file=../dataSet/human-eval-v2-" + language + ".jsonl"
+    #     print(command2)
+    #     result2 = subprocess.run(command2, shell=True, capture_output=True, text=True)
+    #
+    #     # 将结果写入文件
+    #     write_to_csv("result.csv", [model_name, language, word_extract["method"], word_extract["suffix"], template_id, remark, get_pass1(result2.stdout)])
+    #     print("Standard Output:")
+    #     print(result2.stdout)
+    #     # 打开文件以追加模式写入内容，如果文件不存在则创建新文件
+    #     with open('command.txt', 'a') as file:
+    #         file.write(command + "\n")
+    #         file.write(command2 + "\n")
 
     print(' threads finished.')
+# def experiment_execute(model_name_list, languages, word_extract_list, template_id_list, result_path, chat_number=1, remark="", wordNum=100, promptId=0):
+#     threads = []
+#     # 如果采用的是多线程，需要在第一个线程加载完参数以后（等待一定时间），在执行后续操作
+#     flag = False
+#     for model_name in model_name_list:
+#         for language in languages:
+#             for word_extract in word_extract_list:
+#                 for template_id in template_id_list:
+#                     thread2 = threading.Thread(target=get_gpt_results, args=(model_name, language, word_extract, template_id, result_path, chat_number, remark, wordNum, promptId))
+#                     threads.append(thread2)
+#                     thread2.start()
+#                     if ~flag:
+#                        time.sleep(120)
+#                        flag = True
+#
+#     # 等待所有线程执行结束
+#     for thread in threads:
+#         thread.join()
+#
+#     # 执行命令
+#     for model_name in model_name_list:
+#         for language in languages:
+#             for word_extract in word_extract_list:
+#                 for template_id in template_id_list:
+#                     command = "python process_humaneval.py --path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + ".jsonl" + " --out_path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + "_processed.jsonl"
+#                     print(command)
+#                     result = subprocess.run(command, shell=True, capture_output=True, text=True)
+#
+#                     # 输出命令的标准输出和标准错误import pke
+#                     print("Standard Output:")
+#                     print(result.stdout)
+#                     command2 = "evaluate_functional_correctness " + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(
+#                         template_id) + "_processed.jsonl" + " --problem_file=../dataSet/human-eval-v2-" + language + ".jsonl"
+#                     print(command2)
+#                     result2 = subprocess.run(command2, shell=True, capture_output=True, text=True)
+#
+#                     # 将结果写入文件
+#                     write_to_csv("result.csv", [model_name, language, word_extract["method"], word_extract["suffix"], template_id, remark, get_pass1(result2.stdout)])
+#                     print("Standard Output:")
+#                     print(result2.stdout)
+#                     # 打开文件以追加模式写入内容，如果文件不存在则创建新文件
+#                     with open('command.txt', 'a') as file:
+#                         file.write(command + "\n")
+#                         file.write(command2 + "\n")
+#
+#     print(' threads finished.')
 
 
 # if __name__ == '__main__':

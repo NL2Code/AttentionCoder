@@ -93,3 +93,12 @@ def write_to_csv(file_name, data):
             writer = csv.writer(file)
             writer.writerow(data)
 
+
+def condition_factory(condition_list, model_name_list, languages, word_extract_list, template_id_list, result_path, chat_number=1, remark="", wordNum=100, promptId=0):
+    # 将所有的条件转化为元组列表，每一个元组列表代表需要跑的一个实验参数
+    for model_name in model_name_list:
+        for language in languages:
+            for word_extract in word_extract_list:
+                for template_id in template_id_list:
+                    condition_list.append((model_name, language, word_extract, template_id, result_path, chat_number,
+                                           remark, wordNum, promptId))
