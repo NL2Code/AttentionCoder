@@ -506,7 +506,7 @@ def experiment_execute(model_name_list, languages, word_extract_list, template_i
                     result2 = subprocess.run(command2, shell=True, capture_output=True, text=True)
 
                     # 将结果写入文件
-                    write_to_csv("result.csv", [model_name, language, word_extract["method"], word_extract["suffix"], template_id, get_pass1(result2.stdout)])
+                    write_to_csv("result.csv", [model_name, language, word_extract["method"], word_extract["suffix"], template_id, remark, get_pass1(result2.stdout)])
                     print("Standard Output:")
                     print(result2.stdout)
                     # 打开文件以追加模式写入内容，如果文件不存在则创建新文件
