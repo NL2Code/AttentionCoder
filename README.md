@@ -12,7 +12,7 @@
 1. 安装human-eval，用于模型生成结果评估，参考链接https://github.com/openai/human-eval
 Make sure to use python 3.7 or later:
 ```
-$ conda create -n codex python=3.7
+$ conda create -n codex python=3.10
 $ conda activate codex
 ```
 Check out and install this repository:
