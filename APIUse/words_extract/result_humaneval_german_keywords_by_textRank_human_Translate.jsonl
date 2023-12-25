@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "Eine zahlenliste, die unter einem angeangegeben wert liegt"}
+{"task_id": "HumanEval/1", "keyWords": "Mehrere satz eingebetteter zeichenketten, die getrennt in getrennte zeichenketten aufgeteilt sind, ergeben die liste der angegebenen zeichenketten. Angesetzte klammern werden entsprechend abgetrennt und werden ohne leerzeichen in der eingabefolge ignoriert"}
+{"task_id": "HumanEval/2", "keyWords": "Das dezimalelement der zahl gibt zur\u00fcck"}
+{"task_id": "HumanEval/3", "keyWords": "Beginne konto hat eine kontostand Von 0, kontostand ermittelt, ob die kontobilanz jemals unter null gefallen ist"}
+{"task_id": "HumanEval/4", "keyWords": "Er liegt nahe am durchschnitt, um die absoluten abweichungen zu errechnen, die absoluten abweichungen zwischen jedem element und seinem mittelpunkt"}
+{"task_id": "HumanEval/5", "keyWords": "Zwei durchgehende elemente"}
+{"task_id": "HumanEval/6", "keyWords": "Mehrere abgeschlossene klammern, die durch ein fehlendes gitter getrennt sind, geben die tiefste eckige klammer zur entfaltung"}
+{"task_id": "HumanEval/7", "keyWords": ""}
+{"task_id": "HumanEval/8", "keyWords": "Eine gruppe Von einheiten, bestehend aus dem vollen und dem multiplizieren"}
+{"task_id": "HumanEval/9", "keyWords": "Erstellt in einer reihenfolge, bis zur angegebenen l\u00e4nge, zur maximalen liste der elemente"}
+{"task_id": "HumanEval/10", "keyWords": "Die l\u00e4ngste f\u00fcllklasse nach einem r\u00fccknamen, einem vorspurieren, ist die entgegengesetzte zeichenfolge"}
+{"task_id": "HumanEval/11", "keyWords": "Bin\u00e4rrechte Oder eine zeichenfolge ergibt sich"}
+{"task_id": "HumanEval/12", "keyWords": "Die l\u00e4ngste zeichenfolge zur\u00fcckgeben. Die erste zeichenfolge gleich lang wird zur\u00fcckgegeben"}
+{"task_id": "HumanEval/13", "keyWords": "Max cherbourg"}
+{"task_id": "HumanEval/14", "keyWords": "Liste aller vorbilder"}
+{"task_id": "HumanEval/15", "keyWords": "Zahlen ohne leerzeichen in der abtrennung"}
+{"task_id": "HumanEval/16", "keyWords": "Wie viele verschiedene zeichen egal ob gro\u00df Oder klein"}
+{"task_id": "HumanEval/17", "keyWords": "Interpretieren sie die zeichenfolge und geben sie eine ganzzahlige liste, die anzahl der einzellans\u00e4tze zur\u00fcck"}
+{"task_id": "HumanEval/18", "keyWords": "Eine gegebene subzeichenfolge finden, um die \u00fcberlappungen zu ermitteln"}
+{"task_id": "HumanEval/19", "keyWords": "Eine durch leerzeichen getrennte digitale zeichenfolge. Gibt die zeichenfolge zur\u00fcck, die nach dezimalkomma sortiert ist"}
+{"task_id": "HumanEval/20", "keyWords": "Gibt zwei laufende zahlen auf, die sich reih 'n"}
+{"task_id": "HumanEval/21", "keyWords": "Die lineare umwandlung auf die liste anwenden"}
+{"task_id": "HumanEval/22", "keyWords": "Filtern sie nur ganze zahlen"}
+{"task_id": "HumanEval/23", "keyWords": ""}
+{"task_id": "HumanEval/24", "keyWords": "Teilmenge Von n. Die maximale zahl Von n"}
+{"task_id": "HumanEval/25", "keyWords": "Gibt die liste der primfaktoren f\u00fcr einen ganzzahligen wert zur\u00fcck"}
+{"task_id": "HumanEval/26", "keyWords": "L\u00f6scht alle elemente, die mehr als einmal vorkommen"}
+{"task_id": "HumanEval/27", "keyWords": "Initialen werden zu gro\u00dfen buchstaben, gro\u00dfe buchstaben zu kleinen buchstaben"}
+{"task_id": "HumanEval/28", "keyWords": ""}
+{"task_id": "HumanEval/29", "keyWords": "Eine zeichenfolge, die vor dem pr\u00e4fix erscheint"}
+{"task_id": "HumanEval/30", "keyWords": "Positiv."}
+{"task_id": "HumanEval/31", "keyWords": "Primzahlen."}
+{"task_id": "HumanEval/32", "keyWords": "Dreh dich wieder um."}
+{"task_id": "HumanEval/33", "keyWords": "Gibt die liste l 'l zur\u00fcck. Ein index, der nicht durch 3 teilbar ist, und ein index, der durch 3 teilbar ist. Ergebnisse in der geordneten liste"}
+{"task_id": "HumanEval/34", "keyWords": "Gibt das einzige element der liste zur\u00fcck"}
+{"task_id": "HumanEval/35", "keyWords": "Dem gr\u00f6ssten element aller zeiten."}
+{"task_id": "HumanEval/36", "keyWords": "37 jumps."}
+{"task_id": "HumanEval/37", "keyWords": "Die ungerade, gerade zahl, der entsprechende wert nach aufsteigender liste"}
+{"task_id": "HumanEval/38", "keyWords": "Menschen aus menschen codieren, wobei die verschl\u00fcsselte zeichenfolge zur\u00fcckgegeben wird"}
+{"task_id": "HumanEval/39", "keyWords": "Fibonacci-zahlen. \"n\", eine primzahl"}
+{"task_id": "HumanEval/40", "keyWords": "Drei verschiedene elemente, die null sind"}
+{"task_id": "HumanEval/41", "keyWords": "Von links nach rechts, Von rechts nach links, zahl der verletzungen"}
+{"task_id": "HumanEval/42", "keyWords": ""}
+{"task_id": "HumanEval/43", "keyWords": "Zwei verschiedene elemente, die null sind"}
+{"task_id": "HumanEval/44", "keyWords": "Eine operation als basis und zur\u00fcck mit einer schrift als soldaten"}
+{"task_id": "HumanEval/45", "keyWords": ""}
+{"task_id": "HumanEval/46", "keyWords": "Berechne das \"n\" -element in der anzeige b4"}
+{"task_id": "HumanEval/47", "keyWords": ""}
+{"task_id": "HumanEval/48", "keyWords": ""}
+{"task_id": "HumanEval/49", "keyWords": ""}
+{"task_id": "HumanEval/50", "keyWords": "Eine gel\u00f6schte zeichenfolge wird aus der funktion encode__erhalten"}
+{"task_id": "HumanEval/51", "keyWords": "Eine zeichenkette ohne einen vokal"}
+{"task_id": "HumanEval/52", "keyWords": ""}
+{"task_id": "HumanEval/53", "keyWords": ""}
+{"task_id": "HumanEval/54", "keyWords": "Ob sie dieselben zeichen haben"}
+{"task_id": "HumanEval/55", "keyWords": "fibonacci"}
+{"task_id": "HumanEval/56", "keyWords": "In jede linke eckige klammer geh\u00f6rt eine entsprechende rechte klammer"}
+{"task_id": "HumanEval/57", "keyWords": "Nicht eing\u00e4ngig Oder niedriger"}
+{"task_id": "HumanEval/58", "keyWords": "Den einzigen \u00f6ffentlichen element im spiel"}
+{"task_id": "HumanEval/59", "keyWords": "Bei dem maximalen primzahlen"}
+{"task_id": "HumanEval/60", "keyWords": ""}
+{"task_id": "HumanEval/61", "keyWords": "In jede linke eckige klammer geh\u00f6rt eine entsprechende rechte klammer"}
+{"task_id": "HumanEval/62", "keyWords": "Der code, der den code beinhaltet"}
+{"task_id": "HumanEval/63", "keyWords": "Das erste n-element in der fibfib-folge errechnen"}
+{"task_id": "HumanEval/64", "keyWords": "Die zahl eines vokalls ist nur am ende des wortes angegeben"}
+{"task_id": "HumanEval/65", "keyWords": "In schleife rotieren, in numerische r\u00fcckw\u00e4rtsbewegung"}
+{"task_id": "HumanEval/66", "keyWords": "Initialen."}
+{"task_id": "HumanEval/67", "keyWords": "Drehen sie die mango-zahl in einen korb zur\u00fcck"}
+{"task_id": "HumanEval/68", "keyWords": "Der kleinste korrespondierende knoten gibt das kleinste objekt mit einem index zur\u00fcck, das als liste zur\u00fcckgegeben wird"}
+{"task_id": "HumanEval/69", "keyWords": "Ein vollkommener ganzzahliger wert, der gr\u00f6\u00dfer als null ist, Oder eine frequenz, die den wert einer ganzen zahl als gerade null darstellt"}
+{"task_id": "HumanEval/70", "keyWords": "Irgendwie komisch, irgendwie."}
+{"task_id": "HumanEval/71", "keyWords": "Gibt ein g\u00fcltiges dreieck zur\u00fcck"}
+{"task_id": "HumanEval/72", "keyWords": "Eine liste Von elementen, deren summe kleiner ist als das maximale m\u00f6gliche gewicht w"}
+{"task_id": "HumanEval/73", "keyWords": "C) zur niedrigsten anzahl der \u00e4nderungen in einem palisaden wird, indem ein element bei jeder \u00e4nderung in ein anderes element umgewandelt wird"}
+{"task_id": "HumanEval/74", "keyWords": "Gesamtzahl der zeichen aller zeichenketten"}
+{"task_id": "HumanEval/75", "keyWords": "Das produkt Von drei primzahlen"}
+{"task_id": "HumanEval/76", "keyWords": "Ach, ist ja toll"}
+{"task_id": "HumanEval/77", "keyWords": "Eine gerade ziffer"}
+{"task_id": "HumanEval/78", "keyWords": "Primzahlen. Eine primzahl"}
+{"task_id": "HumanEval/79", "keyWords": "In ein bin\u00e4res format konvertiert werden"}
+{"task_id": "HumanEval/80", "keyWords": "In drei durchlaufenden buchstaben"}
+{"task_id": "HumanEval/81", "keyWords": "Algorithmus, GPA liste, funktion f\u00fcr die liste der alphabetischen klassen"}
+{"task_id": "HumanEval/82", "keyWords": "Die l\u00e4nge h\u00e4lt eine primzahl"}
+{"task_id": "HumanEval/83", "keyWords": ""}
+{"task_id": "HumanEval/84", "keyWords": ""}
+{"task_id": "HumanEval/85", "keyWords": "Der index ist ungerade, gerade zahlen"}
+{"task_id": "HumanEval/86", "keyWords": "Auf diese weise lassen sie die w\u00f6rter in leerzeichen in aufsteigender reihenfolge nach ascii-wert zur\u00fcck"}
+{"task_id": "HumanEval/87", "keyWords": "Die koordinaten sind in aufsteigender reihenfolge der zeilen und in absteigender reihenfolge der zeilen angeordnet"}
+{"task_id": "HumanEval/88", "keyWords": "Gibt die kopie des angegebenen zahlensatzes zur\u00fcck (erster index, letzter wert f\u00fcr den index) und"}
+{"task_id": "HumanEval/89", "keyWords": "Das alphabet drehen, verschl\u00fcsselt, um zwei * zwei positionen nach unten zu schieben"}
+{"task_id": "HumanEval/90", "keyWords": "Gibt das zweite element der liste zur\u00fcck"}
+{"task_id": "HumanEval/91", "keyWords": "Mit einem \"I\". \"nein\"? 'Oder '! \"Den trenner.\""}
+{"task_id": "HumanEval/92", "keyWords": "Eine zahl entspricht zwei anderen zahlen und alle zahlen sind ganzzahlig"}
+{"task_id": "HumanEval/93", "keyWords": "Es wurden alle buchstaben durch gro\u00df - und kleinschreibung ersetzt und die buchstaben mit den beiden ersten buchstaben in der message ausgetauscht"}
+{"task_id": "HumanEval/94", "keyWords": "Die gr\u00f6\u00dfte primzahl, die auf ihre anzahl zur\u00fcckgeht und"}
+{"task_id": "HumanEval/95", "keyWords": "Alle schl\u00fcssel."}
+{"task_id": "HumanEval/96", "keyWords": "Gibt eine primzahl Von weniger als n zur\u00fcck"}
+{"task_id": "HumanEval/97", "keyWords": "Das produkt ist einstellig"}
+{"task_id": "HumanEval/98", "keyWords": "Gerade anzahl. Die anzahl der vokale"}
+{"task_id": "HumanEval/99", "keyWords": "Geben sie den wert einer zahl an (eine zeichenfolge). Geben sie die ganzzahlige zahl zur\u00fcck, die der zahl am n\u00e4chsten kommt"}
+{"task_id": "HumanEval/100", "keyWords": "Gibt die anzahl der steine pro ebene in der liste zur\u00fcck"}
+{"task_id": "HumanEval/101", "keyWords": "Eine durch komma Oder leerzeichen getrennte liste Von w\u00f6rtern gibt die wortergruppen zur\u00fcck"}
+{"task_id": "HumanEval/102", "keyWords": "H\u00f6chste gerade zahl"}
+{"task_id": "HumanEval/103", "keyWords": "Einschlie\u00dflich n und m, die auf die am n\u00e4chsten liegenden ganzzahligen zahlen gerundet werden, um sich in bin\u00e4rbildung umzuwandeln"}
+{"task_id": "HumanEval/104", "keyWords": "Alle elemente in einer geraden ordnung ohne gerade nummer"}
+{"task_id": "HumanEval/105", "keyWords": "Bei dieser zahlenreihe werden ergebnisse in umgekehrt und jede zahl wird den entsprechenden namen ersetzt"}
+{"task_id": "HumanEval/106", "keyWords": "A multipliziert mit i Von 1 bis i und"}
+{"task_id": "HumanEval/107", "keyWords": "Anzahl der antworten, geraden und ungeraden zahlen, infinitiv"}
+{"task_id": "HumanEval/108", "keyWords": "Gibt die summe eines elements zur\u00fcck, dessen zahl gr\u00f6\u00dfer als null ist"}
+{"task_id": "HumanEval/109", "keyWords": "L\u00e4sst sich die gesamtheit der sammlungen in nicht-geminderten schritten nach rechts gruppieren"}
+{"task_id": "HumanEval/110", "keyWords": "Durch den austausch Von elementen ist der lst1 eine liste mit nur einer geraden zahl"}
+{"task_id": "HumanEval/111", "keyWords": "Eine reihe kleiner buchstaben, die durch leerzeichen getrennt ist, der am h\u00e4ufigsten wiederkehrende buchstaben und der anzahl der ihm zugeh\u00f6rigen buchstaben, der gleiche ursprung und die zahl der buchstaben und der h\u00e4ufigkeit des erscheinens"}
+{"task_id": "HumanEval/112", "keyWords": "Alle zeichen, die bestimmten buchstaben im s entsprechen, werden gel\u00f6scht. Das ergebnis ist, ob die zeichenfolge umkehrbar ist. Es wird eine metadaten zur\u00fcckgegeben, die die ergebnisse der zeichenfolge sowie wahr/falsch enth\u00e4lt"}
+{"task_id": "HumanEval/113", "keyWords": "Anzahl der ungeraden zahlen in der zeile 1"}
+{"task_id": "HumanEval/114", "keyWords": "Die kleinste zelle im universum"}
+{"task_id": "HumanEval/115", "keyWords": "Anzahl der abfalleimer"}
+{"task_id": "HumanEval/116", "keyWords": "Die zahlen Von eins, die in der bin\u00e4ren darstellung stehen, werden in aufsteigender reihenfolge geordnet, \u00e4hnlich der zahl eins, die auf logarithmischen werten angeordnet ist"}
+{"task_id": "HumanEval/117", "keyWords": "Konsonanten."}
+{"task_id": "HumanEval/118", "keyWords": "Die vokale, die am n\u00e4chsten am wort rechts liegen und zwischen den konsonanten liegen, z\u00e4hlen weder am anfang noch am ende"}
+{"task_id": "HumanEval/119", "keyWords": "Die zwei str\u00e4nge sind in einer bestimmten reihenfolge verbunden, wobei alle klammern ausgeglichen sind"}
+{"task_id": "HumanEval/120", "keyWords": "Die gr\u00f6\u00dfte k-zahl in arr"}
+{"task_id": "HumanEval/121", "keyWords": "Gerade positionen, alle ungeraden elemente und"}
+{"task_id": "HumanEval/122", "keyWords": "N, h\u00f6chstens ein element mit zwei ziffern"}
+{"task_id": "HumanEval/123", "keyWords": "Die ungerade liste in der collatzfolge ist geordnet nach folge angeordnet"}
+{"task_id": "HumanEval/124", "keyWords": "Pr\u00fcft die angegebenen dateinzeichen"}
+{"task_id": "HumanEval/125", "keyWords": "Eine unterschriftenliste, die durch leerzeichen getrennt ist, gibt es nicht, es gibt kein komma, und es gibt keine komma, und im alphabet gibt es f\u00e4lle Von kleinen buchstaben mit einer ungeraden zahl"}
+{"task_id": "HumanEval/126", "keyWords": "In aufsteigender reihenfolge angeordnet ist, als eine person in duplikate"}
+{"task_id": "HumanEval/127", "keyWords": ""}
+{"task_id": "HumanEval/128", "keyWords": "Summe aller runden zahlen, multipliziert mit dem produkt aller ganzzahligen zeichen"}
+{"task_id": "HumanEval/129", "keyWords": "L\u00e4ngen Von mindestens k. Gibt eine geordnete liste der werte an den zellen zur\u00fcck, durch die der kleinste weg gegangen ist"}
+{"task_id": "HumanEval/130", "keyWords": "Vielen dank die tribonacci-folge, die nach den ersten zahlen einer tribonacci-zahl z\u00e4hlt"}
+{"task_id": "HumanEval/131", "keyWords": "Eine dezimalzahl ist das produkt aller ungeraden zahlen"}
+{"task_id": "HumanEval/132", "keyWords": "Wenn und nur, wenn g\u00fcltige klammern in eckigen klammern gefunden werden"}
+{"task_id": "HumanEval/133", "keyWords": "Wird die vollst\u00e4ndige summe gerundet, gibt die quadrate der zahl aus der angegebenen liste zur\u00fcck"}
+{"task_id": "HumanEval/134", "keyWords": "Alphanumerische zeichen."}
+{"task_id": "HumanEval/135", "keyWords": "Nicht gr\u00f6\u00dfer Oder gleich ist der gr\u00f6\u00dfte index des zugeh\u00f6rigen elements"}
+{"task_id": "HumanEval/136", "keyWords": "Der gr\u00f6\u00dfte minus, der letzte plus"}
+{"task_id": "HumanEval/137", "keyWords": "Ganzzahlige, flie\u00dfende Oder zeichenfolge, die eine tats\u00e4chliche zahl anzeigen, bei gr\u00f6\u00dferen variablen"}
+{"task_id": "HumanEval/138", "keyWords": "4 gerade und 4 gerade"}
+{"task_id": "HumanEval/139", "keyWords": "Setzen sie sich hin und schauen sie nach"}
+{"task_id": "HumanEval/140", "keyWords": "Alle leerzeichen werden durch unterstriche ersetzt, mehr als zwei durchgehende leerzeichen, und alle durchl\u00e4ssigen leerzeichen werden durch"}
+{"task_id": "HumanEval/141", "keyWords": "Dateinamen g\u00fcltig."}
+{"task_id": "HumanEval/142", "keyWords": "Der index hat ein quadrat Von drei. Ein ganzzahliger wert ist ein quadrat Von vier. Ein ganzzahliger wert ergibt den ganzzahligen wert und gibt die summe zur\u00fcck"}
+{"task_id": "HumanEval/143", "keyWords": "Ein leergetrenntes wort, eine zeichenfolge f\u00fcr ein wort mit der l\u00e4nge einer primzahl im ursprungssatz, die in derselben reihenfolge angeordnet ist wie die urspr\u00fcngliche zeichenfolge"}
+{"task_id": "HumanEval/144", "keyWords": "Das x * n-resultat ist eine ganzzahlige zahl"}
+{"task_id": "HumanEval/145", "keyWords": "Die in aufsteigender reihenfolge geordnet werden"}
+{"task_id": "HumanEval/146", "keyWords": "Die anzahl der elemente."}
+{"task_id": "HumanEval/147", "keyWords": ""}
+{"task_id": "HumanEval/148", "keyWords": "Der der sonne am n\u00e4chsten steht der merkur, die bahnen zwischen den planeten, und alle folgen der sonnenstellung"}
+{"task_id": "HumanEval/149", "keyWords": "L\u00f6scht eine liste mit der ungeraden l\u00e4nge, in der alle w\u00f6rter nach der l\u00e4nge ihres worts, die gleichen w\u00f6rter und die alphabetische reihenfolge angeordnet sind"}
+{"task_id": "HumanEval/150", "keyWords": "Primzahlen. - genau."}
+{"task_id": "HumanEval/151", "keyWords": "Quadratische zahlen erhalten keine ganzzahligen zahlen"}
+{"task_id": "HumanEval/152", "keyWords": "Zwei gruppen Von bruchzahlen, die die gleiche l\u00e4nge haben und bei denen die differenz zwischen einem wert und der zahl erraten ist"}
+{"task_id": "HumanEval/153", "keyWords": "Eine CAP ist die zahl der gro\u00dfbuchstaben f\u00fcr die erweiterung des eintrags und die generelle zahl der kleinen und mittleren buchstaben f\u00fcr den escap-bereich, mit den meisten ausnahmen"}
+{"task_id": "HumanEval/154", "keyWords": "Jede drehung ist eine zeichenfolge"}
+{"task_id": "HumanEval/155", "keyWords": ""}
+{"task_id": "HumanEval/156", "keyWords": "Eine r\u00f6mische numerische zeichenfolge, die wie ein kleines schreibstil zur\u00fcckgeliefert wird"}
+{"task_id": "HumanEval/157", "keyWords": "Das rechtwinklige dreieck bildet"}
+{"task_id": "HumanEval/158", "keyWords": "Das wort mit dem einzigen zeichen, die erste zeichenfolge"}
+{"task_id": "HumanEval/159", "keyWords": "Gesamtzahl der karotten nach dem Essen, anzahl der karotten nach dem Essen"}
+{"task_id": "HumanEval/160", "keyWords": "& etc., grundlegende algebra-operationen, ganzseitige listen, erstellen den algebra-ausdruck und geben den wert des ausdrucks zur\u00fcck"}
+{"task_id": "HumanEval/161", "keyWords": "S [i] ist ein buchstabe, bei dem ein buchstabe, gro\u00df - / klein, falsch geschrieben, eine zeichenfolge ohne den buchstaben, eine umgekehrt verdrehte"}
+{"task_id": "HumanEval/162", "keyWords": "Das sollte ich jetzt nicht vergessen"}
+{"task_id": "HumanEval/163", "keyWords": "Gibt die gerade zahl zwischen a und b zur\u00fcck in aufsteigender ordnung"}

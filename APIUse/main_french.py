@@ -25,12 +25,9 @@ if __name__ == '__main__':
     template = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
     # 对话轮数
     chat_number = 1
-    # 模型列表:
-    # 如果是对话模型对比的模板应该是0， 18，19
-    # 如果是非对话模型对比的模板应该是0，20， 21
-    model_name_list = ["gpt-3.5-turbo-0613"]
+    # 模型列表
+    model_name_list = ["WizardCoder-7B", ""]
     # 使用的分词结果标识
-    # English
     word_extract = [
         dict(method="singleRank", suffix="_9_NP_VP"),
         dict(method="singleRank", suffix="_9_NP_VP_edited"),
@@ -38,34 +35,4 @@ if __name__ == '__main__':
 
     # 0: baseline; 18: 添加了attention的优化
     # 如果需要使用多线程，需要在experiment_execute.py的experiment_execute函数中修改flag控制以及时间等待
-    experiment_execute(model_name_list, ["English"], word_extract, [0, 18, 19], "results/English/", chat_number=1)
-
-    # Chinese
-    word_extract = [
-        dict(method="textRank", suffix="_9_NP_VP"),
-        dict(method="textRank", suffix="_human"),
-    ]
-    experiment_execute(model_name_list, ["Chinese"], word_extract, [0, 18, 19], "results/Chinese/", chat_number=1)
-
-    # French
-    word_extract = [
-        dict(method="singleRank", suffix="_9_NP_VP"),
-        dict(method="singleRank", suffix="_9_NP_VP_edited"),
-    ]
     experiment_execute(model_name_list, ["French"], word_extract, [0, 18, 19], "results/French/", chat_number=1)
-
-    # Japanese
-    word_extract = [
-        dict(method="topicRank", suffix="_9_NP_VP"),
-        dict(method="topicRank", suffix="_9_NP_VP_edited"),
-    ]
-    experiment_execute(model_name_list, ["Japanese"], word_extract, [0, 18, 19], "results/Japanese/", chat_number=1)
-
-    # Spanish
-    word_extract = [
-        dict(method="textRank", suffix="_9_NP_VP"),
-        dict(method="textRank", suffix="_9_NP_VP_edited"),
-    ]
-    experiment_execute(model_name_list, ["Spanish"], word_extract, [0, 18, 19], "results/Spanish/", chat_number=1)
-
-

@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "n\u00fameros, lista, compruebe"}
+{"task_id": "HumanEval/1", "keyWords": "cadenas, grupos, espacio, introduzca, anidar, ignoran, equilibran, lista, devolver, separar"}
+{"task_id": "HumanEval/2", "keyWords": "n\u00famero, menor, dado, devuelve, resto, decimales, enteros, partes, factorizar"}
+{"task_id": "HumanEval/3", "keyWords": "saldo, contrario, funci\u00f3n, punto, momento, cero, debajo, cuenta, detectar, tarea"}
+{"task_id": "HumanEval/4", "keyWords": "mad, media, caso, elemento, datos, conjunto, entrada, n\u00fameros"}
+{"task_id": "HumanEval/5", "keyWords": "numbers, entrada, lista, delimeter, n\u00famero, inserte"}
+{"task_id": "HumanEval/6", "keyWords": "anidados, par\u00e9ntesis, m\u00e1ximo, tiene, ejemplo, salida, grupo, espacios, grupos, representa"}
+{"task_id": "HumanEval/7", "keyWords": "estator, cadena, contienen, cadenas, entradas, lista"}
+{"task_id": "HumanEval/8", "keyWords": "enteros, lista, igual, producto, suma, consiste, tupla, devuelve"}
+{"task_id": "HumanEval/9", "keyWords": "crecen, elementos, genera, enteros, partir"}
+{"task_id": "HumanEval/10", "keyWords": "cadena, final, a\u00f1adir, buscar, simple, algoritmo, idea, comienza, busca"}
+{"task_id": "HumanEval/11", "keyWords": "cadena, resultado, devuelve, ejecuta, solo, cadenas, entradas"}
+{"task_id": "HumanEval/12", "keyWords": "cadena, m\u00e1s, vac\u00eda, entrada, longitud, devuelve, cadenas, lista"}
+{"task_id": "HumanEval/13", "keyWords": "devuelve"}
+{"task_id": "HumanEval/14", "keyWords": "entrada, cadena, prefijos, lista, devuelve"}
+{"task_id": "HumanEval/15", "keyWords": "espacios, cadena, devuelve"}
+{"task_id": "HumanEval/16", "keyWords": "compuesta, min\u00fascula, may\u00fascula, independientemente, averigua, cadena, dada"}
+{"task_id": "HumanEval/17", "keyWords": "pulsaciones, n\u00famero, raqueta, semicorchea, banyin, tiempos, dura, aqu\u00ed, igual, caso"}
+{"task_id": "HumanEval/18", "keyWords": "superposici\u00f3n, caso, calcular, encontrar, veces, encuentre"}
+{"task_id": "HumanEval/19", "keyWords": "menor, nine, four, three, two, one, zero, opci\u00f3n, eficaz, espacios"}
+{"task_id": "HumanEval/20", "keyWords": "n\u00fameros, orden, lista, devuelva, seleccione"}
+{"task_id": "HumanEval/21", "keyWords": "aplica, elementos, menos, contiene, n\u00fameros, lista, dado"}
+{"task_id": "HumanEval/22", "keyWords": "enteros, solo, filtrar"}
+{"task_id": "HumanEval/23", "keyWords": "longitud, devuelve"}
+{"task_id": "HumanEval/24", "keyWords": "encontrar"}
+{"task_id": "HumanEval/25", "keyWords": "factores, producto, igual, entrada, factorizaci\u00f3n, aparece, corresponda, veces, n\u00famero, enumerarse"}
+{"task_id": "HumanEval/26", "keyWords": "elementos, entrada, orden, mantenga, vez, eliminar, enteros, lista"}
+{"task_id": "HumanEval/27", "keyWords": "may\u00fasculas, convierten, min\u00fasculas, caracteres"}
+{"task_id": "HumanEval/28", "keyWords": "cadenas, lista, concatenar"}
+{"task_id": "HumanEval/29", "keyWords": "comienzan, cadenas, entradas, lista"}
+{"task_id": "HumanEval/30", "keyWords": "lista"}
+{"task_id": "HumanEval/31", "keyWords": "contrario, false, primo"}
+{"task_id": "HumanEval/32", "keyWords": "coeficiente, soluci\u00f3n, garantiza, cero, coeficientes, adem\u00e1s, puntos, polinomio"}
+{"task_id": "HumanEval/33", "keyWords": "\u00edndice, divisible, valores, ordenar, resultado, valor, igual, devuelve"}
+{"task_id": "HumanEval/34", "keyWords": "ordena, lista, devuelve"}
+{"task_id": "HumanEval/35", "keyWords": "lista, devuelve"}
+{"task_id": "HumanEval/36", "keyWords": "n\u00famero, divisible, aparece, veces, devuelve"}
+{"task_id": "HumanEval/37", "keyWords": "valor, ordenar, igual, tal, devuelve"}
+{"task_id": "HumanEval/38", "keyWords": "cadena, devuelve, entrada"}
+{"task_id": "HumanEval/39", "keyWords": "fibonacci, n\u00famero"}
+{"task_id": "HumanEval/40", "keyWords": "contrario, entrada, enteros, lista"}
+{"task_id": "HumanEval/41", "keyWords": "coches, derecha, izquierda, colisiones, n\u00famero, \u00f3rbitas, tanto, potente, embargo, chocado"}
+{"task_id": "HumanEval/42", "keyWords": "lista, devuelve"}
+{"task_id": "HumanEval/43", "keyWords": "contrario, false, entrada, enteros, lista"}
+{"task_id": "HumanEval/44", "keyWords": "representaci\u00f3n, conversi\u00f3n, devuelve, n\u00famero, cambie"}
+{"task_id": "HumanEval/45", "keyWords": "retorno, tri\u00e1ngulo, lados, longitud, dado"}
+{"task_id": "HumanEval/46", "keyWords": "fib4, funci\u00f3n, escriba, favor, define"}
+{"task_id": "HumanEval/47", "keyWords": "lista, elementos, mediana, devuelve"}
+{"task_id": "HumanEval/48", "keyWords": "pal\u00edndromo, comprobar"}
+{"task_id": "HumanEval/49", "keyWords": "n\u00fameros, devuelve"}
+{"task_id": "HumanEval/50", "keyWords": "devuelve, entrada"}
+{"task_id": "HumanEval/51", "keyWords": "vocales, funci\u00f3n"}
+{"task_id": "HumanEval/52", "keyWords": "umbral, debajo, n\u00fameros"}
+{"task_id": "HumanEval/53", "keyWords": "sumar"}
+{"task_id": "HumanEval/54", "keyWords": "car\u00e1cter, compruebe"}
+{"task_id": "HumanEval/55", "keyWords": "fibonacci, devuelve"}
+{"task_id": "HumanEval/56", "keyWords": "par\u00e9ntesis"}
+{"task_id": "HumanEval/57", "keyWords": "elemento"}
+{"task_id": "HumanEval/58", "keyWords": "listas, devuelve"}
+{"task_id": "HumanEval/59", "keyWords": "primo, supongamos, devuelve"}
+{"task_id": "HumanEval/60", "keyWords": "suma, funci\u00f3n"}
+{"task_id": "HumanEval/61", "keyWords": "par\u00e9ntesis"}
+{"task_id": "HumanEval/62", "keyWords": "forma, derivada, devuelve, polinomio, coeficientes"}
+{"task_id": "HumanEval/63", "keyWords": "fibfib, funci\u00f3n, escriba, favor, define"}
+{"task_id": "HumanEval/64", "keyWords": "palabra, final, est\u00e1, solo, vocal, tambi\u00e9n, aqu\u00ed, caso, vocales, n\u00famero"}
+{"task_id": "HumanEval/65", "keyWords": "n\u00famero, devuelve, bit, shift, cadena, resultado, devolviendo, derecha, desplazando, d\u00edgitos"}
+{"task_id": "HumanEval/66", "keyWords": "entrada, cadena, acepta, funci\u00f3n, escribe, misi\u00f3n"}
+{"task_id": "HumanEval/67", "keyWords": "apples, naranjas, manzanas, oranges, ejemplo, devuelto, mangos, frutas, cesta, n\u00famero"}
+{"task_id": "HumanEval/68", "keyWords": "nodo, devuelve, array, dado, \u00edndice, nodos, l\u00edmite, elegimos, ceros, explicaci\u00f3n"}
+{"task_id": "HumanEval/69", "keyWords": "entero, aparece, n\u00famero, ejemplos, lista, veces, valor, igual, mayor, frecuencia"}
+{"task_id": "HumanEval/70", "keyWords": "enteros, ejemplos, m\u00e1ximo, luego, m\u00ednimo, comenzar, devuelve, lista, dado"}
+{"task_id": "HumanEval/71", "keyWords": "tri\u00e1ngulo, lados, tercero, mayor, suma, devuelve, contrario, decimales, redondea, longitud"}
+{"task_id": "HumanEval/72", "keyWords": "true, supera, desequilibrado, ejemplos, igual, menor, elementos, suma, equilibrado, vuela"}
+{"task_id": "HumanEval/73", "keyWords": "matriz, ejemplo, elemento, cambiar, despu\u00e9s, dejar"}
+{"task_id": "HumanEval/74", "keyWords": "caracteres, n\u00famero, lista, listas, project, admin, ejemplo, devuelve, cadenas, acepta"}
+{"task_id": "HumanEval/75", "keyWords": "ejemplos, menor, sabe, contrario, producto, funci\u00f3n, escribe"}
+{"task_id": "HumanEval/76", "keyWords": "ejemplo, casos, falso, funci\u00f3n, escribir, tarea"}
+{"task_id": "HumanEval/77", "keyWords": "entrada, ejemplos, v\u00e1lida, asumir, nota, cubo, entero, acepta, funci\u00f3n, escribe"}
+{"task_id": "HumanEval/78", "keyWords": "n\u00fameros, n\u00famero, cadena, entrada, primos, 2020, abed1a33, salida, ejemplos, may\u00fasculas"}
+{"task_id": "HumanEval/79", "keyWords": "car\u00e1cter, formato, db100000db, db1111db, returns, ejemplos, ajustar, ayudar, utilizan, final"}
+{"task_id": "HumanEval/80", "keyWords": "ejemplo, diferente, menos, longitud, feliz, cadena, comprobar, tarea, doy"}
+{"task_id": "HumanEval/81", "keyWords": "letras, jerarqu\u00eda, gpa, ejemplos, niveles, exportar, funci\u00f3n, escribir, lista, calificar"}
+{"task_id": "HumanEval/82", "keyWords": "contrario, cadena, recibe, funci\u00f3n, escribe"}
+{"task_id": "HumanEval/83", "keyWords": "termina, comienza, cantidad, devuelve, dado"}
+{"task_id": "HumanEval/84", "keyWords": "n\u00fameros, cadena, restricciones, variable, salida, ejemplo, suma, devuelve, dado"}
+{"task_id": "HumanEval/85", "keyWords": "impares, lista, dado"}
+{"task_id": "HumanEval/86", "keyWords": "orden, palabras, wdlor, hello, ehllo, returns, ejemplo, oraci\u00f3n, mantener, nota"}
+{"task_id": "HumanEval/87", "keyWords": "lista, ejemplo, ordenan, filas, adem\u00e1s, coordenadas, comenzando, columna, coordenada, tupla"}
+{"task_id": "HumanEval/88", "keyWords": "array, dado, nota, ordena, pares, clasifica, impares, \u00edndice, devuelve"}
+{"task_id": "HumanEval/89", "keyWords": "cadena, abajo, posiciones, trasladas, letras, rotarse, devuelve, alfabeto, girar, argumento"}
+{"task_id": "HumanEval/90", "keyWords": "elemento, devuelve, escribe, enteros, lista"}
+{"task_id": "HumanEval/91", "keyWords": "ejemplo, separadores, frases, comienza, oraci\u00f3n, aburrimiento, contar, tarea, palabras, serie"}
+{"task_id": "HumanEval/92", "keyWords": "falso, true, false, ejemplo, caso, enteros, suma, igual, n\u00fameros, acepte"}
+{"task_id": "HumanEval/93", "keyWords": "letras, ejemplos, solo, supongamos, letra, aparecen, vocales, reemplaza, min\u00fasculas, intercambia"}
+{"task_id": "HumanEval/94", "keyWords": "output, lst, salida, ejemplos, d\u00edgitos, suma, devolver, enteros, lista"}
+{"task_id": "HumanEval/95", "keyWords": "false, diccionario, dado, ejemplos, vac\u00edo, funci\u00f3n, may\u00fasculas, min\u00fasculas, cadenas, claves"}
+{"task_id": "HumanEval/96", "keyWords": "ejemplo, lista, devuelve, toma, funci\u00f3n, implementa"}
+{"task_id": "HumanEval/97", "keyWords": "ejemplos, entrada, supongamos, d\u00edgitos, producto, devuelve, argumentos, enteros, toma, funci\u00f3n"}
+{"task_id": "HumanEval/98", "keyWords": "returns, ejemplo, n\u00famero, cuenta, dada"}
+{"task_id": "HumanEval/99", "keyWords": "entero, n\u00famero, ejemplo, entonces, enteros, equidistante, devuelve, representa, cadena, valor"}
+{"task_id": "HumanEval/100", "keyWords": "n\u00famero, impar, nivel, par, piedras, ejemplos, elemento, lista, devuelve, entonces"}
+{"task_id": "HumanEval/101", "keyWords": "name, palabras, john, six, five, three, one, four, two, ejemplo"}
+{"task_id": "HumanEval/102", "keyWords": "n\u00famero, funci\u00f3n, ejemplo, devolver, entonces, rango, devuelve"}
+{"task_id": "HumanEval/103", "keyWords": "enteros, devuelve, mayor, binario, convierte, respuesta, redondea, promedio, calcular, tarea"}
+{"task_id": "HumanEval/104", "keyWords": "lista, ejemplo, ordenarse, nota, elementos, devuelve, dado"}
+{"task_id": "HumanEval/105", "keyWords": "array, arr, n\u00famero, return, vac\u00edo, ignorarlo, devuelve, one, four, five"}
+{"task_id": "HumanEval/106", "keyWords": "ejemplo, multiplicaci\u00f3n, n\u00fameros, suma, contrario, factorial, par, \u00edndice, elementos, valor"}
+{"task_id": "HumanEval/107", "keyWords": "pares, contiene, rango, respectivamente, nota, par, explicaci\u00f3n, salida, entradas, ejemplo"}
+{"task_id": "HumanEval/108", "keyWords": "n\u00fameros, ejemplo, signo, entonces, negativo, mayor, suma, elementos, n\u00famero, devuelve"}
+{"task_id": "HumanEval/109", "keyWords": "array, elementos, posici\u00f3n, derecha, matriz, garantiza, nota, vac\u00edo, false, anterior"}
+{"task_id": "HumanEval/110", "keyWords": "elementos, lst1, vac\u00eda, supongamos, yes, ejemplo, contrario, devuelve, lst2, n\u00famero"}
+{"task_id": "HumanEval/111", "keyWords": "letras, histogram, ejemplos, devuelven, ocurrencia, ocurrencias, diccionario, devuelve, espacios, cadena"}
+{"task_id": "HumanEval/112", "keyWords": "resultado, cadena, palindroma, abcdedcba, acdef, devuelve, abcdef, falso, bcd, abcde"}
+{"task_id": "HumanEval/113", "keyWords": "cadena, reemplazados, entrada, n\u00famero, salida, resultado, elemento, devuelve, n\u00fameros, cadenas"}
+{"task_id": "HumanEval/114", "keyWords": "ejemplo, encontrar, dado"}
+{"task_id": "HumanEval/115", "keyWords": "cubo, tienen, agua, pozo, rejilla, longitud, restricciones, salidas, cuadr\u00edcula, entrada"}
+{"task_id": "HumanEval/116", "keyWords": "n\u00fameros, n\u00famero, acuerdo, ordenados, matriz, ordenar, catta"}
+{"task_id": "HumanEval/117", "keyWords": "cadena, world, lamb, little, vac\u00eda, lista, uncle, mary, ejemplos, espacios"}
+{"task_id": "HumanEval/118", "keyWords": "ejemplos, asumir, cumpla, vocal, encuentra, devuelve, palabra, tengo"}
+{"task_id": "HumanEval/119", "keyWords": "cadena, par\u00e9ntesis, buena, ejemplos, contrario, generar, manera, yes, devuelve, ejemplo"}
+{"task_id": "HumanEval/120", "keyWords": "arr, longitud, elementos, matriz, nota, salida, entrada, ejemplo, contiene, devuelve"}
+{"task_id": "HumanEval/121", "keyWords": "ejemplo, suma, devuelve, enteros, dado"}
+{"task_id": "HumanEval/122", "keyWords": "arr, restricciones, salida, entrada, ejemplos, primeros, d\u00edgitos, elementos, suma, devuelve"}
+{"task_id": "HumanEval/123", "keyWords": "siguiente, anterior, t\u00e9rmino, secuencia, solo, ejemplo, nota, valor, independientemente, igual"}
+{"task_id": "HumanEval/124", "keyWords": "fecha, false, d\u00edas, meses, ejemplo, mm-dd-aaaa, formato, mayor, menor, m\u00e1s"}
+{"task_id": "HumanEval/125", "keyWords": "world, palabras, hello, ejemplo, ord, alfabeto, est\u00e1n, n\u00famero, devolver, comas"}
+{"task_id": "HumanEval/126", "keyWords": "n\u00fameros, devuelve, false, true, ejemplo, supongamos, n\u00famero, copia, m\u00e1s, ordenados"}
+{"task_id": "HumanEval/127", "keyWords": "intervalo, primo, longitud, punto, final, yes, salida, entrada, disjuntos, contrario"}
+{"task_id": "HumanEval/128", "keyWords": "ejemplos, nota, s\u00edmbolo, producto, tama\u00f1os, suma"}
+{"task_id": "HumanEval/129", "keyWords": "cuadr\u00edcula, menor, camino, celdas, celda, rango, salida, entrada, ejemplos, pasa"}
+{"task_id": "HumanEval/130", "keyWords": "conoce, n\u00fameros, contenga, lista, devolver, dado, ejemplo, recursi\u00f3n, define, tribonacci"}
+{"task_id": "HumanEval/131", "keyWords": "pares, d\u00edgitos, impar, d\u00edgito, n\u00famero, n\u00fameros, producto, devuelve, dado"}
+{"task_id": "HumanEval/132", "keyWords": "solo, true, false, subsecuencia, anidado, menos, par\u00e9ntesis, existe, cadena, entrada"}
+{"task_id": "HumanEval/133", "keyWords": "lista, salida, ejemplos, cuadrados, suma, devuelve, completar, elemento, redondeando, n\u00fameros"}
+{"task_id": "HumanEval/134", "keyWords": "true, ejemplo, espacios, grupo, nota, resto, false, palabra, parte, funci\u00f3n"}
+{"task_id": "HumanEval/135", "keyWords": "ejemplos, precede, igual, mayor, elemento, devuelve, funci\u00f3n, crea"}
+{"task_id": "HumanEval/136", "keyWords": "none, ejemplos, negativos, lista, funci\u00f3n, crea"}
+{"task_id": "HumanEval/137", "keyWords": "n\u00fameros, none, representados, nota, iguales, valores, tipo, devuelve, cadenas, flotantes"}
+{"task_id": "HumanEval/138", "keyWords": "ejemplo, exactamente, suma, escribir, encontrar"}
+{"task_id": "HumanEval/139", "keyWords": "ejemplos, define"}
+{"task_id": "HumanEval/140", "keyWords": "espacios, reemplace, cadena, texto, dado"}
+{"task_id": "HumanEval/141", "keyWords": "archivo, v\u00e1lido, punto, solo, ejemplos, dll, exe, txt, comenzar, vac\u00eda"}
+{"task_id": "HumanEval/142", "keyWords": "funci\u00f3n, \u00edndice, salida, ejemplos, suma, lugar, c\u00fabica, m\u00faltiplo, cuadrada, elementos"}
+{"task_id": "HumanEval/143", "keyWords": "palabras, cadena, contiene, frase, restricciones, salida, prueba, enter, ejemplo, orden"}
+{"task_id": "HumanEval/144", "keyWords": "denominador, fracciones, suponer, numerador, cadenas, representaciones, tanto, false, entero, expresi\u00f3n"}
+{"task_id": "HumanEval/145", "keyWords": "ejemplo, \u00edndice, ordenarlos, elementos, nota, d\u00edgitos, suma, enteros, ordenar, funci\u00f3n"}
+{"task_id": "HumanEval/146", "keyWords": "n\u00fameros, ejemplo, impares, primer, mayores, array, entrada, conjunto, toma, funci\u00f3n"}
+{"task_id": "HumanEval/147", "keyWords": "tripla, s\u00f3lo, explicaci\u00f3n, salida, entrada, ejemplos, m\u00faltiplos, triples, n\u00famero, devuelve"}
+{"task_id": "HumanEval/148", "keyWords": "planet1, tupla, planet2, funci\u00f3n, jupiter, mars, earth, mercury, uranus, saturn"}
+{"task_id": "HumanEval/149", "keyWords": "assert, orden, cadenas, longitud, lista, aaa, ejemplo, suponer, regla, devolver"}
+{"task_id": "HumanEval/150", "keyWords": "contrario, valor, devolver"}
+{"task_id": "HumanEval/151", "keyWords": "n\u00fameros, vac\u00eda, entrada, cuadrados, suma, devuelve, lista, dado"}
+{"task_id": "HumanEval/152", "keyWords": "longitud, coincidencia, resultado, valor, compare, ejemplos, puntuaci\u00f3n, as\u00ed, vez, conjetura"}
+{"task_id": "HumanEval/153", "keyWords": "siguiente, peque\u00f1as, extensi\u00f3n, extensiones, ejemplos, fuerza, entonces, stuffed, cheese, servingslices"}
+{"task_id": "HumanEval/154", "keyWords": "subcadena, rotaciones, palabras"}
+{"task_id": "HumanEval/155", "keyWords": "n\u00famero, respectivamente, impares, contiene, tupla, devuelve, dado"}
+{"task_id": "HumanEval/156", "keyWords": "ejemplos, restricci\u00f3n, min\u00fasculas, devuelto, cadena, obtener, dado"}
+{"task_id": "HumanEval/157", "keyWords": "rect\u00e1ngulo, tri\u00e1ngulo, false, ejemplos, grados, \u00e1ngulos, contrario, forma, lados, longitud"}
+{"task_id": "HumanEval/158", "keyWords": "cadena, lista, aaaaaaa, game, enam, string, m\u00e1s, m\u00e1ximo, palabra, devuelve"}
+{"task_id": "HumanEval/159", "keyWords": "zanahorias, cantidad, divi\u00e9rtete, constrain, stock, comes, integer, variable, ejemplos, comen"}
+{"task_id": "HumanEval/160", "keyWords": "lista, expresi\u00f3n, listas, exponenciaci\u00f3n, divisibilidad, multiplicaci\u00f3n, sustracci\u00f3n, a\u00f1adir, evaluaci\u00f3n, devolver"}
+{"task_id": "HumanEval/161", "keyWords": "cadena, ejemplo, devolver, funci\u00f3n, invierte, est\u00e1, d\u00e9jenlo, contrario, min\u00fasculas, letra"}
+{"task_id": "HumanEval/162", "keyWords": "devuelve, cadena, text, dada"}
+{"task_id": "HumanEval/163", "keyWords": "ejemplo, devuelve, dado"}

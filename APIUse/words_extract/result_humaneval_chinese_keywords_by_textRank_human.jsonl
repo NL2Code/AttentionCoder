@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0","keyWords": " 给定的数字列表, 距离小于给定阈值"}
+{"task_id": "HumanEval/1","keyWords": "包含多组嵌套括号的字符串, 分隔成单独的字符串, 返回这些字符串的列表, 每个开的括号都适当地关闭, 彼此之间不嵌套, 忽略输入字符串中的任何空格"}
+{"task_id": "HumanEval/2","keyWords": " 正浮点数, 返回数字的小数部分"}
+{"task_id": "HumanEval/3","keyWords": "初始账户余额为0, 存取款操作清单, 检测账户余额是否在任何时候低于零"}
+{"task_id": "HumanEval/4","keyWords": "平均值附近, 计算平均绝对偏差, 每个元素和中心点的平均绝对差异"}
+{"task_id": "HumanEval/5","keyWords": "每两个连续元素"}
+{"task_id": "HumanEval/6","keyWords": "用空格分隔的嵌套括号的多个组, 输出嵌套括号的最深层"}
+{"task_id": "HumanEval/7","keyWords": ""}
+{"task_id": "HumanEval/8","keyWords": "所有整数的和与乘积组成的元组  "}
+{"task_id": "HumanEval/9","keyWords": "按顺序生成, 增长到给定列表长度, 最大元素列表"}
+{"task_id": "HumanEval/10","keyWords": "最长的回文后缀, 前缀相反的字符串"}
+{"task_id": "HumanEval/11","keyWords": "执行二进制异或, 字符串形式返回"}
+{"task_id": "HumanEval/12","keyWords": "返回最长的字符串, 返回第一个相同长度的字符串"}
+{"task_id": "HumanEval/13","keyWords": "最大公约数 "}
+{"task_id": "HumanEval/14","keyWords": "所有前缀的列表"}
+{"task_id": "HumanEval/15","keyWords": "包含空格分隔的数字"}
+{"task_id": "HumanEval/16","keyWords": "多少个不同的字符, 不管大小写"}
+{"task_id": "HumanEval/17","keyWords": "解析这个字符串, 返回一个整数列表, 每个节拍的次数"}
+{"task_id": "HumanEval/18","keyWords": "给定的子字符串, 找到多少次, 计算重叠的情况"}
+{"task_id": "HumanEval/19","keyWords": "空格分隔的数字字符串, 返回按数字从小到大排序的字符串"}
+{"task_id": "HumanEval/20","keyWords": "返回与彼此接近的两个数字, 按顺序返回"}
+{"task_id": "HumanEval/21","keyWords": "对该列表应用线性变换"}
+{"task_id": "HumanEval/22","keyWords": "只对整数进行过滤"}
+{"task_id": "HumanEval/23","keyWords": ""}
+{"task_id": "HumanEval/24","keyWords": "n整除, 最大的小于n的数"}
+{"task_id": "HumanEval/25","keyWords": " 返回给定整数的素数因子列表"}
+{"task_id": "HumanEval/26","keyWords": "删除所有出现不止一次的元素"}
+{"task_id": "HumanEval/27","keyWords": "小写字符转换为大写字符, 大写字符转换为小写字符"}
+{"task_id": "HumanEval/28","keyWords": ""}
+{"task_id": "HumanEval/29","keyWords": "给定前缀开头的字符串"}
+{"task_id": "HumanEval/30","keyWords": "正数"}
+{"task_id": "HumanEval/31","keyWords": "素数"}
+{"task_id": "HumanEval/32","keyWords": "返回零点"}
+{"task_id": "HumanEval/33","keyWords": "返回一个列表l', 不能被3整除的索引, 能被3整除的索引, l对应的索引上的所有值升序排序后的结果"}
+{"task_id": "HumanEval/34","keyWords": "返回列表中唯一元素"}
+{"task_id": "HumanEval/35","keyWords": "最大的元素"}
+{"task_id": "HumanEval/36","keyWords": "数字7, 整数中出现的次数"}
+{"task_id": "HumanEval/37","keyWords": "奇数索引, 偶数索引, 升序排序后的对应值"}
+{"task_id": "HumanEval/38","keyWords": "用encode_cyclic函数编码, 返回已解码的字符串"}
+{"task_id": "HumanEval/39","keyWords": "斐波那契数, 第n个素数"}
+{"task_id": "HumanEval/40","keyWords": "三个不同的元素和为零"}
+{"task_id": "HumanEval/41","keyWords": "n辆车从左向右行驶, 另一组n辆车从右向左行驶, 碰撞的次数"}
+{"task_id": "HumanEval/42","keyWords": ""}
+{"task_id": "HumanEval/43","keyWords": "两个不同的元素和为零"}
+{"task_id": "HumanEval/44","keyWords": "以base为基数的表示, 返回字符串表示形式"}
+{"task_id": "HumanEval/45","keyWords": ""}
+{"task_id": "HumanEval/46","keyWords": "计算fib4数列的第n个元素, 不要使用递归"}
+{"task_id": "HumanEval/47","keyWords": ""}
+{"task_id": "HumanEval/48","keyWords": ""}
+{"task_id": "HumanEval/49","keyWords": ""}
+{"task_id": "HumanEval/50","keyWords": "用encode_shift函数编码, 返回已解码的字符串"}
+{"task_id": "HumanEval/51","keyWords": "不带元音的字符串"}
+{"task_id": "HumanEval/52","keyWords": ""}
+{"task_id": "HumanEval/53","keyWords": ""}
+{"task_id": "HumanEval/54","keyWords": ""}
+{"task_id": "HumanEval/55","keyWords": "斐波那契数"}
+{"task_id": "HumanEval/56","keyWords": "每个左括号都有对应的右括号"}
+{"task_id": "HumanEval/57","keyWords": "单调递增或递减"}
+{"task_id": "HumanEval/58","keyWords": "已排序的唯一公共元素"}
+{"task_id": "HumanEval/59","keyWords": "最大素数因子"}
+{"task_id": "HumanEval/60","keyWords": ""}
+{"task_id": "HumanEval/61","keyWords": "每个左括号都有对应的右括号"}
+{"task_id": "HumanEval/62","keyWords": "同样的形式, 多项式的导数"}
+{"task_id": "HumanEval/63","keyWords": "计算fibfib数列的第n个元素"}
+{"task_id": "HumanEval/64","keyWords": "元音的个数, \"y\"也是一个元音, 仅当它在给定单词的末尾"}
+{"task_id": "HumanEval/65","keyWords": "循环移位, 反转的数字"}
+{"task_id": "HumanEval/66","keyWords": "大写字符"}
+{"task_id": "HumanEval/67","keyWords": "返回篮子中芒果的数量"}
+{"task_id": "HumanEval/68","keyWords": "最小的偶数值节点, 返回索引最小的节点, 以列表的形式返回"}
+{"task_id": "HumanEval/69","keyWords": "大于零的最大整数, 频率大于或等于整数本身的值"}
+{"task_id": "HumanEval/70","keyWords": "奇怪排序"}
+{"task_id": "HumanEval/71","keyWords": "返回的面积, 有效三角形"}
+{"task_id": "HumanEval/72","keyWords": "回文列表, 元素的总和小于或等于最大可能的重量w"}
+{"task_id": "HumanEval/73","keyWords": "成为回文数组的最小更改次数, 一次更改中, 将一个元素更改为任何其他元素"}
+{"task_id": "HumanEval/74","keyWords": "所有字符串的字符总数"}
+{"task_id": "HumanEval/75","keyWords": "3个素数的乘积"}
+{"task_id": "HumanEval/76","keyWords": "x是一个n的简单幂"}
+{"task_id": "HumanEval/77","keyWords": "整数的立方"}
+{"task_id": "HumanEval/78","keyWords": "素数个数"}
+{"task_id": "HumanEval/79","keyWords": "转换成二进制格式"}
+{"task_id": "HumanEval/80","keyWords": "每3个连续的字母是不同的"}
+{"task_id": "HumanEval/81","keyWords": "老师给学生打分, 评分算法, 学生的GPA列表, 输出字母等级列表的函数"}
+{"task_id": "HumanEval/82","keyWords": "长度为素数"}
+{"task_id": "HumanEval/83","keyWords": ""}
+{"task_id": "HumanEval/84","keyWords": ""}
+{"task_id": "HumanEval/85","keyWords": "索引为奇数, 偶数元素"}
+{"task_id": "HumanEval/86","keyWords": "用空格分隔, 按ASCII值的升序排列, 保持句子中单词和空格的顺序"}
+{"task_id": "HumanEval/87","keyWords": "按行升序对坐标进行排序, 按列降序对行坐标进行排序"}
+{"task_id": "HumanEval/88","keyWords": "返回给定数组排序后的副本, (第一个索引值，最后一个索引值)和"}
+{"task_id": "HumanEval/89","keyWords": "旋转字母表, 经过加密的字符串, 向下平移2*2个位置"}
+{"task_id": "HumanEval/90","keyWords": "返回列表中第二小的元素"}
+{"task_id": "HumanEval/91","keyWords": "以\"I\"开头的句子, '.', '?'或者'!'分隔"}
+{"task_id": "HumanEval/92","keyWords": "一个数字等于其他两个数字的和, 所有数字都是整数"}
+{"task_id": "HumanEval/93","keyWords": "交换了所有字母的大小写，替换了message中出现的所有元音字母, 对应位置前两位"}
+{"task_id": "HumanEval/94","keyWords": "最大的素数, 返回其位数的和"}
+{"task_id": "HumanEval/95","keyWords": "所有键"}
+{"task_id": "HumanEval/96","keyWords": "返回小于n的素数整数列表"}
+{"task_id": "HumanEval/97","keyWords": "个位数的乘积"}
+{"task_id": "HumanEval/98","keyWords": "偶数下标, 大写元音的个数"}
+{"task_id": "HumanEval/99","keyWords": "表示数字的值(字符串), 返回最接近它的整数"}
+{"task_id": "HumanEval/100","keyWords": "n是奇数, 下一个奇数. n是偶数, 下一个偶数, 返回列表中每个级别的石头数量"}
+{"task_id": "HumanEval/101","keyWords": "单词数组"}
+{"task_id": "HumanEval/102","keyWords": "最大的偶数"}
+{"task_id": "HumanEval/103","keyWords": "包括n和m, 四舍五入到最接近的整数, 转换为二进制"}
+{"task_id": "HumanEval/104","keyWords": "没有偶数的所有元素, 递增顺序排序"}
+{"task_id": "HumanEval/105","keyWords": "进行排序, 结果数组反转, 每个数字替换为对应的名称"}
+{"task_id": "HumanEval/106","keyWords": "i的阶乘, 从1到i的数的和"}
+{"task_id": "HumanEval/107","keyWords": "包含回文的偶数和奇数的数量, 范围包含边界"}
+{"task_id": "HumanEval/108","keyWords": "返回各位数之和大于0的元素个数, 一个数字是负数. 第一个有符号位数将是负数"}
+{"task_id": "HumanEval/109","keyWords": "是否可以将数组按非递减顺序排序, 执行任何次数的右移操作"}
+{"task_id": "HumanEval/110","keyWords": "元素交换, 使lst1成为一个只有偶数的列表"}
+{"task_id": "HumanEval/111","keyWords": "重复次数最多的字母及其相应的出现次数, 相同的出现, 返回这些字母及其出现次数"}
+{"task_id": "HumanEval/112","keyWords": "删除s中所有等于c中任意字符的字符, 结果字符串是否为回文, 返回一个包含结果字符串和True/False检查的元组"}
+{"task_id": "HumanEval/113","keyWords": "每个元素i, 所有的i都应该被替换, 第i个字符串中的奇数数字的个数"}
+{"task_id": "HumanEval/114","keyWords": "任意非空子数组的最小和"}
+{"task_id": "HumanEval/115","keyWords": "下降桶的次数"}
+{"task_id": "HumanEval/116","keyWords": "二进制表示中的1的个数进行升序排列, 类似数量的1, 基于十进制值排序"}
+{"task_id": "HumanEval/117","keyWords": "辅音"}
+{"task_id": "HumanEval/118","keyWords": "最接近单词右侧且在两个辅音中间的元音, 开头和结尾的元音不算数"}
+{"task_id": "HumanEval/119","keyWords": "两个字符串通过某种顺序连接, 所有括号是平衡的"}
+{"task_id": "HumanEval/120","keyWords": "排序列表, arr中最大的k个数字"}
+{"task_id": "HumanEval/121","keyWords": "偶数位置, 所有奇数元素的和"}
+{"task_id": "HumanEval/122","keyWords": "arr的前k个元素, 最多有两位数字的元素"}
+{"task_id": "HumanEval/123","keyWords": "由collatz序列中的奇数排列得到, 按递增顺序排序的列表"}
+{"task_id": "HumanEval/124","keyWords": "验证给定的日期字符"}
+{"task_id": "HumanEval/125","keyWords": "按空格分割的单词列表, 不存在空格, 逗号分隔, 不存在逗号,字母表中位置处于奇数, 小写字母的个数, ord('a') = 0"}
+{"task_id": "HumanEval/126","keyWords": "是否排序按升序排列, 多于一个副本的相同数字"}
+{"task_id": "HumanEval/127","keyWords": "时间间隔, 两个间隔的重叠区间长度, 交集"}
+{"task_id": "HumanEval/128","keyWords": "所有整数的大小之和乘以所有整数符号的乘积, 每个数字的符号"}
+{"task_id": "HumanEval/129","keyWords": "长度为k的最小路径, 返回最小路径经过的单元格上的值的有序列表"}
+{"task_id": "HumanEval/130","keyWords": "特里波那契数列, 包含特里波那契数列的前n + 1个数"}
+{"task_id": "HumanEval/131","keyWords": "位数数字为奇数的所有数的乘积"}
+{"task_id": "HumanEval/132","keyWords": "当且仅当存在有效的括号子序列, 子序列中至少有一个括号嵌套"}
+{"task_id": "HumanEval/133","keyWords": "四舍五入, 上取整, 返回给定列表中数字的平方和"}
+{"task_id": "HumanEval/134","keyWords": "最后一个字符, 字母字符, 不是单词的一部分. 由空格分隔的一组字符"}
+{"task_id": "HumanEval/135","keyWords": "不大于或等于, 前面的元素的最大索引"}
+{"task_id": "HumanEval/136","keyWords": "最大的负整数, 最小的正整数"}
+{"task_id": "HumanEval/137","keyWords": "整数、浮点数或字符串表示实数, 较大的变量"}
+{"task_id": "HumanEval/138","keyWords": "正好4个正偶数的和"}
+{"task_id": "HumanEval/139","keyWords": "Brazilian阶乘"}
+{"task_id": "HumanEval/140","keyWords": "所有空格替换为下划线, 超过两个连续的空格, 所有连续的空格替换为-"}
+{"task_id": "HumanEval/141","keyWords": "接受一个代表文件名的字符串, 文件名有效, 满足以下所有条件"}
+{"task_id": "HumanEval/142","keyWords": "索引为3的倍数, 整数项平方, 索引是4的倍数, 整数项立方, 不会更改列表中索引不是3或4的倍数的项, 返回所有整数的和"}
+{"task_id": "HumanEval/143","keyWords": "空格隔开的单词, 包含原始句子中长度是质数的单词的字符串, 单词顺序应与原字符串相同"}
+{"task_id": "HumanEval/144","keyWords": "x * n的计算结果为整数"}
+{"task_id": "HumanEval/145","keyWords": "按位数和的升序排列"}
+{"task_id": "HumanEval/146","keyWords": "元素的数量"}
+{"task_id": "HumanEval/147","keyWords": ""}
+{"task_id": "HumanEval/148","keyWords": "离太阳最近的一颗是水星, 轨道之间的所有行星, 按靠近太阳顺序"}
+{"task_id": "HumanEval/149","keyWords": "删除其中奇数长度的字符串, 按每个单词的长度升序排列, 单词的长度相同, 按字母顺序排序"}
+{"task_id": "HumanEval/150","keyWords": "质数"}
+{"task_id": "HumanEval/151","keyWords": "奇数数字的平方和, 忽略 负数或非整数"}
+{"task_id": "HumanEval/152","keyWords": "两个相等长度的分数和猜测数组, 每次猜测的距离, 猜测值与得分之间的绝对差值"}
+{"task_id": "HumanEval/153","keyWords": "CAP为扩展名称中大写字母的数量, SM为扩展名称中小写字母的数目, 分数CAP - SM, 最强的扩展"}
+{"task_id": "HumanEval/154","keyWords": "任何旋转, 子字符串"}
+{"task_id": "HumanEval/155","keyWords": ""}
+{"task_id": "HumanEval/156","keyWords": "等效的罗马数字字符串, 小写形式返回"}
+{"task_id": "HumanEval/157","keyWords": "构成直角三角形"}
+{"task_id": "HumanEval/158","keyWords": "最多唯一字符的单词, 最先出现的字符串"}
+{"task_id": "HumanEval/159","keyWords": "饭后吃的胡萝卜总数, 饭后剩下的胡萝卜的数量"}
+{"task_id": "HumanEval/160","keyWords": "操作符和操作数, 基本的代数运算, 整数列表, 构建代数表达式，返回该表达式的求值"}
+{"task_id": "HumanEval/161","keyWords": "s[i]是一个字母, 字母的大小写颠倒, 字符串不包含字母, 反转字符串"}
+{"task_id": "HumanEval/162","keyWords": "md5哈希等价字符串"}
+{"task_id": "HumanEval/163","keyWords": "返回a和b之间的偶数, 按升序排列"}

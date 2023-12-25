@@ -8,7 +8,7 @@ from human_eval.data import write_jsonl, read_problems
 from APIUse.generate_implements import get_model_completion
 from APIUse.process_result import getCommit
 from APIUse.utils import keyWOrds4OrderPrompt, language2problemDataset, getLanguageAttentionByMethod, create_message, \
-    wordSelect
+    wordSelect, write_to_csv, get_pass1
 
 
 def generate_prompt2(task_id, input, attachment, promptId, comment=""):
@@ -276,21 +276,6 @@ when create a Python script for problem before, pay attention to these key words
         print(INSTRUCTION)
     return INSTRUCTION
 
-# baseline
-def generate_prompt0(task_id, input, attachment, promptId, comment=""):
-    print(task_id)
-    INSTRUCTION = ""
-    # 词性_prefix编号
-    if promptId == 0:
-       INSTRUCTION = f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{input}\n\n### Response:
-"""
-    elif promptId == 1:
-        # baseline
-        INSTRUCTION = f"""{input}"""
-    if task_id == "HumanEval/0":
-        print(INSTRUCTION)
-    return INSTRUCTION
-
 def generate_prompt17(task_id, input, attachment, promptId, comment=""):
     print(task_id)
     INSTRUCTION = ""
@@ -317,6 +302,23 @@ def generate_prompt17(task_id, input, attachment, promptId, comment=""):
         print(INSTRUCTION)
     return INSTRUCTION
 
+
+# baseline
+def generate_prompt0(task_id, input, attachment, promptId, comment=""):
+    print(task_id)
+    INSTRUCTION = ""
+    # 词性_prefix编号
+    if promptId == 0:
+       INSTRUCTION = f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\n{input}\n\n### Response:
+"""
+    elif promptId == 1:
+        # baseline
+        INSTRUCTION = f"""{input}"""
+    if task_id == "HumanEval/0":
+        print(INSTRUCTION)
+    return INSTRUCTION
+
+# 对话模型：attention放置在token中
 def generate_prompt18(task_id, input, attachment, promptId, comment=""):
     print(task_id)
     INSTRUCTION = ""
@@ -342,6 +344,7 @@ def generate_prompt18(task_id, input, attachment, promptId, comment=""):
         print(INSTRUCTION)
     return INSTRUCTION
 
+# 对话模型：attention放置在外部
 def generate_prompt19(task_id, input, attachment, promptId, comment=""):
     print(task_id)
     INSTRUCTION = ""
@@ -359,6 +362,44 @@ def generate_prompt19(task_id, input, attachment, promptId, comment=""):
         INSTRUCTION = f"""
 {input}
 """
+    if task_id == "HumanEval/0":
+        print(INSTRUCTION)
+    return INSTRUCTION
+
+# 针对非对话模型
+def generate_prompt20(task_id, input, attachment, promptId, comment=""):
+    print(task_id)
+    INSTRUCTION = ""
+    # 词性_prefix编号
+    if promptId == 0:
+        if attachment:
+            _, _, end = getCommit(input)
+            input = input[:end] + f"""\n    keywords: {attachment}\n""" + input[end:]
+            INSTRUCTION = f"""{input}"""
+        else:
+            INSTRUCTION = f"""{input}"""
+    elif promptId == 1:
+        # baseline
+        INSTRUCTION = f"""{input}"""
+    if task_id == "HumanEval/0":
+        print(INSTRUCTION)
+    return INSTRUCTION
+
+# 针对非对话模型:attention前添加描述词
+def generate_prompt21(task_id, input, attachment, promptId, comment=""):
+    print(task_id)
+    INSTRUCTION = ""
+    # 词性_prefix编号
+    if promptId == 0:
+        if attachment:
+            _, _, end = getCommit(input)
+            input = input[:end] + f"""\n    Pay attention to these keywords: {attachment}\n""" + input[end:]
+            INSTRUCTION = f"""{input}"""
+        else:
+            INSTRUCTION = f"""{input}"""
+    elif promptId == 1:
+        # baseline
+        INSTRUCTION = f"""{input}"""
     if task_id == "HumanEval/0":
         print(INSTRUCTION)
     return INSTRUCTION
@@ -440,7 +481,7 @@ def experiment_execute(model_name_list, languages, word_extract_list, template_i
                     threads.append(thread2)
                     thread2.start()
                     if ~flag:
-                       time.sleep(120)
+                       time.sleep(10)
                        flag = True
 
     # 等待所有线程执行结束
@@ -454,15 +495,20 @@ def experiment_execute(model_name_list, languages, word_extract_list, template_i
                 for template_id in template_id_list:
                     command = "python process_humaneval.py --path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + ".jsonl" + " --out_path=" + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(template_id) + "_processed.jsonl"
                     print(command)
-                    result = subprocess.run(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+                    result = subprocess.run(command, shell=True, capture_output=True, text=True)
 
                     # 输出命令的标准输出和标准错误import pke
                     print("Standard Output:")
                     print(result.stdout)
                     command2 = "evaluate_functional_correctness " + result_path + model_name + "_humanEval_" + language + "_" + word_extract["method"] + "_" + remark + word_extract["suffix"] + "_template" + str(
-                        template_id) + "_processed.jsonl" + " --problem_file=../dataSet/human-eval-v2-Chinese.jsonl"
+                        template_id) + "_processed.jsonl" + " --problem_file=../dataSet/human-eval-v2-" + language + ".jsonl"
                     print(command2)
+                    result2 = subprocess.run(command2, shell=True, capture_output=True, text=True)
 
+                    # 将结果写入文件
+                    write_to_csv("result.csv", [model_name, language, word_extract["method"], word_extract["suffix"], template_id, get_pass1(result2.stdout)])
+                    print("Standard Output:")
+                    print(result2.stdout)
                     # 打开文件以追加模式写入内容，如果文件不存在则创建新文件
                     with open('command.txt', 'a') as file:
                         file.write(command + "\n")

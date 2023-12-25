@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "deux nombres, une liste, le seuil"}
+{"task_id": "HumanEval/1", "keyWords": "les groupes, les espaces, ces groupes, ces cha\u00eenes, une cha\u00eene, une liste, la cha\u00eene, plusieurs ensembles, votre but, chaque parenth\u00e8se, cette fonction, l\u2019 entr\u00e9e"}
+{"task_id": "HumanEval/2", "keyWords": "un nombre, le reste, la partie"}
+{"task_id": "HumanEval/3", "keyWords": "ce point la fonction, le solde, tout moment, les comptes, votre t\u00e2che, une liste"}
+{"task_id": "HumanEval/4", "keyWords": "ce cas la moyenne, la moyenne, la diff\u00e9rence, l\u2019 \u00e9cart, cet ensemble, une liste, chaque \u00e9l\u00e9ment, x - x_mean"}
+{"task_id": "HumanEval/5", "keyWords": "chaque deux \u00e9l\u00e9ments, la liste, un nombre"}
+{"task_id": "HumanEval/6", "keyWords": "les parenth\u00e8ses, plusieurs groupes, des espaces, chaque groupe, une cha\u00eene, cette fonction, deux niveaux, l\u2019 entr\u00e9e"}
+{"task_id": "HumanEval/7", "keyWords": "des cha\u00eenes, des stator, la liste"}
+{"task_id": "HumanEval/8", "keyWords": "la liste, la somme, tous les entiers, une liste, le produit, un tuple"}
+{"task_id": "HumanEval/9", "keyWords": "la liste, une liste, la longueur"}
+{"task_id": "HumanEval/10", "keyWords": "la cha\u00eene le pr\u00e9fixe, le suffixe palindrome, la cha\u00eene, le palindrome, la fin, l\u2019 id\u00e9e, l\u2019 algorithme"}
+{"task_id": "HumanEval/11", "keyWords": "les deux cha\u00eenes a, le xor, ces entr\u00e9es, le r\u00e9sultat, les entr\u00e9es"}
+{"task_id": "HumanEval/12", "keyWords": "la premi\u00e8re cha\u00eene, la cha\u00eene, la liste, m\u00eame longueur"}
+{"task_id": "HumanEval/13", "keyWords": "deux entiers a, grand diviseur"}
+{"task_id": "HumanEval/14", "keyWords": "tous les pr\u00e9fixes, la cha\u00eene, une liste"}
+{"task_id": "HumanEval/15", "keyWords": "des nombres, des espaces, une cha\u00eene"}
+{"task_id": "HumanEval/16", "keyWords": "la casse, une cha\u00eene"}
+{"task_id": "HumanEval/17", "keyWords": "une cha\u00eene, un format ascii, dur\u00e9e 4 battements, cette cha\u00eene, une liste, les notes, cette fonction, un texte, votre t\u00e2che, l\u2019 entr\u00e9e"}
+{"task_id": "HumanEval/18", "keyWords": "fois une sous-cha\u00eene, la cha\u00eene"}
+{"task_id": "HumanEval/19", "keyWords": "une cha\u00eene, des espaces, l\u2019 entr\u00e9e, l\u2019 option"}
+{"task_id": "HumanEval/20", "keyWords": "l\u2019 ordre, deux nombres, la liste"}
+{"task_id": "HumanEval/21", "keyWords": "une liste, une transformation, cette liste, deux \u00e9l\u00e9ments, petit nombre"}
+{"task_id": "HumanEval/22", "keyWords": "valeurs python, une liste, les entiers"}
+{"task_id": "HumanEval/23", "keyWords": "une cha\u00eene, la longueur"}
+{"task_id": "HumanEval/24", "keyWords": "grand nombre, un nombre"}
+{"task_id": "HumanEval/25", "keyWords": "tous les facteurs, la d\u00e9composition, la liste, l\u2019 ordre, un entier, le nombre, chaque facteur"}
+{"task_id": "HumanEval/26", "keyWords": "tous les \u00e9l\u00e9ments, les \u00e9l\u00e9ments, le m\u00eame ordre, une fois, la liste, l\u2019 entr\u00e9e"}
+{"task_id": "HumanEval/27", "keyWords": "les caract\u00e8res, une cha\u00eene"}
+{"task_id": "HumanEval/28", "keyWords": "une seule cha\u00eene, une liste"}
+{"task_id": "HumanEval/29", "keyWords": "les cha\u00eenes, un pr\u00e9fixe, la liste"}
+{"task_id": "HumanEval/30", "keyWords": "la liste, les nombres"}
+{"task_id": "HumanEval/31", "keyWords": "le nombre"}
+{"task_id": "HumanEval/32", "keyWords": "la liste xs, 0 points, le coefficient, un nombre, une solution"}
+{"task_id": "HumanEval/33", "keyWords": "une liste l, une liste l., un indice, toutes les valeurs, le r\u00e9sultat, sa valeur, l\u2019 index, cette fonction"}
+{"task_id": "HumanEval/34", "keyWords": "la liste, un \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/35", "keyWords": "la liste, grand \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/36", "keyWords": "le chiffre, le nombre, un entier"}
+{"task_id": "HumanEval/37", "keyWords": "une liste l, la valeur, sa valeur, les termes, l\u2019 index, cette fonction"}
+{"task_id": "HumanEval/38", "keyWords": "la fonction encode_cyclic, la cha\u00eene"}
+{"task_id": "HumanEval/39", "keyWords": ""}
+{"task_id": "HumanEval/40", "keyWords": "la liste, entr\u00e9e une liste, la somme, trois \u00e9l\u00e9ments, le cas"}
+{"task_id": "HumanEval/41", "keyWords": "toutes les voitures, un autre groupe, les deux groupes, les deux v\u00e9hicules, un v\u00e9hicule, la m\u00eame vitesse, n voitures, un chemin, m\u00eame temps, lorsqu\u2019un v\u00e9hicule, la voiture, leur trajectoire, cette fonction, le nombre, ces collisions"}
+{"task_id": "HumanEval/42", "keyWords": "la liste"}
+{"task_id": "HumanEval/43", "keyWords": "la liste, entr\u00e9e une liste, la somme, deux \u00e9l\u00e9ments"}
+{"task_id": "HumanEval/44", "keyWords": "une repr\u00e9sentation, la conversion, entr\u00e9e x, le nombre"}
+{"task_id": "HumanEval/45", "keyWords": "l\u2019 aire, la longueur"}
+{"task_id": "HumanEval/46", "keyWords": "la suite fib4, la s\u00e9quence fib4, la suite fibonacci, une suite, le n-i\u00e8me \u00e9l\u00e9ment, la r\u00e9cursivit\u00e9, une fonction"}
+{"task_id": "HumanEval/47", "keyWords": "la liste, la m\u00e9diane"}
+{"task_id": "HumanEval/48", "keyWords": "un palindrome, une cha\u00eene"}
+{"task_id": "HumanEval/49", "keyWords": "retourne 2^n module p(attention"}
+{"task_id": "HumanEval/50", "keyWords": "la fonction encode_shift, la cha\u00eene, une cha\u00eene"}
+{"task_id": "HumanEval/51", "keyWords": "une cha\u00eene, une fonction"}
+{"task_id": "HumanEval/52", "keyWords": "la liste l, tous les nombres"}
+{"task_id": "HumanEval/53", "keyWords": "deux nombres x"}
+{"task_id": "HumanEval/54", "keyWords": "les m\u00eames caract\u00e8res, les deux mots"}
+{"task_id": "HumanEval/55", "keyWords": "le n-i\u00e8me nombre"}
+{"task_id": "HumanEval/56", "keyWords": "une parenth\u00e8se, chaque parenth\u00e8se, une cha\u00eene, les parenth\u00e8ses"}
+{"task_id": "HumanEval/57", "keyWords": "la liste, l\u2019 \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/58", "keyWords": "le seul \u00e9l\u00e9ment, deux listes"}
+{"task_id": "HumanEval/59", "keyWords": "grand facteur"}
+{"task_id": "HumanEval/60", "keyWords": "une fonction"}
+{"task_id": "HumanEval/61", "keyWords": "une parenth\u00e8se, chaque parenth\u00e8se, des cha\u00eenes, les parenth\u00e8ses"}
+{"task_id": "HumanEval/62", "keyWords": "la m\u00eame mani\u00e8re, la d\u00e9riv\u00e9e, ce polyn\u00f4me, les coefficients"}
+{"task_id": "HumanEval/63", "keyWords": "la suite fibfib, la suite fibonacci, une suite, le n-i\u00e8me \u00e9l\u00e9ment, une fonction"}
+{"task_id": "HumanEval/64", "keyWords": "une fonction vowels_count, la cha\u00eene, un mot, une repr\u00e9sentation, une voyelle, la fin, les voyelles, le nombre, ce cas"}
+{"task_id": "HumanEval/65", "keyWords": "le nombre, l\u2019 entier x, le r\u00e9sultat, la droite, une cha\u00eene"}
+{"task_id": "HumanEval/66", "keyWords": "une cha\u00eene, la somme ascii, une fonction, gros caract\u00e8res, le mandat"}
+{"task_id": "HumanEval/67", "keyWords": "100 - 2 -, 3 - 0 -, le nombre, le panier, 3 oranges, des oranges, un nombre, 6 oranges, des pommes, un panier, fruit_distribution(\"100 apples, fruit_distribution(\"0 apples, 1 oranges\",3, 1 oranges\",120, fruit_distribution(\"2 apples, ce panier, fruit_distribution(\"5 apples, des mangues, une cha\u00eene, cette t\u00e2che"}
+{"task_id": "HumanEval/68", "keyWords": "la m\u00eame valeur, la valeur, le noeud, le n\u0153ud, le tableau, petite valeur, de valeurs, l\u2019 index, un nombre, un tableau, son index, l\u2019 arbre, ces noeuds, plusieurs noeuds, petit n\u0153ud, votre t\u00e2che, une branche, les limites"}
+{"task_id": "HumanEval/69", "keyWords": "la fr\u00e9quence, la liste, la valeur, un entier, grand entier, l\u2019 entier, le nombre, une liste"}
+{"task_id": "HumanEval/70", "keyWords": "le minimum, le tri, le maximum, la liste, une liste, un ordre"}
+{"task_id": "HumanEval/71", "keyWords": "les trois c\u00f4t\u00e9s, trois c\u00f4t\u00e9s, deux c\u00f4t\u00e9s, un triangle, donn\u00e9e la longueur, deux d\u00e9cimales, la somme, l\u2019 aire"}
+{"task_id": "HumanEval/72", "keyWords": "le poids, l\u2019 objet, un objet, une liste, une fonction, ses \u00e9l\u00e9ments, la somme"}
+{"task_id": "HumanEval/73", "keyWords": "un tableau, un \u00e9l\u00e9ment, quel autre \u00e9l\u00e9ment, une seule modification, la m\u00eame mani\u00e8re, le nombre"}
+{"task_id": "HumanEval/74", "keyWords": "toutes les cha\u00eenes, le m\u00eame nombre, la premi\u00e8re liste, l\u2019 autre liste, le nombre, une liste, deux listes, une fonction"}
+{"task_id": "HumanEval/75", "keyWords": "le nombre, le produit, une fonction"}
+{"task_id": "HumanEval/76", "keyWords": "un nombre x, les autres cas, n**int= x, les puissances, une puissance, une fonction, votre t\u00e2che"}
+{"task_id": "HumanEval/77", "keyWords": "un entier, un certain nombre, cet entier, le cube, la saisie, une fonction"}
+{"task_id": "HumanEval/78", "keyWords": "le nombre, les nombres, un nombre, les symboles a, petits nombres, la sortie, une cha\u00eene, le produit, une fonction, l\u2019 entr\u00e9e"}
+{"task_id": "HumanEval/79", "keyWords": "la cha\u00eene, le format, une cha\u00eene, la fonction, la fin, des caract\u00e8res, un nombre, chaque caract\u00e8re, une paire, votre t\u00e2che"}
+{"task_id": "HumanEval/80", "keyWords": "chaque 3 lettres, une cha\u00eene, la cha\u00eene, votre t\u00e2che"}
+{"task_id": "HumanEval/81", "keyWords": "une liste, le seul probl\u00e8me, les enseignants, une fonction, les \u00e9l\u00e8ves, 4,0 a +, le tableau, le code, leurs propres algorithmes, classe gpa, 1.7 c, la derni\u00e8re semaine, 0,0 d-, 0,0 e, quelques \u00e9tudiants, a -, 1,0 d+, 1,3 c-, 3,3 a-, 0,7 d"}
+{"task_id": "HumanEval/82", "keyWords": "la cha\u00eene, une cha\u00eene, la longueur, une fonction, un nombre"}
+{"task_id": "HumanEval/83", "keyWords": "un entier positif n, un entier, n bits, une quantit\u00e9"}
+{"task_id": "HumanEval/84", "keyWords": "la somme, la sortie, la repr\u00e9sentation, un entier positif n, les variables, une cha\u00eene"}
+{"task_id": "HumanEval/85", "keyWords": "les \u00e9l\u00e9ments, une liste"}
+{"task_id": "HumanEval/86", "keyWords": "des mots, une cha\u00eene, tous les mots, des espaces, tous leurs caract\u00e8res, l\u2019 ordre, une fonction, la version, leur valeur ascii, sa version, anti_shuffle('hello world, la phrase"}
+{"task_id": "HumanEval/87", "keyWords": "une liste, l\u2019 entier x, la liste, une matrice, l\u2019 ordre, l\u2019 accord, une coordonn\u00e9e, une donn\u00e9e, les coordonn\u00e9es, chaque ligne, chaque tuple, un nombre"}
+{"task_id": "HumanEval/88", "keyWords": "la premi\u00e8re valeur, la derni\u00e8re valeur, le tableau, un tableau, l\u2019 ordre, une copie"}
+{"task_id": "HumanEval/89", "keyWords": "une cha\u00eene, une fonction encrypt, l\u2019 alphabet, 2 positions, ces lettres, telle sorte, le bas"}
+{"task_id": "HumanEval/90", "keyWords": "le deuxi\u00e8me \u00e9l\u00e9ment, une fonction next_smallest, un tel \u00e9l\u00e9ment, une liste, la liste"}
+{"task_id": "HumanEval/91", "keyWords": "une phrase, une liste, l\u2019 ennui, les nombres, votre t\u00e2che, la s\u00e9paration"}
+{"task_id": "HumanEval/92", "keyWords": "tous les nombres, tous les autres cas, deux autres nombres, 3 nombres, des entiers, la somme, une fonction"}
+{"task_id": "HumanEval/93", "keyWords": "les deux premi\u00e8res lettres, toutes les lettres, toutes les voyelles, les minuscules, les majuscules, le message, des lettres, l\u2019 alphabet, la lettre, la position, telle mani\u00e8re, une fonction"}
+{"task_id": "HumanEval/94", "keyWords": "for parti-culier, la sortie, la somme, grand nombre, ses chiffres, une liste"}
+{"task_id": "HumanEval/95", "keyWords": "toutes les cl\u00e9s, des cha\u00eenes, le dictionnaire, cette fonction, un dictionnaire"}
+{"task_id": "HumanEval/96", "keyWords": "une liste, une fonction, un entier"}
+{"task_id": "HumanEval/97", "keyWords": "un seul chiffre, leur produit, deux entiers, l\u2019 entr\u00e9e, une fonction"}
+{"task_id": "HumanEval/98", "keyWords": "la cha\u00eene s, le nombre, l\u2019 index"}
+{"task_id": "HumanEval/99", "keyWords": "un nombre, un entier, ce nombre, l\u2019 entier, une valeur, une fonction, deux entiers"}
+{"task_id": "HumanEval/100", "keyWords": "le prochain nombre, le nombre, le niveau, n pierres, un entier positif n, n couches, la position index, premier niveau, chaque niveau, l\u2019 \u00e9l\u00e9ment i, la liste, un tas"}
+{"task_id": "HumanEval/101", "keyWords": "divise une cha\u00eene, des virgules, des espaces, une liste, votre mission, un tableau"}
+{"task_id": "HumanEval/102", "keyWords": "deux nombres positifs x, de tel nombre, grand nombre, la fonction, cette fonction, l\u2019 intervalle"}
+{"task_id": "HumanEval/103", "keyWords": "deux entiers positifs n, compris n, la r\u00e9ponse, la moyenne, votre t\u00e2che"}
+{"task_id": "HumanEval/104", "keyWords": "une liste, la liste, tous les \u00e9l\u00e9ments, entiers positifs x"}
+{"task_id": "HumanEval/105", "keyWords": "sort arr -, le tableau, reverse arr -, arr -, un tableau, le nom, les entiers, chaque nombre, des nombres"}
+{"task_id": "HumanEval/106", "keyWords": "la factorielle, la valeur, la somme, la multiplication, une fonction f, taille n, une liste, un \u00e9l\u00e9ment, l\u2019 index"}
+{"task_id": "HumanEval/107", "keyWords": "un entier positif n, le tuple, le nombre, palindromes entiers paires, un tuple, l\u2019 intervalle, le palindrome, 3 entr\u00e9es, palindromes pair, les palindromes, 12 entr\u00e9es, les limites"}
+{"task_id": "HumanEval/108", "keyWords": "exemple -123 les nombres, un nombre, un tableau, son premier chiffre, une fonction count_nums, la somme"}
+{"task_id": "HumanEval/109", "keyWords": "le tableau, un tableau, tableau arr, le dernier \u00e9l\u00e9ment, la droite, le d\u00e9placement, tous les \u00e9l\u00e9ments, la position, les op\u00e9rations, la liste, les nombres, un ordre, un ensemble, une position, une op\u00e9ration, n entiers arr[1, des \u00e9l\u00e9ments, votre t\u00e2che, l\u2019 index"}
+{"task_id": "HumanEval/110", "keyWords": "lst1 une liste, des \u00e9l\u00e9ments, tous les \u00e9l\u00e9ments, de limite, des nombres, une fonction, la liste, deux listes, un \u00e9change, ce probl\u00e8me"}
+{"task_id": "HumanEval/111", "keyWords": "histogram('b b b b a, histogram('a b c a b, histogram('a b b a, histogram('a b c, toutes les lettres, plusieurs lettres, { ' a, un espace, un dictionnaire, la m\u00eame occurrence, 2 }, leurs occurrences, 1 }, leur nombre, 4 }, une cha\u00eene"}
+{"task_id": "HumanEval/112", "keyWords": "deux cha\u00eenes s, la cha\u00eene, la m\u00eame mani\u00e8re, la v\u00e9rification true, le r\u00e9sultat, un palindrome, un tuple, tous les caract\u00e8res, une cha\u00eene, quel caract\u00e8re"}
+{"task_id": "HumanEval/113", "keyWords": "la cha\u00eene i, le nombre, tous les i, chaque \u00e9l\u00e9ment i, la i-\u00e8me cha\u00eene, le r\u00e9sultat, une liste, l\u2019 entr\u00e9e, \u00e9l\u00e9ments odd"}
+{"task_id": "HumanEval/114", "keyWords": "un tableau entier nums, petite somme, tout sous-tableau"}
+{"task_id": "HumanEval/115", "keyWords": "tous les puits, un puits, chaque puits, le puits, un seau, la m\u00eame capacit\u00e9, une grille, tous les seaux, chaque rang\u00e9e, la m\u00eame longueur, une rang\u00e9e, le nombre, le baril, une unit\u00e9, l\u2019 eau, les contraintes, votre t\u00e2che"}
+{"task_id": "HumanEval/116", "keyWords": "le nombre, un nombre, la valeur, la repr\u00e9sentation, un tableau, le tri, ces nombres, cette kata"}
+{"task_id": "HumanEval/117", "keyWords": "la cha\u00eene s, une cha\u00eene s, la cha\u00eene, la fonction, une liste, un nombre naturel n, une fonction, tous les mots, select_words(\"hello world, n consonnes, ces mots, des espaces, des lettres, votre t\u00e2che, l\u2019 ordre, select_words(\"uncle sam"}
+{"task_id": "HumanEval/118", "keyWords": "la voyelle, la cha\u00eene, la fin, aucune voyelle, le centre, une cha\u00eene, des lettres, un mot, les voyelles, deux consonnes, votre t\u00e2che"}
+{"task_id": "HumanEval/119", "keyWords": "une bonne cha\u00eene, les deux cha\u00eenes, une cha\u00eene s, deux cha\u00eenes, la cha\u00eene, toutes les parenth\u00e8ses, un certain ordre, des parenth\u00e8ses, une liste, un moyen, le cas, votre travail"}
+{"task_id": "HumanEval/120", "keyWords": "un entier positif k, longueur k, les k, entiers arr, l\u2019 arr, un tableau, la longueur, les \u00e9l\u00e9ments, une liste, grands nombres"}
+{"task_id": "HumanEval/121", "keyWords": "tous les \u00e9l\u00e9ments, la somme, la position, une liste"}
+{"task_id": "HumanEval/122", "keyWords": "les k premiers \u00e9l\u00e9ments, un entier k, des entiers, vide arr, la somme, les contraintes, un tableau, deux chiffres"}
+{"task_id": "HumanEval/123", "keyWords": "la s\u00e9quence collatz, la conjecture, le terme, la liste, tout entier positif n, la suite, la valeur, la moiti\u00e9, un entier positif n, une conjecture, chaque terme, les nombres, une liste, les s\u00e9quences, 3 fois"}
+{"task_id": "HumanEval/124", "keyWords": "valid_date('03 - 11 - 2000, valid_date('04 - 0 - 2040, valid_date('15 - 01 - 2012, valid_date('06 - 04 - 2020, la date, la cha\u00eene, les jours, le mois, 1 jour, les mois, le nombre, 11 mois, 30 jours, 31 jours, deuxi\u00e8me mois, le format, les conditions, une fonction"}
+{"task_id": "HumanEval/125", "keyWords": "une cha\u00eene, la cha\u00eene, une virgule, une liste, split_words(\"hello world, la position, le nombre, le texte, aucune virgule, l\u2019 alphabet, aucun espace, des espaces"}
+{"task_id": "HumanEval/126", "keyWords": "de nombres, une liste, la liste, une copie, m\u00eame num\u00e9ro, l\u2019 ordre, des entiers"}
+{"task_id": "HumanEval/127", "keyWords": "l\u2019 intervalle, l\u2019 intersection, ces deux intervalles, les deux intervalles, chaque intervalle, la longueur, deux intervalles, un nombre, la fin, son point, le d\u00e9but, une paire, votre t\u00e2che"}
+{"task_id": "HumanEval/128", "keyWords": "tous les entiers, tous les symboles, entiers arr, le produit, le symbole, la somme, chaque nombre, un tableau"}
+{"task_id": "HumanEval/129", "keyWords": "un entier positif k, longueur k, k cellules, la grille, la cellule, un entier index i, une grille, une cellule, un chemin, le chemin, chaque cellule, quelle cellule, les cellules, d\u2019 autres termes, la r\u00e9ponse, qu\u2019un chemin, les valeurs, une liste, une valeur, les entiers"}
+{"task_id": "HumanEval/130", "keyWords": "la suite tribonacci, la suite, les n, 1 premiers nombres, la r\u00e9currence, les gens, les math\u00e9maticiens, n\u00e9gatif n, tri(n -, tout le monde, une liste, un entier"}
+{"task_id": "HumanEval/131", "keyWords": "tous les nombres, tous les chiffres, un entier positif n, le produit, le nombre"}
+{"task_id": "HumanEval/132", "keyWords": "entr\u00e9e une cha\u00eene, une fonction, une parenth\u00e8se, une s\u00e9quence, cette fonction, des crochets, la sous-s\u00e9quence"}
+{"task_id": "HumanEval/133", "keyWords": "la sortie, la liste, la somme, une liste, chaque \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/134", "keyWords": "un caract\u00e8re, un mot, check_if_last_char_is_a_letter(\"apple pi e, un groupe, dernier caract\u00e8re, check_if_last_char_is_a_letter(\"apple pie, la valeur, des espaces, le reste, une fonction"}
+{"task_id": "HumanEval/135", "keyWords": "un tel \u00e9l\u00e9ment, l\u2019 \u00e9l\u00e9ment, un \u00e9l\u00e9ment, de valeurs, le tableau, l\u2019 index, une fonction"}
+{"task_id": "HumanEval/136", "keyWords": "la liste, d\u2019 entier, petit entier, grand entier, un tuple, une fonction"}
+{"task_id": "HumanEval/137", "keyWords": "les vrais nombres, les nombres, des nombres, les valeurs, des cha\u00eenes, grande variable, comparaison one(1, une fonction"}
+{"task_id": "HumanEval/138", "keyWords": "la somme, 4 nombres, le nombre"}
+{"task_id": "HumanEval/139", "keyWords": "la factorielle"}
+{"task_id": "HumanEval/140", "keyWords": "tous les espaces, deux espaces, une cha\u00eene, des soulignements, un texte"}
+{"task_id": "HumanEval/141", "keyWords": "le nom, le point, un nom, le cas, une cha\u00eene, une fonction, une lettre, la sous-cha\u00eene, qu\u2019un point, toutes les conditions, trois chiffres"}
+{"task_id": "HumanEval/142", "keyWords": "la fonction, la liste, la sortie, la somme, tous les entiers, tous les articles, l\u2019 index, un multiple, cubique cet article, cette fonction, les \u00e9l\u00e9ments, une liste, cet article"}
+{"task_id": "HumanEval/143", "keyWords": "la nouvelle cha\u00eene, des mots, la cha\u00eene, la phrase, une cha\u00eene, des espaces, des lettres, la longueur, la natation, une phrase, les phrases, les contraintes, l\u2019 ordre, un test"}
+{"task_id": "HumanEval/144", "keyWords": "une fonction x * n, x * n, les deux x, des fractions, le d\u00e9nominateur, un d\u00e9nominateur, le num\u00e9rateur, des repr\u00e9sentations, des entiers, le r\u00e9sultat, la fonction, un entier, l\u2019 expression, votre t\u00e2che"}
+{"task_id": "HumanEval/145", "keyWords": "la liste, le m\u00eame nombre, une liste, la somme, une fonction, l\u2019 ordre, leur index, plusieurs articles"}
+{"task_id": "HumanEval/146", "keyWords": "le dernier chiffre, le tableau, des nombres, un ensemble, une fonction"}
+{"task_id": "HumanEval/147", "keyWords": "un entier positif n, un tableau a, un seul triplet, un multiple, a[i ], chaque i(1\u2264i\u2264n, la valeur, le nombre"}
+{"task_id": "HumanEval/148", "keyWords": "la fonction, la plan\u00e8te, la terre, toutes les plan\u00e8tes, l\u2019 orbite, une fonction, cette fonction, deux plan\u00e8tes, huit plan\u00e8tes, l\u2019 ordre, un tuple, les noms, le nom, notre syst\u00e8me"}
+{"task_id": "HumanEval/149", "keyWords": "la liste, la m\u00eame longueur, une liste, la longueur, un certain ordre, les cha\u00eenes, une fonction, des cha\u00eenes, l\u2019 ordre, tous les mots, cette fonction, un tableau, cette r\u00e8gle, deux mots, assert list_sort([\"aa, assert list_sort([\"ab, chaque mot"}
+{"task_id": "HumanEval/150", "keyWords": "la valeur, un nombre, un programme"}
+{"task_id": "HumanEval/151", "keyWords": "la liste, la somme, les nombres, une liste"}
+{"task_id": "HumanEval/152", "keyWords": "la valeur, la peine, la distance, la diff\u00e9rence, m\u00eame longueur, un \u00e9v\u00e9nement, un tableau, un match, 1,2,3,4,2 - 2, ce sentiment, ce moment, le r\u00e9sultat, chaque fois, chaque index, le score, vos sentiments, certains r\u00e9sultats, deux tableaux, une personne, votre t\u00e2che"}
+{"task_id": "HumanEval/153", "keyWords": "la m\u00eame intensit\u00e9, l\u2019 extension, cap le nombre, une extension, le nom, classname le strongestextensionname, l\u2019 intensit\u00e9, le nombre, la classe, la fraction cap-sm, une classe, la liste, une cha\u00eene, une colonne, d\u2019 autres classes, deux extensions, les extensions, my_class aa, moyennes lettres, sa force"}
+{"task_id": "HumanEval/154", "keyWords": "le deuxi\u00e8me mot, une sous-cha\u00eene, premier mot, ses rotations, deux mots"}
+{"task_id": "HumanEval/155", "keyWords": "un nombre, un tuple, le nombre"}
+{"task_id": "HumanEval/156", "keyWords": "sa cha\u00eene, un entier"}
+{"task_id": "HumanEval/157", "keyWords": "un triangle, 3 c\u00f4t\u00e9s, trois c\u00f4t\u00e9s, donn\u00e9e la longueur, le cas, 90 degr\u00e9s"}
+{"task_id": "HumanEval/158", "keyWords": "une liste, l\u2019 ordre dictionnaire, plusieurs cha\u00eenes, diff\u00e9rents mots, cette liste, les mots, la cha\u00eene, grand nombre, une fonction, un maximum"}
+{"task_id": "HumanEval/159", "keyWords": "toutes les carottes, les trois repas, le repas, une certaine quantit\u00e9, la quantit\u00e9, le repas]., le stock, les variables, la journ\u00e9e, un tableau, un lapin"}
+{"task_id": "HumanEval/160", "keyWords": "la deuxi\u00e8me liste, la premi\u00e8re liste, une liste, la soustraction, la multiplication, une expression, deux listes, des op\u00e9rations, cette expression, les op\u00e9randes, les op\u00e9rateurs, l\u2019 \u00e9valuation"}
+{"task_id": "HumanEval/161", "keyWords": "la lettre, la cha\u00eene, la fonction, de lettre, la casse, une lettre, une cha\u00eene, # a@c"}
+{"task_id": "HumanEval/162", "keyWords": "son \u00e9quivalent md5, une cha\u00eene, la cha\u00eene"}
+{"task_id": "HumanEval/163", "keyWords": "deux entiers positifs a, le nombre, l\u2019 ordre"}

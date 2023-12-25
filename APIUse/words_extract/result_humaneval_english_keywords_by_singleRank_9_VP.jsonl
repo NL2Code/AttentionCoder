@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "given list, given threshold"}
+{"task_id": "HumanEval/1", "keyWords": "separate those group, containing multiple groups, return the list, nested parentheses, ignore any spaces"}
+{"task_id": "HumanEval/2", "keyWords": "return the decimal part, floating point number, given number"}
+{"task_id": "HumanEval/3", "keyWords": "given a list, return true"}
+{"task_id": "HumanEval/4", "keyWords": "calculate mean absolute deviation, given list"}
+{"task_id": "HumanEval/5", "keyWords": "insert a number"}
+{"task_id": "HumanEval/6", "keyWords": "output the deepest level, represented multiple groups, nested parentheses"}
+{"task_id": "HumanEval/7", "keyWords": "that contain given substring, filter an input list"}
+{"task_id": "HumanEval/8", "keyWords": "return a tuple, given list"}
+{"task_id": "HumanEval/9", "keyWords": "generate a list, rolling maximum element, given list, given moment"}
+{"task_id": "HumanEval/10", "keyWords": "find the shortest palindrome, find the longest postfix, supplied string"}
+{"task_id": "HumanEval/11", "keyWords": "perform binary xor, return result"}
+{"task_id": "HumanEval/12", "keyWords": "return none"}
+{"task_id": "HumanEval/13", "keyWords": "return a greatest common divisor"}
+{"task_id": "HumanEval/14", "keyWords": "return list"}
+{"task_id": "HumanEval/15", "keyWords": "containing space-delimited numbers, return a string"}
+{"task_id": "HumanEval/16", "keyWords": "given a string"}
+{"task_id": "HumanEval/17", "keyWords": "lasts two beats, lasts four beats, parse this string, representing musical notes, lasts one beat"}
+{"task_id": "HumanEval/18", "keyWords": "count overlaping cases, given substring"}
+{"task_id": "HumanEval/19", "keyWords": "return the string, space-delimited string"}
+{"task_id": "HumanEval/20", "keyWords": "supplied list"}
+{"task_id": "HumanEval/21", "keyWords": "apply a linear transform, given list"}
+{"task_id": "HumanEval/22", "keyWords": "filter given list"}
+{"task_id": "HumanEval/23", "keyWords": "given string, return length"}
+{"task_id": "HumanEval/24", "keyWords": "find the largest number, given number n, that divides n"}
+{"task_id": "HumanEval/25", "keyWords": "listed number, given integer, return list"}
+{"task_id": "HumanEval/26", "keyWords": "remove all elements, keep order"}
+{"task_id": "HumanEval/27", "keyWords": "flip lowercase characters, given string"}
+{"task_id": "HumanEval/28", "keyWords": "concatenate list"}
+{"task_id": "HumanEval/29", "keyWords": "filter an input list, given prefix"}
+{"task_id": "HumanEval/30", "keyWords": ""}
+{"task_id": "HumanEval/31", "keyWords": "given number"}
+{"task_id": "HumanEval/32", "keyWords": "only takes list xs, having even number"}
+{"task_id": "HumanEval/33", "keyWords": "returns a list l ', takes a list l, corresponding indicies"}
+{"task_id": "HumanEval/34", "keyWords": "return sorted unique elements"}
+{"task_id": "HumanEval/35", "keyWords": "return maximum element"}
+{"task_id": "HumanEval/36", "keyWords": "return the number"}
+{"task_id": "HumanEval/37", "keyWords": "returns a list l ', takes a list l"}
+{"task_id": "HumanEval/38", "keyWords": "returns decoded string"}
+{"task_id": "HumanEval/39", "keyWords": "returns n-th number"}
+{"task_id": "HumanEval/40", "keyWords": "there are three distinct elements, it returns true, takes a list"}
+{"task_id": "HumanEval/41", "keyWords": "hits a car, imagine a road, moving left, moving right, outputs the number, driving left, driving right"}
+{"task_id": "HumanEval/42", "keyWords": "return list"}
+{"task_id": "HumanEval/43", "keyWords": "there are two distinct elements, it returns true, takes a list"}
+{"task_id": "HumanEval/44", "keyWords": "change numerical base"}
+{"task_id": "HumanEval/45", "keyWords": "given length"}
+{"task_id": "HumanEval/46", "keyWords": "efficiently compute the n-th element, write a function, use recursion"}
+{"task_id": "HumanEval/47", "keyWords": "return median"}
+{"task_id": "HumanEval/48", "keyWords": "given string"}
+{"task_id": "HumanEval/49", "keyWords": "return 2^n modulo p"}
+{"task_id": "HumanEval/50", "keyWords": "returns decoded string"}
+{"task_id": "HumanEval/51", "keyWords": "that takes string, returns string"}
+{"task_id": "HumanEval/52", "keyWords": ""}
+{"task_id": "HumanEval/53", "keyWords": "add two numbers x"}
+{"task_id": "HumanEval/54", "keyWords": "have the same characters"}
+{"task_id": "HumanEval/55", "keyWords": "return n-th fibonacci number"}
+{"task_id": "HumanEval/56", "keyWords": "corresponding closing bracket"}
+{"task_id": "HumanEval/57", "keyWords": ""}
+{"task_id": "HumanEval/58", "keyWords": "return sorted unique common elements"}
+{"task_id": "HumanEval/59", "keyWords": "return the largest prime factor, assume n"}
+{"task_id": "HumanEval/60", "keyWords": "that sums numbers"}
+{"task_id": "HumanEval/61", "keyWords": "corresponding closing bracket"}
+{"task_id": "HumanEval/62", "keyWords": "represent coefficients"}
+{"task_id": "HumanEval/63", "keyWords": "efficiently compute the n-th element, write a function"}
+{"task_id": "HumanEval/64", "keyWords": "which takes a string, write a function vowels_count, returns the number, given word"}
+{"task_id": "HumanEval/65", "keyWords": "circular shift the digits, shift the digits, return the result, return digits"}
+{"task_id": "HumanEval/66", "keyWords": "that takes a string, returns the sum, write a function"}
+{"task_id": "HumanEval/67", "keyWords": "that represents the total number, that represent the total number, return the number, that represents a number, given the string, given a string"}
+{"task_id": "HumanEval/68", "keyWords": "found return the node, that has non-negative integer nodes, that has smallest index, there are no even values, representing a branch, plucked node, given an array, given array"}
+{"task_id": "HumanEval/69", "keyWords": "return the greatest integer, given a non-empty list, has a frequency"}
+{"task_id": "HumanEval/70", "keyWords": "remaining integers, return list, given list"}
+{"task_id": "HumanEval/71", "keyWords": "make a valid triangle, form a valid triangle, return the area, given the lengths"}
+{"task_id": "HumanEval/72", "keyWords": "equal the maximum possible weight w., write a function, that returns true"}
+{"task_id": "HumanEval/73", "keyWords": "make the array, given an array arr, find the minimum number, change one element"}
+{"task_id": "HumanEval/74", "keyWords": "return the first list, returns the list, have the same number, that accepts two lists, write a function"}
+{"task_id": "HumanEval/75", "keyWords": "given number, write a function"}
+{"task_id": "HumanEval/76", "keyWords": "write a function"}
+{"task_id": "HumanEval/77", "keyWords": "that takes an integer a, write a function, assume the input, returns true"}
+{"task_id": "HumanEval/78", "keyWords": "determine a number, write a function, counts the number, assume the input"}
+{"task_id": "HumanEval/79", "keyWords": "return a string, given a number"}
+{"task_id": "HumanEval/80", "keyWords": "given a string s."}
+{"task_id": "HumanEval/81", "keyWords": "give the grades, lost the code, output a list, following table"}
+{"task_id": "HumanEval/82", "keyWords": "that takes a string, write a function"}
+{"task_id": "HumanEval/83", "keyWords": "given a positive integer n, return the count"}
+{"task_id": "HumanEval/84", "keyWords": "return the total sum, given a positive integer n"}
+{"task_id": "HumanEval/85", "keyWords": "add the even elements, given a non-empty list"}
+{"task_id": "HumanEval/86", "keyWords": "that takes a string, keep the order, write a function, ordered version"}
+{"task_id": "HumanEval/87", "keyWords": "given a 2 dimensional data, contain a different number, sort coordinates, find integers x, given lst, return list, nested lists, descending order"}
+{"task_id": "HumanEval/88", "keyWords": "given an array, given array, return a copy"}
+{"task_id": "HumanEval/89", "keyWords": "that takes a string, returns a string, create a function encrypt"}
+{"task_id": "HumanEval/90", "keyWords": "that returns the 2nd smallest element, there is no such element, write a function next_smallest, given a list, return none"}
+{"task_id": "HumanEval/91", "keyWords": "given a string, count the number"}
+{"task_id": "HumanEval/92", "keyWords": "that takes 3 numbers, create a function"}
+{"task_id": "HumanEval/93", "keyWords": "that takes a message, that appears 2 places, replaces all vowels, write a function, it swaps case, assume only letters"}
+{"task_id": "HumanEval/94", "keyWords": "find the largest prime value, return the sum, given a list"}
+{"task_id": "HumanEval/95", "keyWords": "else return false, return false, return true, given a dictionary, given dictionary"}
+{"task_id": "HumanEval/96", "keyWords": "that takes an non-negative integer, returns an array, implement a function"}
+{"task_id": "HumanEval/97", "keyWords": "assume the input, that takes two integers, complete the function"}
+{"task_id": "HumanEval/98", "keyWords": "given a string s, count the number"}
+{"task_id": "HumanEval/99", "keyWords": "representing a number, that takes a value, returns the closest integer, create a function"}
+{"task_id": "HumanEval/100", "keyWords": "represents the number, return the number, given a positive integer n, has n stones, make a pile"}
+{"task_id": "HumanEval/101", "keyWords": "split the string, given a string, return an array"}
+{"task_id": "HumanEval/102", "keyWords": "there 's no such number, takes two positive numbers x"}
+{"task_id": "HumanEval/103", "keyWords": "given two positive integers n, round the answer, including n"}
+{"task_id": "HumanEval/104", "keyWords": "given a list, sorted list, returned list, increasing order"}
+{"task_id": "HumanEval/105", "keyWords": "then replace each digit, sort the integers, given an array, its corresponding name, resulting array"}
+{"task_id": "HumanEval/106", "keyWords": "implement the function f, returns a list, that takes n"}
+{"task_id": "HumanEval/107", "keyWords": "given a positive integer n, that has the number, return a tuple"}
+{"task_id": "HumanEval/108", "keyWords": "which has a sum, has signed digits, which takes an array, write a function count_nums, signed digit"}
+{"task_id": "HumanEval/109", "keyWords": "performing the above operation, perform right shift operation any number, we have an array, get an array, given array, sorted array, then return true, means shifting all elements, following operation, else return false, have unique elements, given list"}
+{"task_id": "HumanEval/110", "keyWords": "make lst1 a list, exchange elements, that takes two lists, there is no limit, implement a function, exchanged elements, perform an exchange"}
+{"task_id": "HumanEval/111", "keyWords": "have the same occurrence, return a dictionary, representing a space, separated lowercase letters, given a string, corresponding count"}
+{"task_id": "HumanEval/112", "keyWords": "containing the result string, deleted all the characters, given two strings s, return a tuple, called palindrome"}
+{"task_id": "HumanEval/113", "keyWords": "return a list, given a list"}
+{"task_id": "HumanEval/114", "keyWords": "find the minimum sum, given an array"}
+{"task_id": "HumanEval/115", "keyWords": "represents a single well, represents a single unit, use the buckets, lower the buckets, have the same capacity, empty the wells, output the number, given a rectangular grid, extract water, corresponding bucket"}
+{"task_id": "HumanEval/116", "keyWords": "sort an array, ascending order"}
+{"task_id": "HumanEval/117", "keyWords": "given a string s, assume the input string, that returns a list, return an empty list"}
+{"task_id": "HumanEval/118", "keyWords": "find the closest vowel, met the above condition, find any vowel, given a word, return empty string, given string, contains english letter"}
+{"task_id": "HumanEval/119", "keyWords": "make a good string, concatenate the two strings, there 's a way, given a list, resulting string"}
+{"task_id": "HumanEval/120", "keyWords": "given an array arr, sorted list"}
+{"task_id": "HumanEval/121", "keyWords": "return the sum, given a non-empty list"}
+{"task_id": "HumanEval/122", "keyWords": "given a non-empty array"}
+{"task_id": "HumanEval/123", "keyWords": "that has the odd numbers, given a positive integer n, that concerns a sequence, sorted list, returned list, increasing order"}
+{"task_id": "HumanEval/124", "keyWords": "given date string, write a function, following rules"}
+{"task_id": "HumanEval/125", "keyWords": "return the number, return a list, given a string"}
+{"task_id": "HumanEval/126", "keyWords": "assume no negative numbers, given a list"}
+{"task_id": "HumanEval/127", "keyWords": "given two intervals"}
+{"task_id": "HumanEval/128", "keyWords": "given an array arr, return none"}
+{"task_id": "HumanEval/129", "keyWords": "find the minimum path, there exist an integer index i, given a grid, contains a value, which share an edge, ordered list, ordered lists"}
+{"task_id": "HumanEval/130", "keyWords": "given a non-negative integer number n, everyone knows fibonacci sequence, return a list"}
+{"task_id": "HumanEval/131", "keyWords": "return the product, given a positive integer n"}
+{"task_id": "HumanEval/132", "keyWords": "there is a valid subsequence, that takes a string, create a function, return true"}
+{"task_id": "HumanEval/133", "keyWords": "return the sum, given a list, given list, round each element, squared numbers"}
+{"task_id": "HumanEval/134", "keyWords": "create a function, that returns true, given string"}
+{"task_id": "HumanEval/135", "keyWords": "which returns the largest index, create a function, given array"}
+{"task_id": "HumanEval/136", "keyWords": "that returns a tuple, create a function"}
+{"task_id": "HumanEval/137", "keyWords": "returns the larger variable, its given variable type, create a function, that takes integers, return none, floating point"}
+{"task_id": "HumanEval/138", "keyWords": "given number n"}
+{"task_id": "HumanEval/139", "keyWords": ""}
+{"task_id": "HumanEval/140", "keyWords": "then replace all consecutive spaces, replace all spaces, given a string text"}
+{"task_id": "HumanEval/141", "keyWords": "representing a file 's name, which takes a string, create a function"}
+{"task_id": "HumanEval/142", "keyWords": "square the integer entry, cube the integer entry, change the entries, then return the sum, take a list"}
+{"task_id": "HumanEval/143", "keyWords": "that contains the words, return a string, representing a sentence, given a string, contains some words"}
+{"task_id": "HumanEval/144", "keyWords": "implement a function, simplify the expression, returns true, following format"}
+{"task_id": "HumanEval/145", "keyWords": "there are several items, ascending order, given list, write a function"}
+{"task_id": "HumanEval/146", "keyWords": "that takes an array, write a function"}
+{"task_id": "HumanEval/147", "keyWords": "create an integer array a, given a positive integer, i < j, return the number"}
+{"task_id": "HumanEval/148", "keyWords": "that takes two planet names, containing all planets whose orbits, write a function, return a tuple, return an empty tuple, there are eight planets"}
+{"task_id": "HumanEval/149", "keyWords": "return the list, sort the list, that accepts a list, have the same length, return a list, deletes the strings, resulted list, write a function, that have odd lengths, sorted order, contain duplicates"}
+{"task_id": "HumanEval/150", "keyWords": "return the value"}
+{"task_id": "HumanEval/151", "keyWords": "return the sum, given a list, ignore numbers"}
+{"task_id": "HumanEval/152", "keyWords": "correctly guessed the results, we all remember that feeling, shows a match, return an array, given two arrays"}
+{"task_id": "HumanEval/153", "keyWords": "find the strongest extension, given the name, choose the one, return a string, let sm, let cap, load additional classes"}
+{"task_id": "HumanEval/154", "keyWords": "return true, given 2 words"}
+{"task_id": "HumanEval/155", "keyWords": "that has the number, return a tuple, given an integer"}
+{"task_id": "HumanEval/156", "keyWords": "given a positive integer"}
+{"task_id": "HumanEval/157", "keyWords": "form a right-angled triangle, given the lengths, return true"}
+{"task_id": "HumanEval/158", "keyWords": "return the one, return the word, that accepts a list, have maximum number, contains different words, write a function"}
+{"task_id": "HumanEval/159", "keyWords": "complete the day 's meals, eat more carrots, eaten a certain number, eaten carrots, remaining carrots, return an array"}
+{"task_id": "HumanEval/160", "keyWords": "return the evaluation, has basic algebra operations, given two lists operator, given lists"}
+{"task_id": "HumanEval/161", "keyWords": "reverse the string, given a string s., resulted string, contains no letters"}
+{"task_id": "HumanEval/162", "keyWords": "given a string, return none"}
+{"task_id": "HumanEval/163", "keyWords": "given two positive integers a, return the even digits"}

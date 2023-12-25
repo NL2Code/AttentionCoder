@@ -1,0 +1,164 @@
+{"task_id": "HumanEval/0", "keyWords": "Liste de nombres donn\u00e9e \u00e0 une distance inf\u00e9rieure \u00e0 un seuil donn\u00e9"}
+{"task_id": "HumanEval/1", "keyWords": "Cha\u00eene contenant plusieurs ensembles de parenth\u00e8ses imbriqu\u00e9es, s\u00e9par\u00e9es en cha\u00eenes individuelles, retourne une liste de ces cha\u00eenes, chacune des parenth\u00e8ses ouvertes est correctement ferm\u00e9e, n\u2019est pas imbriqu\u00e9e l\u2019une \u00e0 l\u2019autre, tout espace dans la cha\u00eene d\u2019entr\u00e9e est ignor\u00e9"}
+{"task_id": "HumanEval/2", "keyWords": "Float positif, retourne la partie d\u00e9cimale du nombre"}
+{"task_id": "HumanEval/3", "keyWords": "Le solde initial du compte est 0, la liste des op\u00e9rations de d\u00e9p\u00f4t et de retrait, d\u00e9tecte si le solde du compte est inf\u00e9rieur \u00e0 z\u00e9ro \u00e0 tout moment"}
+{"task_id": "HumanEval/4", "keyWords": "Pr\u00e8s de la moyenne, l\u2019\u00e9cart absolu moyen est calcul\u00e9, la diff\u00e9rence absolue moyenne pour chaque \u00e9l\u00e9ment et le point central"}
+{"task_id": "HumanEval/5", "keyWords": "Tous les deux \u00e9l\u00e9ments cons\u00e9cutifs"}
+{"task_id": "HumanEval/6", "keyWords": "Plusieurs groupes de parenth\u00e8ses imbriqu\u00e9es s\u00e9par\u00e9es par des espaces, affichant le plus profond des parenth\u00e8ses imbriqu\u00e9es"}
+{"task_id": "HumanEval/7", "keyWords": ""}
+{"task_id": "HumanEval/8", "keyWords": "Tuple de la somme de tous les entiers avec le produit"}
+{"task_id": "HumanEval/9", "keyWords": "G\u00e9n\u00e9rer s\u00e9quentiellement, grandir jusqu\u2019\u00e0 la longueur donn\u00e9e de la liste, la liste maximale des \u00e9l\u00e9ments"}
+{"task_id": "HumanEval/10", "keyWords": "Le suffixe palindrome le plus long avec une cha\u00eene de pr\u00e9fixe inverse"}
+{"task_id": "HumanEval/11", "keyWords": "Ex\u00e9cute un xor binaire, retourn\u00e9 sous forme de cha\u00eene"}
+{"task_id": "HumanEval/12", "keyWords": "Retourne la cha\u00eene la plus longue, retourne la premi\u00e8re cha\u00eene de m\u00eame longueur"}
+{"task_id": "HumanEval/13", "keyWords": "Le plus grand commun diviseur"}
+{"task_id": "HumanEval/14", "keyWords": "Liste de tous les pr\u00e9fixes"}
+{"task_id": "HumanEval/15", "keyWords": "Contient des chiffres s\u00e9par\u00e9s par des espaces"}
+{"task_id": "HumanEval/16", "keyWords": "Combien de caract\u00e8res diff\u00e9rents, peu importe la casse"}
+{"task_id": "HumanEval/17", "keyWords": "Analyser cette cha\u00eene, retourne une liste d\u2019entiers, le nombre de temps par beat"}
+{"task_id": "HumanEval/18", "keyWords": "La sous-cha\u00eene donn\u00e9e, combien de fois trouv\u00e9e, compte le cas de chevauchement"}
+{"task_id": "HumanEval/19", "keyWords": "Une cha\u00eene num\u00e9rique d\u00e9limit\u00e9e par un espace, retourne une cha\u00eene tri\u00e9e par nombre de plus en plus petit"}
+{"task_id": "HumanEval/20", "keyWords": "Retourne deux nombres proches l\u2019un de l\u2019autre, dans l\u2019ordre"}
+{"task_id": "HumanEval/21", "keyWords": "Appliquer une transformation lin\u00e9aire \u00e0 cette liste"}
+{"task_id": "HumanEval/22", "keyWords": "Filtrer uniquement les entiers"}
+{"task_id": "HumanEval/23", "keyWords": ""}
+{"task_id": "HumanEval/24", "keyWords": "N divisible, le plus grand nombre inf\u00e9rieur \u00e0 n"}
+{"task_id": "HumanEval/25", "keyWords": "Retourne la liste des facteurs premiers d\u2019un entier donn\u00e9"}
+{"task_id": "HumanEval/26", "keyWords": "Supprime tous les \u00e9l\u00e9ments qui apparaissent plus d\u2019une fois"}
+{"task_id": "HumanEval/27", "keyWords": "Conversion de minuscules en majuscules et de majuscules en minuscules"}
+{"task_id": "HumanEval/28", "keyWords": ""}
+{"task_id": "HumanEval/29", "keyWords": "Une cha\u00eene commen\u00e7ant par un pr\u00e9fixe donn\u00e9"}
+{"task_id": "HumanEval/30", "keyWords": "positif"}
+{"task_id": "HumanEval/31", "keyWords": "Nombres premiers"}
+{"task_id": "HumanEval/32", "keyWords": "Retour \u00e0 z\u00e9ro"}
+{"task_id": "HumanEval/33", "keyWords": "Retourne une liste l, index non divisible par 3, index divisible par 3, l correspondant \u00e0 toutes les valeurs de l\u2019index apr\u00e8s ordre croissant"}
+{"task_id": "HumanEval/34", "keyWords": "Retourne un \u00e9l\u00e9ment unique de la liste"}
+{"task_id": "HumanEval/35", "keyWords": "Le plus grand \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/36", "keyWords": "Le nombre 7, le nombre d\u2019occurrences dans un entier"}
+{"task_id": "HumanEval/37", "keyWords": "Index impair index pair valeur correspondante par ordre croissant"}
+{"task_id": "HumanEval/38", "keyWords": "Encod\u00e9 avec la fonction encode_cyclic, retourne la cha\u00eene d\u00e9cod\u00e9e"}
+{"task_id": "HumanEval/39", "keyWords": "Nombre de fibonacci, le n-i\u00e8me nombre premier"}
+{"task_id": "HumanEval/40", "keyWords": "La somme de trois \u00e9l\u00e9ments diff\u00e9rents est nulle"}
+{"task_id": "HumanEval/41", "keyWords": "N voitures se d\u00e9pla\u00e7ant de gauche \u00e0 droite, un autre groupe de n voitures se d\u00e9pla\u00e7ant de droite \u00e0 gauche, nombre de collisions"}
+{"task_id": "HumanEval/42", "keyWords": ""}
+{"task_id": "HumanEval/43", "keyWords": "Deux \u00e9l\u00e9ments diff\u00e9rents dont la somme est nulle"}
+{"task_id": "HumanEval/44", "keyWords": "Repr\u00e9sentation en base, retourne une repr\u00e9sentation de cha\u00eene"}
+{"task_id": "HumanEval/45", "keyWords": ""}
+{"task_id": "HumanEval/46", "keyWords": "Calculer le n-i\u00e8me \u00e9l\u00e9ment de la s\u00e9quence fib4. N\u2019utilisez pas de r\u00e9cursivit\u00e9"}
+{"task_id": "HumanEval/47", "keyWords": ""}
+{"task_id": "HumanEval/48", "keyWords": ""}
+{"task_id": "HumanEval/49", "keyWords": ""}
+{"task_id": "HumanEval/50", "keyWords": "Encod\u00e9 avec la fonction encode_shift, retourne la cha\u00eene d\u00e9cod\u00e9e"}
+{"task_id": "HumanEval/51", "keyWords": "Cha\u00eene sans voyelles"}
+{"task_id": "HumanEval/52", "keyWords": ""}
+{"task_id": "HumanEval/53", "keyWords": ""}
+{"task_id": "HumanEval/54", "keyWords": ""}
+{"task_id": "HumanEval/55", "keyWords": "Fibonacci en chiffres"}
+{"task_id": "HumanEval/56", "keyWords": "Chaque parenth\u00e8se gauche a une parenth\u00e8se droite correspondante"}
+{"task_id": "HumanEval/57", "keyWords": "Monotone croissant ou d\u00e9croissant"}
+{"task_id": "HumanEval/58", "keyWords": "Seul \u00e9l\u00e9ment commun tri\u00e9"}
+{"task_id": "HumanEval/59", "keyWords": "Facteur premier maximum"}
+{"task_id": "HumanEval/60", "keyWords": ""}
+{"task_id": "HumanEval/61", "keyWords": "Chaque parenth\u00e8se gauche a une parenth\u00e8se droite correspondante"}
+{"task_id": "HumanEval/62", "keyWords": "De la m\u00eame forme, la d\u00e9riv\u00e9e du polyn\u00f4me"}
+{"task_id": "HumanEval/63", "keyWords": "Calcul du n-\u00e8me \u00e9l\u00e9ment de la s\u00e9quence fibfib"}
+{"task_id": "HumanEval/64", "keyWords": "Le nombre de voyelles. \"y\" est aussi une voyelle seulement si elle est \u00e0 la fin d\u2019un mot donn\u00e9"}
+{"task_id": "HumanEval/65", "keyWords": "Cyclique shift, chiffres invers\u00e9s"}
+{"task_id": "HumanEval/66", "keyWords": "Caract\u00e8res majuscules"}
+{"task_id": "HumanEval/67", "keyWords": "Retour au nombre de mangues dans le panier"}
+{"task_id": "HumanEval/68", "keyWords": "Le noeud num\u00e9rique pair le plus petit, retourne le noeud avec l\u2019index le plus petit, retourne sous forme de liste"}
+{"task_id": "HumanEval/69", "keyWords": "Le plus grand entier sup\u00e9rieur \u00e0 z\u00e9ro, avec une fr\u00e9quence sup\u00e9rieure ou \u00e9gale \u00e0 la valeur de l\u2019entier lui-m\u00eame"}
+{"task_id": "HumanEval/70", "keyWords": "Sort par bizarre"}
+{"task_id": "HumanEval/71", "keyWords": "Zone retourn\u00e9e, triangle valide"}
+{"task_id": "HumanEval/72", "keyWords": "Liste palindrologique o\u00f9 la somme des \u00e9l\u00e9ments est inf\u00e9rieure ou \u00e9gale au poids maximum possible w"}
+{"task_id": "HumanEval/73", "keyWords": "Le nombre minimum de changements pour devenir un tableau palindrologique. Dans un changement, un \u00e9l\u00e9ment est chang\u00e9 pour n\u2019importe quel autre \u00e9l\u00e9ment"}
+{"task_id": "HumanEval/74", "keyWords": "Nombre total de caract\u00e8res pour toutes les cha\u00eenes"}
+{"task_id": "HumanEval/75", "keyWords": "Produit de 3 premiers"}
+{"task_id": "HumanEval/76", "keyWords": "X est une puissance simple de n"}
+{"task_id": "HumanEval/77", "keyWords": "Cubique d\u2019un entier"}
+{"task_id": "HumanEval/78", "keyWords": "Nombre de premiers"}
+{"task_id": "HumanEval/79", "keyWords": "Convertir au format binaire"}
+{"task_id": "HumanEval/80", "keyWords": "Chaque 3 lettres cons\u00e9cutives sont diff\u00e9rentes"}
+{"task_id": "HumanEval/81", "keyWords": "Le Professeur Note les \u00e9l\u00e8ves, algorithme de notation, liste de GPA des \u00e9l\u00e8ves, fonction de la liste de classement alphab\u00e9tique de sortie"}
+{"task_id": "HumanEval/82", "keyWords": "Longueur est un nombre premier"}
+{"task_id": "HumanEval/83", "keyWords": ""}
+{"task_id": "HumanEval/84", "keyWords": ""}
+{"task_id": "HumanEval/85", "keyWords": "Index pour les \u00e9l\u00e9ments impaires, pairs"}
+{"task_id": "HumanEval/86", "keyWords": "S\u00e9par\u00e9s par des espaces, dans l\u2019ordre croissant de la valeur ASCII, en pr\u00e9servant l\u2019ordre des mots et des espaces dans la phrase"}
+{"task_id": "HumanEval/87", "keyWords": "Trier les coordonn\u00e9es par ligne ascendante trier les coordonn\u00e9es par colonne descendante"}
+{"task_id": "HumanEval/88", "keyWords": "Retourne une copie du tableau donn\u00e9 tri\u00e9e, (premi\u00e8re valeur d\u2019index, derni\u00e8re valeur d\u2019index) et"}
+{"task_id": "HumanEval/89", "keyWords": "Rotation de l\u2019alphabet, cha\u00eene crypt\u00e9e, translation vers le bas 2*2 positions"}
+{"task_id": "HumanEval/90", "keyWords": "Retourne le deuxi\u00e8me \u00e9l\u00e9ment le plus petit de la liste"}
+{"task_id": "HumanEval/91", "keyWords": "Phrases commen\u00e7ant par \"I\", \". \", \"? \u00abOu\u00bb! \u2019 la s\u00e9paration"}
+{"task_id": "HumanEval/92", "keyWords": "Un nombre est \u00e9gal \u00e0 la somme des deux autres nombres. Tous les nombres sont des nombres entiers"}
+{"task_id": "HumanEval/93", "keyWords": "Les majuscules et minuscules de toutes les lettres ont \u00e9t\u00e9 \u00e9chang\u00e9es, rempla\u00e7ant toutes les voyelles pr\u00e9sentes dans le message, correspondant aux deux premiers chiffres de la position"}
+{"task_id": "HumanEval/94", "keyWords": "Le plus grand premier, retourne la somme de ses chiffres"}
+{"task_id": "HumanEval/95", "keyWords": "Toutes les cl\u00e9s"}
+{"task_id": "HumanEval/96", "keyWords": "Retourne une liste d\u2019entiers premiers inf\u00e9rieurs \u00e0 n"}
+{"task_id": "HumanEval/97", "keyWords": "Produits \u00e0 un chiffre"}
+{"task_id": "HumanEval/98", "keyWords": "Index pair, nombre de voyelles majuscules"}
+{"task_id": "HumanEval/99", "keyWords": "Repr\u00e9sente la valeur (cha\u00eene) d\u2019un nombre, retournant l\u2019entier le plus proche"}
+{"task_id": "HumanEval/100", "keyWords": "N est impair, prochain impair n est pair, prochain pair, retourne le nombre de pierres de chaque niveau dans la liste"}
+{"task_id": "HumanEval/101", "keyWords": "Tableau de mots"}
+{"task_id": "HumanEval/102", "keyWords": "Le plus grand m\u00eame"}
+{"task_id": "HumanEval/103", "keyWords": "Inclure n et m, arrondi \u00e0 l\u2019entier le plus proche, converti en binaire"}
+{"task_id": "HumanEval/104", "keyWords": "Tous les \u00e9l\u00e9ments sans nombre pair, tri\u00e9s par ordre croissant"}
+{"task_id": "HumanEval/105", "keyWords": "Le tri est effectu\u00e9, le tableau de r\u00e9sultats est invers\u00e9 et chaque nombre est remplac\u00e9 par le nom correspondant"}
+{"task_id": "HumanEval/106", "keyWords": "Factorielle de i, somme des nombres de 1 \u00e0 i"}
+{"task_id": "HumanEval/107", "keyWords": "Nombre de nombres paires et impaires contenant des palindromes, l\u2019intervalle contenant des limites"}
+{"task_id": "HumanEval/108", "keyWords": "Retourne le nombre d\u2019\u00e9l\u00e9ments dont la somme des nombres est sup\u00e9rieure \u00e0 0. Un nombre est n\u00e9gatif. Le premier chiffre sign\u00e9 sera n\u00e9gatif"}
+{"task_id": "HumanEval/109", "keyWords": "Est possible de trier le tableau dans un ordre non d\u00e9croissant en effectuant un d\u00e9placement \u00e0 droite n\u2019importe quel nombre de fois"}
+{"task_id": "HumanEval/110", "keyWords": "\u00c9change d\u2019\u00e9l\u00e9ments, faisant de lst1 une liste avec seulement des nombres pairs"}
+{"task_id": "HumanEval/111", "keyWords": "Les lettres les plus r\u00e9p\u00e9t\u00e9es et leurs occurrences correspondantes, les m\u00eames occurrences, retourne ces lettres et leurs occurrences"}
+{"task_id": "HumanEval/112", "keyWords": "Supprime tous les caract\u00e8res de S qui sont \u00e9gaux \u00e0 n\u2019importe quel caract\u00e8re de c, si la cha\u00eene r\u00e9sultante est un palindr\u00f4me, retourne un tuple contenant la cha\u00eene r\u00e9sultante et la v\u00e9rification True/False"}
+{"task_id": "HumanEval/113", "keyWords": "Chaque \u00e9l\u00e9ment i, tous les i doivent \u00eatre remplac\u00e9s, le nombre de nombres impaires dans la i-i\u00e8me cha\u00eene"}
+{"task_id": "HumanEval/114", "keyWords": "Somme minimale de tout sous-tableau non vide"}
+{"task_id": "HumanEval/115", "keyWords": "Nombre de chutes de barils"}
+{"task_id": "HumanEval/116", "keyWords": "Le nombre de 1 dans la repr\u00e9sentation binaire est arrang\u00e9 par ordre croissant avec un nombre similaire de 1, tri\u00e9 en fonction de la valeur d\u00e9cimale"}
+{"task_id": "HumanEval/117", "keyWords": "consonnes"}
+{"task_id": "HumanEval/118", "keyWords": "Voyelles le plus pr\u00e8s du c\u00f4t\u00e9 droit du mot et au milieu de deux consonnes. Les voyelles qui commencent et se terminent ne comptent pas"}
+{"task_id": "HumanEval/119", "keyWords": "Deux cha\u00eenes sont jointes par un certain ordre et toutes les parenth\u00e8ses sont \u00e9quilibr\u00e9es"}
+{"task_id": "HumanEval/120", "keyWords": "Trier la liste, les k plus grands nombres dans l\u2019arr"}
+{"task_id": "HumanEval/121", "keyWords": "Position paire, somme de tous les \u00e9l\u00e9ments impaires"}
+{"task_id": "HumanEval/122", "keyWords": "Les premiers k \u00e9l\u00e9ments de l\u2019arr, les \u00e9l\u00e9ments avec un maximum de deux chiffres"}
+{"task_id": "HumanEval/123", "keyWords": "Liste par ordre croissant obtenue par permutations impaires dans la s\u00e9quence collatz"}
+{"task_id": "HumanEval/124", "keyWords": "Valider les caract\u00e8res de date donn\u00e9s"}
+{"task_id": "HumanEval/125", "keyWords": "Liste des mots divis\u00e9s par des espaces, pas d\u2019espace, s\u00e9par\u00e9s par des virgules, pas de virgules, position dans l\u2019alphabet en nombre impair, nombre de minuscules, ord(\u2019a\u2019) = 0"}
+{"task_id": "HumanEval/126", "keyWords": "Trier par ordre croissant, plus d\u2019une copie du m\u00eame num\u00e9ro"}
+{"task_id": "HumanEval/127", "keyWords": "Intervalle de temps, longueur de l\u2019intervalle de chevauchement de deux intervalle, intersection"}
+{"task_id": "HumanEval/128", "keyWords": "Somme des tailles de tous les nombres entiers multipli\u00e9e par le produit de tous les symboles entiers. Le symbole de chaque nombre"}
+{"task_id": "HumanEval/129", "keyWords": "Le chemin le plus petit de longueur k, retourne une liste ordonn\u00e9e des valeurs sur la cellule par laquelle le chemin le plus petit passe"}
+{"task_id": "HumanEval/130", "keyWords": "La suite de tribonacci, contenant les premiers n + 1 nombres de la suite de tribonacci"}
+{"task_id": "HumanEval/131", "keyWords": "Nombre de chiffres le produit de tous les nombres dont le nombre est impair"}
+{"task_id": "HumanEval/132", "keyWords": "Si et seulement s\u2019il existe une sous-s\u00e9quence valide de parenth\u00e8ses avec au moins une parenth\u00e8se imbriqu\u00e9e dans la sous-s\u00e9quence"}
+{"task_id": "HumanEval/133", "keyWords": "Arrondi, arrondi, retourne la somme des carr\u00e9s des nombres dans une liste donn\u00e9e"}
+{"task_id": "HumanEval/134", "keyWords": "Le dernier caract\u00e8re, un caract\u00e8re alphab\u00e9tique, ne fait pas partie du mot. Groupe de caract\u00e8res s\u00e9par\u00e9s par des espaces"}
+{"task_id": "HumanEval/135", "keyWords": "Pas sup\u00e9rieur ou \u00e9gal \u00e0, l\u2019index maximum de l\u2019\u00e9l\u00e9ment pr\u00e9c\u00e9dent"}
+{"task_id": "HumanEval/136", "keyWords": "Le plus grand entier n\u00e9gatif, le plus petit entier positif"}
+{"task_id": "HumanEval/137", "keyWords": "Entiers, flottants ou cha\u00eenes de caract\u00e8res pour les nombres r\u00e9els, les plus grandes variables"}
+{"task_id": "HumanEval/138", "keyWords": "Exactement la somme de 4 nombres pairs positifs"}
+{"task_id": "HumanEval/139", "keyWords": "Factorielle br\u00e9silienne"}
+{"task_id": "HumanEval/140", "keyWords": "Tous les espaces doivent \u00eatre soulign\u00e9s, plus de deux espaces cons\u00e9cutifs, tous les espaces cons\u00e9cutifs doivent \u00eatre remplac\u00e9s par -"}
+{"task_id": "HumanEval/141", "keyWords": "Accepte une cha\u00eene repr\u00e9sentant un nom de fichier valide qui remplit toutes les conditions suivantes"}
+{"task_id": "HumanEval/142", "keyWords": "L\u2019index est un multiple de 3, les entr\u00e9es enti\u00e8res au carr\u00e9, l\u2019index est un multiple de 4, les entr\u00e9es enti\u00e8res au cube, ne change pas les entr\u00e9es de la liste dont l\u2019index n\u2019est pas un multiple de 3 ou 4, retourne la somme de tous les entiers"}
+{"task_id": "HumanEval/143", "keyWords": "Mots s\u00e9par\u00e9s par des espaces, cha\u00eenes contenant des mots dont la longueur est un nombre premier dans la phrase originale, les mots doivent \u00eatre dans le m\u00eame ordre que la cha\u00eene originale"}
+{"task_id": "HumanEval/144", "keyWords": "X * n est calcul\u00e9 comme un entier"}
+{"task_id": "HumanEval/145", "keyWords": "Par ordre croissant de la somme des chiffres"}
+{"task_id": "HumanEval/146", "keyWords": "Le nombre d\u2019\u00e9l\u00e9ments"}
+{"task_id": "HumanEval/147", "keyWords": ""}
+{"task_id": "HumanEval/148", "keyWords": "La plus proche du soleil est mercure. Toutes les plan\u00e8tes entre les orbites, dans l\u2019ordre de proximit\u00e9 du soleil"}
+{"task_id": "HumanEval/149", "keyWords": "Supprimer les cha\u00eenes dont la longueur est impair, trier par ordre croissant de la longueur de chaque mot, les mots ont la m\u00eame longueur, trier par ordre alphab\u00e9tique"}
+{"task_id": "HumanEval/150", "keyWords": "nombres"}
+{"task_id": "HumanEval/151", "keyWords": "Somme des carr\u00e9s de nombres impaires, en ignorant les nombres n\u00e9gatifs ou non-entiers"}
+{"task_id": "HumanEval/152", "keyWords": "Deux tableaux de fractions et de devinettes de m\u00eame longueur, la distance \u00e0 chaque devinette, la diff\u00e9rence absolue entre la valeur devin\u00e9e et le score"}
+{"task_id": "HumanEval/153", "keyWords": "CAP est le nombre de lettres majuscules dans le nom de l\u2019extension, SM est le nombre de lettres petites et moyennes dans le nom de l\u2019extension, score cap-sm, l\u2019extension la plus forte"}
+{"task_id": "HumanEval/154", "keyWords": "Toute rotation, sous-cha\u00eene"}
+{"task_id": "HumanEval/155", "keyWords": ""}
+{"task_id": "HumanEval/156", "keyWords": "Cha\u00eene de chiffres romains \u00e9quivalente, retourn\u00e9e en minuscule"}
+{"task_id": "HumanEval/157", "keyWords": "Former un triangle rectangle"}
+{"task_id": "HumanEval/158", "keyWords": "Mots avec le plus de caract\u00e8res uniques, la cha\u00eene qui appara\u00eet en premier"}
+{"task_id": "HumanEval/159", "keyWords": "Nombre total de carottes consomm\u00e9es apr\u00e8s le repas, nombre de carottes restantes apr\u00e8s le repas"}
+{"task_id": "HumanEval/160", "keyWords": "Op\u00e9rateurs et op\u00e9randes, op\u00e9rations alg\u00e9briques de base, liste des entiers, construction d\u2019une expression alg\u00e9brique, retour de l\u2019\u00e9valuation de cette expression"}
+{"task_id": "HumanEval/161", "keyWords": "S [i] est une lettre, la casse de la lettre est invers\u00e9e, la cha\u00eene ne contient pas de lettre, inverser la cha\u00eene"}
+{"task_id": "HumanEval/162", "keyWords": "Md5 hachage des cha\u00eenes \u00e9quivalentes"}
+{"task_id": "HumanEval/163", "keyWords": "Retourne le nombre pair entre a et b, dans l\u2019ordre croissant"}

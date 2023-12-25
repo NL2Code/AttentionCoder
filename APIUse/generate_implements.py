@@ -19,8 +19,8 @@ import json
 # gpt3.5
 openai.api_key = "sk-IwWmK4q8ldllb6lbD0B52cD1935b47589972Ac8241Dd15Fc"
 # 目前需要设置代理才可以访问 api
-os.environ["HTTP_PROXY"] = "http://localhost:7890/"
-os.environ["HTTPS_PROXY"] = "http://localhost:7890/"
+# os.environ["HTTP_PROXY"] = "http://localhost:7890/"
+# os.environ["HTTPS_PROXY"] = "http://localhost:7890/"
 
 wizard_coder_model = None
 wizard_coder_tokenizer = None
