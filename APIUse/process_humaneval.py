@@ -118,25 +118,26 @@ for code_file in tqdm(files, total=len(files)):
                 next_line = completion.index('# Example usage')
                 completion = completion[:next_line].strip()
 
-            if "return" in completion and "def" in completion and ~flag:
-                # 查找最后一个return 的后一个换行符号
-                next_line = completion.rindex('return')
-                substr = completion[next_line:]
-                try:
-                    next_line2 = substr.index('\n')
-                    # try:
-                    #     start_line = completion.index('from')
-                    # except Exception:
-                    start_line = completion.index('def')
-                    completion = completion[start_line:next_line + next_line2]
-                except ValueError:
-                    # try:
-                    #     start_line = completion.index('from')
-                    # except Exception:
-                    start_line = completion.index('def')
-                    completion = completion[start_line:]
+            # if "return" in completion and "def" in completion and ~flag:
+            #     # 查找最后一个return 的后一个换行符号
+            #     next_line = completion.rindex('return')
+            #     substr = completion[next_line:]
+            #     try:
+            #         next_line2 = substr.index('\n')
+            #         # try:
+            #         #     start_line = completion.index('from')
+            #         # except Exception:
+            #         start_line = completion.index('def')
+            #         completion = completion[start_line:next_line + next_line2]
+            #     except ValueError:
+            #         # try:
+            #         #     start_line = completion.index('from')
+            #         # except Exception:
+            #         start_line = completion.index('def')
+            #         completion = completion[start_line:]
 
-            code['completion'] = process_result(completion)
+            # code['completion'] = process_result(completion)
+            code['completion'] = completion
 
     output += codes
 
