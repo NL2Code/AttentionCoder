@@ -1,16 +1,15 @@
-# ExperimentForGPU
-用于在服务器上跑相关模型的实验
+# AttentionCoder
+Code for the paper "Improving Natural Language Capability of Code Large Language Model"
 
-### 安装包要求
-1. python：3.10
-2. pytorch: 根据cuda版本选择对应的gpu版本
+### Installation
+1. python: 3.10
+2. pytorch: Select a gpu version based on the cuda version
 3. transformers
-4. openai: GPT3.5，GPT4需要使用
-5. 剩余根据运行需要安装即可
+4. openai: GPT3.5 and GPT4 are required
+5. Install the rest as required
 
-### 使用步骤
-1. 安装human-eval，用于模型生成结果评估，参考链接https://github.com/openai/human-eval
-Make sure to use python 3.7 or later:
+### Use steps
+1.Install the human - eval, for model generation result assessment, refer to the link https://github.com/openai/human-eval, Make sure to use python 3.7 or later:
 ```
 $ conda create -n codex python=3.10
 $ conda activate codex
@@ -20,44 +19,51 @@ Check out and install this repository:
 $ git clone https://github.com/openai/human-eval
 $ pip install -e human-eval
 ```
-2. 根据实验模型的需要实现APIUse/generate_implements.py中的模型结果获取函数
-3. 在main.py中设置对应的模型名称，运行main函数
-4. 分析实验结果
-    * 过程文件都存在在results下，可以自行设置
-    * 在项目的APIUse目录下会生成一个本次实验结果的最终汇总文件 result.csv文件，主要包含每种实验的条件和最终的自动化评测结果
+2.Implement the model result acquisition function in APIUse/generate_implements.py according to the needs of the experimental model
 
-### 目录介绍 (APIUse)
-1. result：用于存储请求模型后的结果文件
-2. dataset：HumanEval拓展到其他语言上的benchmark
-3. word_extract：不同分词方法获取到的attention文件
-4. 其余目录无需关注
+3.Set the corresponding model name in main.py and run the main function
 
-### 关注的几个文件
-注：以下文件中通过sys设置了路径，需要根据代码的实际位置进行重新设置
+4.Analyze the experimental results
+* result files is under results/ and can be set in code
+* A final summary file result.csv of the experiment results will be generated in the APIUse directory of the project, which mainly contains the conditions of each experiment and the final automated evaluation results
+
+### Directory Introduction (APIUse)
+1. result: Used to store the result file after the request model
+2. dataset: HumanEval extends benchmarks to other languages
+3. word_extract: Attention files obtained by different extraction rank methods
+
+### Main files Introduction
+Note: The path is set in sys in the following file and needs to be reset according to the actual location of the code
 ```python
 import sys
-sys.path.append("/home/liwei/work/")
+sys.path.append("xxx")
 ```
-1. APIUse/generate_implements.py： 实现不同LLM获取结果的方法函数（参考已经实现的模型函数），在get_model_completion添加对应的分词，保证main.py中可以通过指定模型字符串获取
-2. APIUse/experiment_execute.py： 实验的启动类，其中定义了对不同条件的控制，如果不需要添加新的变量无需修改，下面对experiment_execute函数中涉及的变量进行说明
-    1. model_name_list： LLM模型列表，元素为模型名称的字符串，需要在generate_implaments.py中实现对应的访问函数，保证名称一致，参考gpt-3.5-turbo-0613的实现
-    2. languages： 实验涉及的自然语言列表，包括English，Chinese，French，Spanish，Japanese
-    3. word_extract_list： 分词对象列表，每个dict包含method和suffix（分词文件名后缀），无需修改
-    4. template_id_list：实验涉及的模板， int数组
-    5. result_path：结果存储路径
-    6. chat_number：对话轮数，目前只有1，2
-    7. remark：备注，作为结果文件中的一部分
-    8. wordNum：attention数量
-    9. promptId：用于控制是否为baseline，0为with_attention，1为without_attention
-3. APIUse/main.py：实验开始的主函数，这个里面需要对实验条件进行设置，然后传入experiment_execute中，从而开启实验
+1. APIUse/generate_implements.py: implements different LLM method functions to obtain results (refer to the model functions already implemented). Adds the corresponding word in get_model_completion to ensure that main.py can be obtained through the specified model string
+2. APIUse/experiment_execut.py: The start class of the experiment, which defines the control of different conditions, if no new variables need to be added without modification, the variables involved in the experiment_execute function are described below
+    1. model_name_list: LLM model list, the element is the string of the model name, need to implement the corresponding access function in generate_implaments.py, to ensure the same name, refer to the implementation of gpt-3.5-turbo-0613
+    2. languages: List of natural languages involved in the experiment, including English, Chinese, French, Spanish and Japanese
+    3. word_extract_list: Word segmentation object list. Each dict contains method and suffix. No modification is required
+    4. template_id_list: The template involved in the experiment, int array
+    5. result_path: indicates the result storage path
+    6. chat_number: indicates the number of session rounds. The current number is 1,2
+    7. remark: Remark, which is part of the result file
+    8. wordNum: Amount of attention
+    9. promptId: indicates whether the baseline value is with_attention and 1 indicates without_attention
+3. APIUse/main.py: The main function to start the experiment, which needs to set the experimental conditions, and then passed to experiment_execute, so as to start the experiment
 
-### result中的文件名说明
-1. xxx.jsonl：请求模型获取的直接结果
-2. xxx_processed.jsonl：通过分析直接结果提取到的targetCode结果集
-3. xxx_processed.jsonl_results.jsonl：运行command.txt命令得到的targetCode校验结果
-4. xxx_prompt.jsonl：请求模型时的完整prompt
+### File name rules
+1. xxx.jsonl: The direct result obtained by the request model
+2. xxx_processed.jsonl: The targetCode result set extracted by analyzing the direct result
+3. xxx_processed.jsonl_results.jsonl: targetCode verification result obtained by running the command
+4. xxx_prompt.jsonl: Complete prompt when requesting a model
 
-### 注意事项
-1. 添加模型时APIUse/generate_implements.py中必须要添加相应的函数，用于实现该模型结果的获取
-2. 可以通过多次调用experiment_execute，指定不同的result_path，来对结果进行不同文件夹的分类
-3. APIUse/command.txt：存储通过校验结果准确率的命令，在APIUse下的命令函进行调用，对模型生成结果校验
+### Tips
+1. When adding a model, the corresponding function must be added to APIUse/generate_implements.py to obtain the result of the model
+2. You can categorize the results into different folders by calling experiment_execute several times and specifying a different result_path
+3. APIUse/command.txt: Stores the command that verifies the accuracy of the result and invots it in the command function in APIUse to generate the result verification for the model, mainly for processing and evaluation,like:
+```
+python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl
+evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
+```
+
+### Reference
