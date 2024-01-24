@@ -1,6 +1,6 @@
 import sys
-# todo 需要根据APIUse在机器上的位置修改一下
-sys.path.append("/home/liwei/work/")
+# todo This needs to be modified based on the location of the APIUse on the machine
+sys.path.append("xxx")
 import time
 
 from human_eval.data import write_jsonl, read_problems
@@ -13,16 +13,12 @@ import openai
 import torch
 import json
 
-# 自己的key
-# gpt4
-# openai.api_key = "sk-81E5lJeL3ow3AB7hCf7400953bB94fF084A80b2e504f4fC7"
-# from APIUse.process_result import getCommit
-# gpt3.5
-openai.api_key = "sk-IwWmK4q8ldllb6lbD0B52cD1935b47589972Ac8241Dd15Fc"
-# 目前需要设置代理才可以访问 api
+openai.api_key = "xxxxx"
+
 # os.environ["HTTP_PROXY"] = "http://localhost:7890/"
 # os.environ["HTTPS_PROXY"] = "http://localhost:7890/"
 
+# todo Different global variables need to be created for different models
 wizard_coder_model = None
 wizard_coder_tokenizer = None
 wizard_coder_generation_config = None
@@ -114,17 +110,17 @@ def get_model(
     return tokenizer, model
 
 def code_llama_Instruct_15B_one_completion(message):
-    # todo 参考d wizardCoder_7B_generate_one_completion(message)的实现
+    # todo See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def code_llama_Instruct_15B_one_completion(message):")
 
 
 def code_llama_Instruct_7B_one_completion(message):
-    # todo 参考d wizardCoder_7B_generate_one_completion(message)的实现
+    # See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def code_llama_Instruct_7B_one_completion(message):")
 
-
+#
 def wizardCoder_15B_generate_one_completion(message):
-    # todo 参考d wizardCoder_7B_generate_one_completion(message)的实现
+    # todo See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def wizardCoder_15B_generate_one_completion(message):")
 
 
@@ -146,11 +142,11 @@ def wizardCoder_7B_generate_one_completion(message):
         )
 
     # print(f"Loaded bigcode/starcoder.")
+    prompt = message[0]["content"].replace('    ', '\t')
+    prompt_batch = [prompt]
 
-    prompt_batch = [message[0]["content"]]
 
-
-    encoding = wizard_coder_tokenizer(prompt_batch, return_tensors="pt", truncation=True, max_length=512).to(device)
+    encoding = wizard_coder_tokenizer(prompt_batch, return_tensors="pt", truncation=True, max_length=2048).to(device)
     with torch.no_grad():
         gen_tokens = wizard_coder_model.generate(
             **encoding,
@@ -163,7 +159,8 @@ def wizardCoder_7B_generate_one_completion(message):
         gen_seqs = None
 
     if gen_seqs is not None:
-        completion_seq = gen_seqs[0]
+        gen_seq = gen_seqs[0]
+        completion_seq = gen_seq.split("### Response:")[1]
         completion_seq = completion_seq.replace('\t', '    ')
         # print(completion_seq)
         return completion_seq
@@ -171,14 +168,14 @@ def wizardCoder_7B_generate_one_completion(message):
 
 
 def wizardCoder_3B_generate_one_completion(message):
-    # todo 参考d wizardCoder_7B_generate_one_completion(message)的实现
+    # todo See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def wizardCoder_3B_generate_one_completion(message):")
 
 
 def wizardCoder_1B_generate_one_completion(message):
-    # todo 参考d wizardCoder_7B_generate_one_completion(message)的实现
+    # todo See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def wizardCoder_1B_generate_one_completion(message):")
-
+#
 
 def get_model_completion(model_name):
     if model_name == "gpt-3.5-turbo-0613":
@@ -187,8 +184,8 @@ def get_model_completion(model_name):
     elif model_name == "gpt-4-0613":
         print("get gpt-4-0613 model completion")
         return gpt4_generate_one_completion
-    # 添加新的分支进行不同模型的实现
-    # 你的模型实现
+    # Add new branches for different model implementations
+    # Your model implementation
     elif model_name == "codellamaInstruct-15B":
         return code_llama_Instruct_15B_one_completion
     elif model_name == "codellamaInstruct-7B":

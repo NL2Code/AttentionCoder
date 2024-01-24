@@ -1,3 +1,5 @@
+import re
+
 from human_eval.data import read_problems, write_jsonl, stream_jsonl
 import glob
 from tqdm import tqdm
@@ -51,7 +53,13 @@ def process_result(completion):
         else:
             return completion
 
-
+def exclude_enter(completion):
+    pattern = re.compile(r'\n([^ ]+)', re.DOTALL)
+    match = pattern.search(completion)
+    if match:
+        return completion[:match.start()]
+    else:
+        return completion
 
 output = []
 a = 0
@@ -62,7 +70,13 @@ for code_file in tqdm(files, total=len(files)):
             flag = False
             task_id = code['task_id']
             # prompt = problems[task_id]['prompt']
-            completion = code['completion']
+            completion2 = code["completion2"]
+            if '```python' in completion2 or '``` python' in completion2 or '```' in completion2:
+                completion = completion2
+            else:
+                completion = code["completion1"]
+
+            # completion = code['completion']
             completion = completion.replace("\r", "")
             if '```python' in completion:
                 flag = True
@@ -118,26 +132,7 @@ for code_file in tqdm(files, total=len(files)):
                 next_line = completion.index('# Example usage')
                 completion = completion[:next_line].strip()
 
-            # if "return" in completion and "def" in completion and ~flag:
-            #     # 查找最后一个return 的后一个换行符号
-            #     next_line = completion.rindex('return')
-            #     substr = completion[next_line:]
-            #     try:
-            #         next_line2 = substr.index('\n')
-            #         # try:
-            #         #     start_line = completion.index('from')
-            #         # except Exception:
-            #         start_line = completion.index('def')
-            #         completion = completion[start_line:next_line + next_line2]
-            #     except ValueError:
-            #         # try:
-            #         #     start_line = completion.index('from')
-            #         # except Exception:
-            #         start_line = completion.index('def')
-            #         completion = completion[start_line:]
-
-            # code['completion'] = process_result(completion)
-            code['completion'] = completion
+            code['completion'] = re.split(r'\n\S', completion.strip())[0]
 
     output += codes
 

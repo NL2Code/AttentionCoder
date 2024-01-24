@@ -1,11 +1,4 @@
-'''
-  @ Date: 2023/8/29 10:07
-  @ Author: Zhao YaChen
-'''
 from human_eval.data import read_problems, write_jsonl
-from pandas import DataFrame
-
-from APIUse.rank_algrithm_compare import getLanguageAttentionByMethod
 
 prompt_chinese = read_problems("../dataSet/human-eval-v2-Chinese.jsonl")
 result_without_attention = read_problems("results/baseline/gpt-3.5-turbo-0613/gpt-3.5-turbo-0613_humanEval_Chinese__without_prefix_without_attention_baseline_processed.jsonl_results.jsonl")
@@ -65,7 +58,6 @@ for task_id in prompt_chinese:
             bad_item[method] = get_key_words(method, task_id)
             bad_item[method + "Error"] = get_completion(method, task_id)["result"]
         bad_cases.append(bad_item)
-# df = DataFrame({'序号': order, '英文生成的代码 ': chinese_code, '中文生成的代码': english_code, '英文Prompt': english_prompt, '中文Prompt': chinese_prompt, 'test': test})
 # df.to_excel('english_solve_problems.xlsx', index=False)
 write_jsonl(case_path + "good_cases_" + model_name + "_humanEval_Chinese_without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl", good_cases)
 write_jsonl(case_path + "bad_cases_" + model_name + "_humanEval_Chinese_without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl", bad_cases)

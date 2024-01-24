@@ -41,7 +41,7 @@ sys.path.append("/home/liwei/work/")
 1. APIUse/generate_implements.py： 实现不同LLM获取结果的方法函数（参考已经实现的模型函数），在get_model_completion添加对应的分词，保证main.py中可以通过指定模型字符串获取
 2. APIUse/experiment_execute.py： 实验的启动类，其中定义了对不同条件的控制，如果不需要添加新的变量无需修改，下面对experiment_execute函数中涉及的变量进行说明
     1. model_name_list： LLM模型列表，元素为模型名称的字符串，需要在generate_implaments.py中实现对应的访问函数，保证名称一致，参考gpt-3.5-turbo-0613的实现
-    2. languages： 实验涉及的自然语言列表，包括English，Chinese，French，Russian，German，Spanish，Japanese
+    2. languages： 实验涉及的自然语言列表，包括English，Chinese，French，Spanish，Japanese
     3. word_extract_list： 分词对象列表，每个dict包含method和suffix（分词文件名后缀），无需修改
     4. template_id_list：实验涉及的模板， int数组
     5. result_path：结果存储路径

@@ -1,3 +1,4 @@
+import ast
 import csv
 import re
 import threading
@@ -5,11 +6,11 @@ import threading
 from human_eval.data import read_problems
 
 
-# 创建线程锁
+# Create thread lock
 file_lock = threading.Lock()
 csv_lock = threading.Lock()
 
-# 分词文件夹
+# Word segmentation folder
 words_extract_path = "words_extract/"
 
 
@@ -22,16 +23,12 @@ def language2problemDataset(langauge):
         return read_problems("../dataSet/human-eval-v2-Japanese.jsonl")
     elif langauge == "French":
         return read_problems("../dataSet/human-eval-v2-French.jsonl")
-    elif langauge == "German":
-        return read_problems("../dataSet/human-eval-v2-German.jsonl")
     elif langauge == "Spanish":
         return read_problems("../dataSet/human-eval-v2-Spanish.jsonl")
-    elif langauge == "Russian":
-        return read_problems("../dataSet/human-eval-v2-Russian.jsonl")
     else:
        raise Exception("该语言类型不存在")
 
-# 获取对应语言、对应方法得到的key words
+# Get the key words obtained by the corresponding language and method
 def getLanguageAttentionByMethod(language, method, words_extract_suffix):
     return read_problems(words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_" + method + words_extract_suffix + ".jsonl")
 
@@ -61,7 +58,7 @@ def keyWOrds4OrderPrompt(attachment):
     return "\n".join(result)
 
 
-# 写入文件的函数：支持多线程
+# Write to file function: Support multithreading
 def write_to_file(file_name, content):
     global file_lock
     with file_lock:
@@ -70,22 +67,20 @@ def write_to_file(file_name, content):
 
 
 def get_pass1(result):
-    # 定义正则表达式模式
+    # Define regular expression patterns
     pattern = r"{'pass@1':\s*([0-9.]+)}"
-
-    # 进行匹配
     match = re.search(pattern, result)
 
-    # 提取匹配结果
+    # Extract matching results
     if match:
-        matched_text = match.group(0)  # 获取整个匹配的字符串
-        value = match.group(1)  # 获取括号内匹配的部分
+        matched_text = match.group(0)
+        value = match.group(1)
         return value
     else:
         return result
 
 
-# 写入CSV文件的函数
+# A function to write to a CSV file
 def write_to_csv(file_name, data):
     global csv_lock
     with csv_lock:
@@ -95,10 +90,39 @@ def write_to_csv(file_name, data):
 
 
 def condition_factory(condition_list, model_name_list, languages, word_extract_list, template_id_list, result_path, chat_number=1, remark="", wordNum=100, promptId=0):
-    # 将所有的条件转化为元组列表，每一个元组列表代表需要跑的一个实验参数
+    # Convert all conditions into a list of tuples, with each tuple list representing an experiment parameter that needs to be run
     for model_name in model_name_list:
         for language in languages:
             for word_extract in word_extract_list:
                 for template_id in template_id_list:
                     condition_list.append((model_name, language, word_extract, template_id, result_path, chat_number,
                                            remark, wordNum, promptId))
+
+def remove_duplicates(lst):
+    seen = set()
+    result = []
+    for item in lst:
+        if item not in seen:
+            seen.add(item)
+            result.append(item)
+    return result
+
+
+def extract_function_calls(code):
+    tree = ast.parse(code)
+
+    function_calls = []
+
+    for node in ast.walk(tree):
+        if isinstance(node, ast.FunctionDef):
+            function_calls.append(node.name)
+        if isinstance(node, ast.Call):
+            if isinstance(node.func, ast.Name):
+                function_name = node.func.id
+                function_calls.append(function_name)
+
+            elif isinstance(node.func, ast.Attribute):
+                function_name = node.func.attr
+                function_calls.append(function_name)
+    function_calls = remove_duplicates(function_calls)
+    return ". ".join(function_calls)
