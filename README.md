@@ -1,5 +1,5 @@
 # AttentionCoder
-Code for the paper "Improving Natural Language Capability of Code Large Language Model"
+Code for the paper "[Improving Natural Language Capability of Code Large Language Model](https://arxiv.org/pdf/2401.14242.pdf)"
 
 ### Installation
 1. python: 3.10
