@@ -1,8 +1,8 @@
 from human_eval.data import read_problems, write_jsonl
 
 prompt_chinese = read_problems("../dataSet/human-eval-v2-Chinese.jsonl")
-result_without_attention = read_problems("results/baseline/gpt-3.5-turbo-0613/gpt-3.5-turbo-0613_humanEval_Chinese__without_prefix_without_attention_baseline_processed.jsonl_results.jsonl")
-
+result_without_attention = read_problems(
+    "results/baseline/gpt-3.5-turbo-0613/gpt-3.5-turbo-0613_humanEval_Chinese__without_prefix_without_attention_baseline_processed.jsonl_results.jsonl")
 
 model_name = "gpt-3.5-turbo-0613"
 result_path = "results/methods_compare/gpt-3.5-turbo-0613/"
@@ -16,19 +16,25 @@ method_suffix = "_9_NP_VP"
 
 
 def is_Pass(method, task_id):
-    result_with_attention = read_problems(result_path + model_name + "_humanEval_Chinese_" + method + "__without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl")
+    result_with_attention = read_problems(
+        result_path + model_name + "_humanEval_Chinese_" + method + "__without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl")
     if result_with_attention[task_id]["passed"] is True:
         return True
     else:
         return False
 
+
 def get_completion(method, task_id):
-    result = read_problems(result_path + model_name + "_humanEval_Chinese_" + method + "__without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl")
+    result = read_problems(
+        result_path + model_name + "_humanEval_Chinese_" + method + "__without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl")
     return result[task_id]
 
+
 def get_key_words(method, task_id):
-    result = read_problems(word_extract_path + "result_humaneval_chinese_keywords_by_" + method + method_suffix + ".jsonl")
+    result = read_problems(
+        word_extract_path + "result_humaneval_chinese_keywords_by_" + method + method_suffix + ".jsonl")
     return result[task_id]["keyWords"]
+
 
 for task_id in prompt_chinese:
     success_method = []
@@ -59,5 +65,9 @@ for task_id in prompt_chinese:
             bad_item[method + "Error"] = get_completion(method, task_id)["result"]
         bad_cases.append(bad_item)
 # df.to_excel('english_solve_problems.xlsx', index=False)
-write_jsonl(case_path + "good_cases_" + model_name + "_humanEval_Chinese_without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl", good_cases)
-write_jsonl(case_path + "bad_cases_" + model_name + "_humanEval_Chinese_without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl", bad_cases)
+write_jsonl(
+    case_path + "good_cases_" + model_name + "_humanEval_Chinese_without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl",
+    good_cases)
+write_jsonl(
+    case_path + "bad_cases_" + model_name + "_humanEval_Chinese_without_prefix_with_attention_" + suffix + "_processed.jsonl_results.jsonl",
+    bad_cases)

@@ -1,8 +1,9 @@
 import sys
 
 from APIUse.utils import condition_factory
+
 # todo This needs to be modified based on the location of the APIUse on the machine
-sys.path.append("/home/liwei/work/")
+sys.path.append("/xxx")
 import os
 
 os.environ['CURL_CA_BUNDLE'] = ''
@@ -14,7 +15,7 @@ if __name__ == '__main__':
     # Extraction method
     extract_methods = ["textRank", "singleRank", "topicRank", "multiPartiteRank", "positionRank"]
     # Natural language type
-    languages = ["English", "Chinese", "Japanese", "French",  "Spanish"]
+    languages = ["English", "Chinese", "Japanese", "French", "Spanish"]
     # Template
     template = [0, 1, 2]
     # chat number: one-chat two-chat
@@ -69,5 +70,3 @@ if __name__ == '__main__':
         print(item)
 
     experiment_execute(condition_list, max_workers)
-
-

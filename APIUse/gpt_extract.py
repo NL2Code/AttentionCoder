@@ -15,6 +15,7 @@ def get_gpt_extract_result(comment):
     print(result)
     return result
 
+
 def extract_words_by_gpt():
     languages = ["Japanese", "Spanish", "French"]
     for language in languages:
@@ -25,6 +26,8 @@ def extract_words_by_gpt():
             for _ in range(1)
         ]
         write_jsonl("words_extract/result_humaneval_" + language.lower() + "_keywords_by_gpt", samples)
+
+
 def get_key_words(text):
     text = text + "\n"
     pattern = r'[-]\s?(.*)\n'  # Regular expression pattern that matches the content between "-" (optional) and "("
@@ -39,6 +42,7 @@ def get_key_words(text):
     ret = re.sub(r'\([^,]*\)', '', ret)
     print(ret)
     return ret
+
 
 if __name__ == '__main__':
     # process

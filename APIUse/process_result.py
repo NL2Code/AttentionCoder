@@ -1,4 +1,5 @@
 import sys
+
 # todo This needs to be modified based on the location of the APIUse on the machine
 sys.path.append("/home/daoguang/work/")
 from human_eval.data import read_problems, write_jsonl
@@ -40,4 +41,3 @@ def getCommit(prompt):
     processedPrompt = prompt[index + 3:end]
     # print(processedPrompt)
     return processedPrompt, index + 3, end
-

@@ -46,12 +46,13 @@ def process_result(completion):
     else:
         if "\n" in completion:
             index = completion.index("\n")
-            if completion[index+1: index+5] == "    ":
+            if completion[index + 1: index + 5] == "    ":
                 return completion
             else:
                 return completion.replace("\n", "\n    ")
         else:
             return completion
+
 
 def exclude_enter(completion):
     pattern = re.compile(r'\n([^ ]+)', re.DOTALL)
@@ -60,6 +61,7 @@ def exclude_enter(completion):
         return completion[:match.start()]
     else:
         return completion
+
 
 output = []
 a = 0

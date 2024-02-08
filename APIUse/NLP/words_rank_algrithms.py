@@ -1,4 +1,4 @@
-#coding=utf-8
+# coding=utf-8
 import spacy
 
 import pke
@@ -15,6 +15,8 @@ stopwords = []
 
 words_extract_path = "../words_extract/"
 pos = {"NOUN", "ADJ", "ADV", "PROPN", "VERB", "DET", "PART", "PRON", "NUM", "ADP", "CONJ"}
+
+
 # pos = {"NOUN", "PROPN", "VERB"}
 
 
@@ -29,6 +31,7 @@ def deduplicates_filter(input_list):
     for word in deduplicated_list:
         result.append(word)
     return result
+
 
 def language2symbol(language):
     if language == "English":
@@ -48,6 +51,7 @@ def language2symbol(language):
     else:
         return ""
 
+
 def language2problemDataset(langauge):
     if langauge == "Chinese":
         return read_problems("../../dataSet/human-eval-v2-Chinese.jsonl")
@@ -64,12 +68,13 @@ def language2problemDataset(langauge):
     elif langauge == "Russian":
         return read_problems("../../dataSet/human-eval-v2-Russian.jsonl")
     else:
-       raise Exception("Unrecognized language: " + language)
+        raise Exception("Unrecognized language: " + language)
 
 
 def TextRank(text, language, condition, nlp2):
     print(1)
-    extractorTextRank.load_document(input=text, language=language2symbol(language), normalization='none', stoplist=stopwords, spacy_model=nlp2)
+    extractorTextRank.load_document(input=text, language=language2symbol(language), normalization='none',
+                                    stoplist=stopwords, spacy_model=nlp2)
     extractorTextRank.candidate_selection(pos=pos)
     extractorTextRank.candidate_weighting(pos=pos)
 
@@ -87,9 +92,10 @@ def TextRank(text, language, condition, nlp2):
     print(", ".join(res))
     return ", ".join(res)
 
-def PositionRank(text, language, condition, nlp2):
 
-    extractorPositionRank.load_document(input=text, language=language2symbol(language), normalization='none', stoplist=stopwords, spacy_model=nlp2)
+def PositionRank(text, language, condition, nlp2):
+    extractorPositionRank.load_document(input=text, language=language2symbol(language), normalization='none',
+                                        stoplist=stopwords, spacy_model=nlp2)
     extractorPositionRank.candidate_selection(condition)
     extractorPositionRank.grammar_selection(condition)
     extractorPositionRank.candidate_weighting(pos=pos)
@@ -106,9 +112,10 @@ def PositionRank(text, language, condition, nlp2):
     print(", ".join(res))
     return ", ".join(res)
 
-def SingleRank(text, language, condition, nlp2):
 
-    extractorSingleRank.load_document(input=text, language=language2symbol(language), normalization='none', stoplist=stopwords, spacy_model=nlp2)
+def SingleRank(text, language, condition, nlp2):
+    extractorSingleRank.load_document(input=text, language=language2symbol(language), normalization='none',
+                                      stoplist=stopwords, spacy_model=nlp2)
     extractorSingleRank.candidate_selection(pos=pos)
     extractorSingleRank.grammar_selection(condition)
     extractorSingleRank.candidate_weighting(pos=pos)
@@ -124,9 +131,10 @@ def SingleRank(text, language, condition, nlp2):
     print(", ".join(res))
     return ", ".join(res)
 
-def TopicRank(text, language, condition, nlp2):
 
-    extractorTopicRank.load_document(input=text, language=language2symbol(language), normalization='none', stoplist=stopwords, spacy_model=nlp2)
+def TopicRank(text, language, condition, nlp2):
+    extractorTopicRank.load_document(input=text, language=language2symbol(language), normalization='none',
+                                     stoplist=stopwords, spacy_model=nlp2)
     extractorTopicRank.candidate_selection(pos=pos)
     extractorTopicRank.grammar_selection(condition)
     extractorTopicRank.candidate_weighting()
@@ -142,8 +150,10 @@ def TopicRank(text, language, condition, nlp2):
     print(", ".join(res))
     return ", ".join(res)
 
+
 def MultipartiteRank(text, language, condition, nlp2):
-    extractorMultipartiteRank.load_document(input=text, language=language2symbol(language), stoplist=stopwords, normalization='none', spacy_model=nlp2)
+    extractorMultipartiteRank.load_document(input=text, language=language2symbol(language), stoplist=stopwords,
+                                            normalization='none', spacy_model=nlp2)
     extractorMultipartiteRank.candidate_selection(pos=pos)
     extractorMultipartiteRank.grammar_selection(condition)
     extractorMultipartiteRank.candidate_weighting()
@@ -176,16 +186,14 @@ def language2Model(language):
         return ""
 
 
-
-
 if __name__ == '__main__':
 
     # Example
-    text = "John buys twice as many red ties as blue ties.  The red ties cost 50% more than blue ties.  He spent $200 on blue ties that cost $40 each. How much did he spend on ties?"
+    text = ""
     language = "English"
     nlp = spacy.load(language2Model(language))
     TextRank(text, "English", "NNP: {<ADJ|DET>*<NOUN|PRON>+}\n" \
-            "NP: {<NUM><NNP>*<ADP>*<NNP>*}\n", nlp)
+                              "NP: {<NUM><NNP>*<ADP>*<NNP>*}\n", nlp)
 
     # Extractor
     languages = ["English"]
@@ -197,11 +205,11 @@ if __name__ == '__main__':
         dataset = language2problemDataset(language)
         conditions = {
             "VP": "NNP: {(((<NOUN|PROPN|ADJ|DET|NUM><PART>?)|((<VERB><ADV|NUM|ADP|DET|CONJ>*)+<PART>))+<NOUN|PROPN>+) | <NOUN|PROPN><NOUN|PROPN>+ }\n" \
-        "NP: {<PRON>*(<ADV>*<VERB>)+<NOUN|PROPN|NNP>}\n" ,
-            "NP": "NP: {(((<NOUN|PROPN|ADJ|DET|NUM><PART>?)|((<VERB><ADV|NUM|ADP|DET|CONJ>*)+<PART>))+<NOUN|PROPN>+) | <NOUN|PROPN><NOUN|PROPN>+ }\n" ,
+                  "NP: {<PRON>*(<ADV>*<VERB>)+<NOUN|PROPN|NNP>}\n",
+            "NP": "NP: {(((<NOUN|PROPN|ADJ|DET|NUM><PART>?)|((<VERB><ADV|NUM|ADP|DET|CONJ>*)+<PART>))+<NOUN|PROPN>+) | <NOUN|PROPN><NOUN|PROPN>+ }\n",
             "NP_VP": "NNP: {(((<NOUN|PROPN|ADJ|DET|NUM><PART>?)|((<VERB><ADV|NUM|ADP|DET|CONJ>*)+<PART>))+<NOUN|PROPN>+) | <NOUN|PROPN><NOUN|PROPN>+ }\n" \
-        "VP: {<PRON>*(<ADV>*<VERB>)+<NOUN|PROPN|NNP>}\n" \
-        "NP: {<NNP>|<VP>}"
+                     "VP: {<PRON>*(<ADV>*<VERB>)+<NOUN|PROPN|NNP>}\n" \
+                     "NP: {<NNP>|<VP>}"
         }
         for key, condition in conditions.items():
             textRank = []
@@ -222,9 +230,20 @@ if __name__ == '__main__':
                 singleRank.append(dict(task_id=task_id, keyWords=SingleRank(text, language, condition, nlp)))
                 positionRank.append(dict(task_id=task_id, keyWords=PositionRank(text, language, condition, nlp)))
                 topicRank.append(dict(task_id=task_id, keyWords=TopicRank(text, language, condition, nlp)))
-                multiPartiteRank.append(dict(task_id=task_id, keyWords=MultipartiteRank(text, language, condition, nlp)))
-            write_jsonl(words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_textRank_15_" + key + ".jsonl", textRank)
-            write_jsonl(words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_singleRank_9_" + key + ".jsonl", singleRank)
-            write_jsonl(words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_positionRank_9_" + key + ".jsonl", positionRank)
-            write_jsonl(words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_topicRank_9_" + key + ".jsonl", topicRank)
-            write_jsonl(words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_multiPartiteRank_9_" + key + ".jsonl", multiPartiteRank)
+                multiPartiteRank.append(
+                    dict(task_id=task_id, keyWords=MultipartiteRank(text, language, condition, nlp)))
+            write_jsonl(
+                words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_textRank_15_" + key + ".jsonl",
+                textRank)
+            write_jsonl(
+                words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_singleRank_9_" + key + ".jsonl",
+                singleRank)
+            write_jsonl(
+                words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_positionRank_9_" + key + ".jsonl",
+                positionRank)
+            write_jsonl(
+                words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_topicRank_9_" + key + ".jsonl",
+                topicRank)
+            write_jsonl(
+                words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_multiPartiteRank_9_" + key + ".jsonl",
+                multiPartiteRank)

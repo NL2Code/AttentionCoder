@@ -5,7 +5,6 @@ import threading
 
 from human_eval.data import read_problems
 
-
 # Create thread lock
 file_lock = threading.Lock()
 csv_lock = threading.Lock()
@@ -26,11 +25,13 @@ def language2problemDataset(langauge):
     elif langauge == "Spanish":
         return read_problems("../dataSet/human-eval-v2-Spanish.jsonl")
     else:
-       raise Exception("该语言类型不存在")
+        raise Exception("该语言类型不存在")
+
 
 # Get the key words obtained by the corresponding language and method
 def getLanguageAttentionByMethod(language, method, words_extract_suffix):
-    return read_problems(words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_" + method + words_extract_suffix + ".jsonl")
+    return read_problems(
+        words_extract_path + "result_humaneval_" + language.lower() + "_keywords_by_" + method + words_extract_suffix + ".jsonl")
 
 
 def wordSelect(attention, num):
@@ -39,12 +40,14 @@ def wordSelect(attention, num):
         return ", ".join(keyWords[:num])
     return attention
 
+
 def spaceDelete(words):
     words2 = words.split(",")
     result = []
     for word in words2:
         result.append(word.replace(" ", ""))
     return ", ".join(result)
+
 
 def create_message(prompt):
     return [{"role": "user", "content": prompt}]
@@ -53,7 +56,7 @@ def create_message(prompt):
 def keyWOrds4OrderPrompt(attachment):
     key_words = attachment.split(", ")
     result = []
-    for index , keyWord in enumerate(key_words):
+    for index, keyWord in enumerate(key_words):
         result.append(str(index + 1) + ". " + keyWord)
     return "\n".join(result)
 
@@ -89,7 +92,8 @@ def write_to_csv(file_name, data):
             writer.writerow(data)
 
 
-def condition_factory(condition_list, model_name_list, languages, word_extract_list, template_id_list, result_path, chat_number=1, remark="", wordNum=100, promptId=0):
+def condition_factory(condition_list, model_name_list, languages, word_extract_list, template_id_list, result_path,
+                      chat_number=1, remark="", wordNum=100, promptId=0):
     # Convert all conditions into a list of tuples, with each tuple list representing an experiment parameter that needs to be run
     for model_name in model_name_list:
         for language in languages:
@@ -97,6 +101,7 @@ def condition_factory(condition_list, model_name_list, languages, word_extract_l
                 for template_id in template_id_list:
                     condition_list.append((model_name, language, word_extract, template_id, result_path, chat_number,
                                            remark, wordNum, promptId))
+
 
 def remove_duplicates(lst):
     seen = set()

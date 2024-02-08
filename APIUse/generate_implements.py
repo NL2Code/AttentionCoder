@@ -1,4 +1,5 @@
 import sys
+
 # todo This needs to be modified based on the location of the APIUse on the machine
 sys.path.append("xxx")
 import time
@@ -36,6 +37,7 @@ try:
 except:
     pass
 
+
 def gpt3_5_generate_one_completion(message):
     # return "test"
     while (True):
@@ -55,6 +57,7 @@ def gpt3_5_generate_one_completion(message):
             print("retrying...")
             continue
 
+
 def gpt4_generate_one_completion(message):
     # return "test"
     while (True):
@@ -73,6 +76,7 @@ def gpt4_generate_one_completion(message):
             print(e)
             print("retrying...")
             continue
+
 
 def get_model(
         load_8bit: bool = False,
@@ -109,6 +113,7 @@ def get_model(
 
     return tokenizer, model
 
+
 def code_llama_Instruct_15B_one_completion(message):
     # todo See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def code_llama_Instruct_15B_one_completion(message):")
@@ -117,6 +122,7 @@ def code_llama_Instruct_15B_one_completion(message):
 def code_llama_Instruct_7B_one_completion(message):
     # See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def code_llama_Instruct_7B_one_completion(message):")
+
 
 #
 def wizardCoder_15B_generate_one_completion(message):
@@ -130,7 +136,7 @@ def wizardCoder_7B_generate_one_completion(message):
     global wizard_coder_tokenizer
     global wizard_coder_generation_config
     if wizard_coder_model == None:
-        wizard_coder_tokenizer, wizard_coder_model = get_model(base_model='/home/liwei/wizardCoder7B')
+        wizard_coder_tokenizer, wizard_coder_model = get_model(base_model='/xxx/wizardCoder7B')
         wizard_coder_generation_config = GenerationConfig(
             pad_token_id=wizard_coder_tokenizer.pad_token_id,
             do_sample=False,
@@ -144,7 +150,6 @@ def wizardCoder_7B_generate_one_completion(message):
     # print(f"Loaded bigcode/starcoder.")
     prompt = message[0]["content"].replace('    ', '\t')
     prompt_batch = [prompt]
-
 
     encoding = wizard_coder_tokenizer(prompt_batch, return_tensors="pt", truncation=True, max_length=2048).to(device)
     with torch.no_grad():
@@ -175,6 +180,8 @@ def wizardCoder_3B_generate_one_completion(message):
 def wizardCoder_1B_generate_one_completion(message):
     # todo See wizardCoder_7B_generate_one_completion(message) for the implementation
     print("def wizardCoder_1B_generate_one_completion(message):")
+
+
 #
 
 def get_model_completion(model_name):
@@ -201,4 +208,3 @@ def get_model_completion(model_name):
     else:
         print("do not find the required model completion")
         return None
-
