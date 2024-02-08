@@ -1,6 +1,4 @@
 # AttentionCoder
-Code for the paper "[Improving Natural Language Capability of Code Large Language Model](https://arxiv.org/pdf/2401.14242.pdf)"
-
 ### Installation
 1. python: 3.10
 2. pytorch: Select a gpu version based on the cuda version
@@ -64,16 +62,4 @@ sys.path.append("xxx")
 ```
 python process_humaneval.py --path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2.jsonl --out_path=results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl
 evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chinese_text_rank__9_NP_VP_template2_processed.jsonl --problem_file=../dataSet/human-eval-v2-Chinese.jsonl
-```
-
-### Reference
-```
-@misc{li2024attentioncoder,
-      title={Improving Natural Language Capability of Code Large Language Model}, 
-      author={Wei Li and Daoguang Zan and Bei Guan and Ailun Yu and Xiaolin Chen and Yongji Wang},
-      year={2024},
-      eprint={2401.14242},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
 ```
