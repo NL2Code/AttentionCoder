@@ -1,5 +1,5 @@
 # AttentionCoder
-Code for the paper "Improving Natural Language Capability of Code Large Language Model"
+Code for the paper "[Improving Natural Language Capability of Code Large Language Model](https://arxiv.org/pdf/2401.14242.pdf)"
 
 ### Installation
 1. python: 3.10
@@ -67,3 +67,13 @@ evaluate_functional_correctness results/test/gpt-3.5-turbo-0613_humanEval_Chines
 ```
 
 ### Reference
+```
+@misc{li2024attentioncoder,
+      title={Improving Natural Language Capability of Code Large Language Model}, 
+      author={Wei Li and Daoguang Zan and Bei Guan and Ailun Yu and Xiaolin Chen and Yongji Wang},
+      year={2024},
+      eprint={2401.14242},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
