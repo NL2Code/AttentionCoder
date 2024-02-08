@@ -1,7 +1,7 @@
 import sys
 
 # todo This needs to be modified based on the location of the APIUse on the machine
-sys.path.append("/home/daoguang/work/")
+sys.path.append("/xxx")
 from human_eval.data import read_problems, write_jsonl
 from pandas import DataFrame
 
